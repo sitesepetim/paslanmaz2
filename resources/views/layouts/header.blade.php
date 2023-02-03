@@ -51,13 +51,33 @@
                                             <li><a href="{{route('202')}}">202 Kalite Paslanmaz Çelik</a></li>
                                             <li><a href="{{route('303')}}">303 (1.4305) Kalite Paslanmaz Çelik </a></li>
                                             <li><a href="{{route('304')}}">304 (1.4301) Kalite Paslanmaz Çelik  </a></li>
-                                            <li><a href="manufacturing.html">304 DDQ Paslanmaz Çelik</a></li>
-                                            <li><a href="fabrication.html">309 Paslanmaz Çelik</a></li>
-                                            <li><a href="aluminum-system.html">309S Paslanmaz Çelik</a></li>
+
                                         </ul>
                                     </li>
-                                    <li class="dropdown {{request()->is('urunler') ? "current":""}}"><a href="{{route('urunler')}}">Ürünler</a></li>
-                                    <li class="dropdown {{request()->is('desenler') ? "current":""}}"><a href="{{route('desenler')}}">Desenler</a></li>
+                                    <li  class="dropdown {{request()->is('urunler') ? "current":""}}"><a href="{{route('urunler')}}">Ürünler</a>
+                                        <ul>
+                                            <li><a href="{{route('kesme')}}">Ürünlerimiz</a></li>
+
+                                            <li  class="dropdown {{request()->is('desenler') ? "current":""}}"><a href="{{route('desenler')}}">Desenlerimiz</a>
+                                                <ul>
+                                                    <li><a href="{{route('kesme')}}">Dekoratif Desenler</a></li>
+                                                    <li><a href="{{route('kesme')}}">Endüstriyel Desenler Desenler</a></li>
+
+
+                                                </ul>
+                                            </li>
+
+                                        </ul>
+                                    </li>
+                                    <li  class="dropdown {{request()->is('hizmet*') ? "current":""}}"><a href="{{route('hizmetlerimiz')}}">Hizmetlerimiz</a>
+                                        <ul>
+                                            <li><a href="{{route('kesme')}}">Paslanmaz Çelik Boy Kesme</a></li>
+                                            <li><a href="{{route('taslama')}}">Paslanmaz Çelik Taşlama</a></li>
+                                            <li><a href="{{route('dilme')}}">Paslanmaz Çelik Dilme</a></li>
+                                            <li><a href="{{route('lazer')}}">Paslanmaz Çelik Lazer Kesim </a></li>
+
+                                        </ul>
+                                    </li>
                                     <li class="dropdown {{request()->is('fiyat-listesi') ? "current":""}}"><a href="{{route('fiyat_listesi')}}">Fiyat Listesi</a></li>
                                     <li class="dropdown {{request()->is('blog') ? "current":""}}"><a href="{{route('blog')}}">Blog</a>
 

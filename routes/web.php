@@ -25,6 +25,30 @@ Route::get('/iletisim', function () {
     return view('page.iletisim');
 })->name('iletisim');
 
+
+Route::get('/hizmetlerimiz', function () {
+    return view('page.hizmetlerimiz');
+})->name('hizmetlerimiz');
+
+
+Route::get('/hizmet/paslanmaz-celik-boy-kesme', function () {
+    return view('page.hizmetler.paslanmaz-celik-boy-kesme');
+})->name('kesme');
+
+
+Route::get('/hizmet/paslanmaz-celik-taslama', function () {
+    return view('page.hizmetler.taslama');
+})->name('taslama');
+
+Route::get('/hizmet/paslanmaz-celik-dilme', function () {
+    return view('page.hizmetler.dilme');
+})->name('dilme');
+
+Route::get('/hizmet/paslanmaz-celik-lazer-kesim', function () {
+    return view('page.hizmetler.lazer');
+})->name('lazer');
+
+
 Route::get('/kaliteler', function () {
     return view('page.kalite');
 })->name('kaliteler');
