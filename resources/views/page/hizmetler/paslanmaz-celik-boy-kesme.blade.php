@@ -26,39 +26,37 @@
               @include('page.hizmetler.sidebar')
                 <div class="col-lg-8">
                     <h2>PASLANMAZ ÇELİK BOY KESME</h2>
-                    <div class="image mb-40"><img src="{{asset('assets/images/resource/PASLANMAZ ÇELİK.jpg')}}" alt="PASLANMAZ ÇELİK"></div>
+                    <div class="image mb-40"><img src="{{asset('assets/images/resource/PASLANMAZ ÇELİK BOY KESME.jpeg')}}" alt="PASLANMAZ ÇELİK BOY KESME"></div>
 
-                    <div class="text">Paslanmaz çelik; demir ve karbon alaşımı olmasına karsın, bileşiminde karbondan başka minimal
-                        %10,5 krom elementi içermektedir.  Krom elementi  çeliği paslanmaya karşı koruyan temel bileşendir. Paslanmaz
-                        çeliğin içindeki  erimiş kromun varlığı iyi analiz edilmelidir. Doğru yerlerde doğru amaçlarla kullanılması
-                        gerekmektedir. Diğer türlü elinizde bulunan bir üründen herhangi bir fayda sağlayamazsınız. Bu nedenle
-                        mühendisler paslanmaz çelik üretimi öncesi, kullanma şekli göz önünde tutularak  tasarlamalar yapmalıdır.
-                        Kullanım yerleri ve paslanmaz çelik malzemenin içindeki krom oranı veya ayrı bileşiklerin varlığına göre
-                        paslanmaz çelikler belli gruplara ayrılmışlardır. Temel paslanmaz çelik alaşımlarında ağırlığa göre minimum
-                        %10.5 krom bulunur). Paslanmaz çelikteki krom elementi Oksijenle teması halinde yüzeyinde malzemeyi korozyondan
-                        koruyan çok ince krom-oksit tabakası oluşturur. Ayrıca, bu katman yırtıldığında, açıldığında veya herhangi bir
-                        nedenle çizilmesi halinde atman tekrar kendini yeniler ve açığı kapatır. Bu görüngüye pasivasyon adı verilir ve
-                        titanyum gibi bir kısım diğer metallerde de görülür. Toplamda 150 'nin üzerinde paslanmaz çelik kalitesi  vardır
-                        ve bunlardan 15’i birçok sektörde kendine yer bulmaktadır. Paslanmaz çelikler boru ve yassı ürün şekillerinde
-                        üretilebilirler. Bu şekilde birçok gıda sektöründe,  otomotiv, beyaz eşya,  inşaat, yapısal uygulamalarda,
-                        tıbbi aletlerde kendine yer bulmaktadır.  Başlıca paslanmaz çelik türleri beş ana grupta toplanır. Çeliğe nikel
-                        ilave edilmesi halinde,  manyetik olmayan bu tip çelikler, soğuk şekil verme sırasında daha az kırılgan hale getirir.
-                        Bu gruplar 5 ana gruba ayrılır;
+                    <div class="text">Paslanmaz çelik boy kesme, paslanmaz çelik malzemelerin belirli boyutlarda kesilmesi
+                        için yapılan bir işlemdir. Bunun için farklı teknikler ve ekipmanlar kullanılabilir.
                         <br>
                         <br>
+                        <h3>PASLANMAZ ÇELİK KULLANIM ALANLARI</h3>
                         <ul class="list">
-                            <li>1.	Östenitik Paslanmaz Çelikler</li>
-                            <li>2.	Ferritik Paslanmaz Çelikler</li>
-                            <li>3.	Martensitik Paslanmaz Çelikler</li>
-                            <li>4.	Dubleks Paslanmaz Çellikler</li>
-                            <li>5.	Çökelmeyle Sertleştirilebilen Paslanmaz Çelikler</li>
+                            <li><strong>Scrap Çizme:</strong> Paslanmaz çelik malzeme, sert bir çizme aracı yardımıyla kesilebilir.
+                                Bu teknik manuel olarak yapılabilir veya büyük çizme makinaları kullanılabilir.</li>
+                            <li><strong>Guillotine Kesme: </strong>Bu teknikte, paslanmaz çelik malzeme bir guillotine makinası
+                                aracılığıyla kesilir. Guillotine makinaları hızlı ve hassas bir şekilde kesim yapabilir.</li>
+                            <li><strong>Lazer Kesme:</strong> Lazer kesme, paslanmaz çelik malzemelerin hassas kesimler yapılmasını sağlar.
+                                Lazer teknolojisi sayesinde, lazer kesme makinaları paslanmaz çelik malzemeleri çok ince kesimler yapabilir.</li>
+                            <li><strong>Plazma Kesme:</strong> Plazma kesme, paslanmaz çelik malzemeleri hızlı ve hassas bir şekilde kesmenin bir yoludur.
+                                Plazma kesme makinaları, çok büyük veya çok kalın paslanmaz çelik malzemeleri kesebilir.</li>
+
                         </ul>
                     </div>
-                    <h3>PASLANMAZ ÇELİK KULLANIM ALANLARI</h3>
-                    <div class="text">Tüm paslanmaz çelikler arasında en yaygın kullanılan 304 kalite paslanmaz çelik fark etmesek bile
-                        neredeyse her noktada yer alır.  Kimyasal ürünler elde etmede, petrokimya, tencere ve ev aletleri, çatal ve bıçak
-                        takımları, düdüklü tencereler, pişirme kapları, endüstriyel mutfak sektöründe, İlaç ve tıp endüstrisinde kullanılmaktadır.
-                        Ayrıca lavabolar, gıda ve içecek sanayi gibi pek çok sektörün yanı sıra evye yapımında yaygınlıkla da tercih edilmektedir.</div>
+                    <h3>PASLANMAZ ÇELİK BOYUTLANDIRMA</h3>
+                    <div class="text">Paslanmaz çelik boy kesme işlemi için farklı teknikler ve ekipmanlar kullanılabilir ve hangi teknik ve ekipman kullanılacağı, malzemenin boyutları, kesim şekli ve hassasiyetine bağlı olarak belirlenebilir.
+                        <br>
+                        <br>
+                        Ayrıca, paslanmaz çelik boy kesme işlemi sonucunda, kesilen malzemelerin kalitesi de önemlidir. İyi bir kesim işlemi, kesilen parçaların düzgün ve pürüzsüz olmasını, kenarlarının net olmasını ve kesilen parçaların uygun bir şekilde yapışmasını sağlar.
+                        <br>
+                        <br>
+                        Paslanmaz çelik boy kesme işlemi sırasında, güvenliğin de önemli olduğu unutulmamalıdır. Kesme işlemi sırasında, kesici araçların kullanımındaki güvenliğe dikkat edilmeli, gerekli güvenlik önlemleri alınmalı ve gerekli eğitim verilmelidir.
+                        <br>
+                        <br>
+                        Sonuç olarak, paslanmaz çelik boy kesme işlemi, doğru teknik ve ekipmanların seçimi, kaliteli sonuçlar elde etmek için gerekli olan hassasiyet ve güvenli bir şekilde yapılması gereken bir işlemdir.
+                    </div>
 
                 </div>
             </div>

@@ -4,7 +4,7 @@
 <!-- Mirrored from html.tonatheme.com/2022/welbim/projects.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 05 Jan 2023 08:21:35 GMT -->
 <head>
     <meta charset="utf-8">
-    <title>Desenlerimiz | Nikomet Paslanmaz</title>
+    <title>Desenlerimiz | HUZEY METAL</title>
     <!-- Stylesheets -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
     <link href="assets/css/style.css" rel="stylesheet">

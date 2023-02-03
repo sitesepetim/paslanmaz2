@@ -4,7 +4,7 @@
 <!-- Mirrored from html.tonatheme.com/2022/welbim/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 05 Jan 2023 08:21:34 GMT -->
 <head>
     <meta charset="utf-8">
-    <title>Hakkımızda || NİKOMET PASLANMAZ</title>
+    <title>Hakkımızda || HUZEY METAL</title>
     <!-- Stylesheets -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
     <link href="assets/css/style.css" rel="stylesheet">
@@ -94,10 +94,10 @@
                 <div class="col-lg-6">
                     <div class="content-side">
                         <div class="sec-title mb-40">
-                            <div class="sub-title">Nikomet Paslanmaz</div>
+                            <div class="sub-title">HUZEY METAL</div>
                             <h2>KALİTELİ <br>  HİZMET ANLAYIŞI</h2>
                         </div>
-                        <div class="text mb-35">Nikomet Paslanmaz, yıllardır sektördeki tecrübesiyle ülkemizde paslanmaz sektöründe öncü firma olma yolunda kararlı adımlarla ilerlemektedir. </div>
+                        <div class="text mb-35">Huzey Metal, yıllardır sektördeki tecrübesiyle ülkemizde paslanmaz sektöründe öncü firma olma yolunda kararlı adımlarla ilerlemektedir. </div>
                         <div class="bottom-content">
 
                             <div class="row">
@@ -170,14 +170,14 @@
     <section class="testimonials-section-two style-two" style="background-image: url(assets/images/resource/map.png)">
         <div class="auto-container">
             <div class="sec-title text-center">
-                <div class="sub-title text-center">NİKOMET PASLANMAZ</div>
+                <div class="sub-title text-center">HUZEY METAL</div>
                 <h2>SİZLERDEN GELENLER</h2>
             </div>
             <div class="row">
                 <div class="theme_carousel owl-theme owl-carousel" data-options='{"loop": true, "margin": 0, "autoheight":true, "lazyload":true, "nav": true, "dots": true, "autoplay": true, "autoplayTimeout": 6000, "smartSpeed": 1000, "responsive":{ "0" :{ "items": "1" }, "600" :{ "items" : "1" }, "768" :{ "items" : "2" } , "992":{ "items" : "2" }, "1200":{ "items" : "3" }}}'>
                     <div class="testimonial-block-two">
                         <div class="inner-box">
-                            <div class="text">Nikomet Paslanmaz, sektörde fark yaratan bir firma. Devamlı çalışabileceğimiz bir firma bulmak harika...
+                            <div class="text">Huzey Metal, sektörde fark yaratan bir firma. Devamlı çalışabileceğimiz bir firma bulmak harika...
                             </div>
                             <h4>Jessica Brown <span>CEO</span></h4>
                             <div class="author-thumb">
@@ -218,7 +218,7 @@
                 <div class="col-xl-7 offset-xl-5">
                     <div class="wrapper-box">
                         <div class="sec-title light">
-                            <div class="sub-title"> Nikomet Paslanmaz</div>
+                            <div class="sub-title"> HUZEY METAL</div>
                             <h2>İsteyİn <br>Gerçekleştİrelİm</h2>
                         </div>
                         <div class="text">Önceliğimiz her zaman müşterilerimizin memnuniyeti olmuştur. Kaliteli ve garantili ürünlerimizle 7/24 ulaşabilir olmamız haklı olarak bizlere gurur vermektedir.</div>

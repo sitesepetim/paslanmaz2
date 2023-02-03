@@ -26,41 +26,41 @@
               @include('page.hizmetler.sidebar')
                 <div class="col-lg-8">
                     <h2>PASLANMAZ ÇELİK TAŞLAMA</h2>
-                    <div class="image mb-40"><img src="{{asset('assets/images/resource/PASLANMAZ ÇELİK.jpg')}}" alt="PASLANMAZ ÇELİK"></div>
+                    <div class="image mb-40"><img src="{{asset('assets/images/resource/PASLANMAZ ÇELİK TAŞLAMA.jpeg')}}" alt="PASLANMAZ ÇELİK TAŞLAMA"></div>
 
-                    <div class="text">Paslanmaz çelik; demir ve karbon alaşımı olmasına karsın, bileşiminde karbondan başka minimal
-                        %10,5 krom elementi içermektedir.  Krom elementi  çeliği paslanmaya karşı koruyan temel bileşendir. Paslanmaz
-                        çeliğin içindeki  erimiş kromun varlığı iyi analiz edilmelidir. Doğru yerlerde doğru amaçlarla kullanılması
-                        gerekmektedir. Diğer türlü elinizde bulunan bir üründen herhangi bir fayda sağlayamazsınız. Bu nedenle
-                        mühendisler paslanmaz çelik üretimi öncesi, kullanma şekli göz önünde tutularak  tasarlamalar yapmalıdır.
-                        Kullanım yerleri ve paslanmaz çelik malzemenin içindeki krom oranı veya ayrı bileşiklerin varlığına göre
-                        paslanmaz çelikler belli gruplara ayrılmışlardır. Temel paslanmaz çelik alaşımlarında ağırlığa göre minimum
-                        %10.5 krom bulunur). Paslanmaz çelikteki krom elementi Oksijenle teması halinde yüzeyinde malzemeyi korozyondan
-                        koruyan çok ince krom-oksit tabakası oluşturur. Ayrıca, bu katman yırtıldığında, açıldığında veya herhangi bir
-                        nedenle çizilmesi halinde atman tekrar kendini yeniler ve açığı kapatır. Bu görüngüye pasivasyon adı verilir ve
-                        titanyum gibi bir kısım diğer metallerde de görülür. Toplamda 150 'nin üzerinde paslanmaz çelik kalitesi  vardır
-                        ve bunlardan 15’i birçok sektörde kendine yer bulmaktadır. Paslanmaz çelikler boru ve yassı ürün şekillerinde
-                        üretilebilirler. Bu şekilde birçok gıda sektöründe,  otomotiv, beyaz eşya,  inşaat, yapısal uygulamalarda,
-                        tıbbi aletlerde kendine yer bulmaktadır.  Başlıca paslanmaz çelik türleri beş ana grupta toplanır. Çeliğe nikel
-                        ilave edilmesi halinde,  manyetik olmayan bu tip çelikler, soğuk şekil verme sırasında daha az kırılgan hale getirir.
-                        Bu gruplar 5 ana gruba ayrılır;
-                        <br>
-                        <br>
-                        <ul class="list">
-                            <li>1.	Östenitik Paslanmaz Çelikler</li>
-                            <li>2.	Ferritik Paslanmaz Çelikler</li>
-                            <li>3.	Martensitik Paslanmaz Çelikler</li>
-                            <li>4.	Dubleks Paslanmaz Çellikler</li>
-                            <li>5.	Çökelmeyle Sertleştirilebilen Paslanmaz Çelikler</li>
-                        </ul>
+                    <div class="text">Huzey Metal en paslanmaz çelik taşlama hizmetleri sunar. Döküm ve çelik parçaların mükemmel yüzey kalitesi
+                        ile taşlama yeteneğine sahiptir. Huzey Metal Çelik, pek çok farklı malzeme ve sisteme sahip tekerlek ve malzeme türleri
+                        için maksimum taşlama ve kesim verimliliği ile yüzeyler için düzlük, paralellik ve karelik ihtiyaçlarınızı karşılayabilir.
+                        Her türlü yüzey taşlamada profesyonel ve büyüklük ihtiyaçlarımız dâhilindeki her şeyi taşlamak için gerekli olan eğitime
+                        sahibiz. Üstün düzeyde doğruluk elde etme kabiliyetine sahibiz. Yüzey taşlama için malzeme özelliğine göre hizmetler sunuyoruz.
+                        Yüzey taşlama ihtiyaçlarınıza göre geniş yelpazede uygun çözümler sunan Huzey Metal olarak, hassas parça işleme maliyetlerinize
+                        uygun şekilde karşılayabilecek yüzey taşlama ihtiyaçlarınız için kapsamlı ve tek bir tek elden çözüm sunuyoruz. Biz katma değeri
+                        yüksek, nitelikli hassasiyete sahip yüksek karmaşıklıktaki ve kritik önem taşıyan yüzey taşlama parçalarıyla kusursuz yüzey
+                        bitirme hizmetleri sunuyoruz. Huzey Metal parçaları spesifikasyon aşamasına göre özelleştirir. Paslanmaz çelik taşlama ile ilgili
+                        her türlü ihtiyacınızı karşılayabilir.;
+
                     </div>
-                    <h3>PASLANMAZ ÇELİK KULLANIM ALANLARI</h3>
-                    <div class="text">Tüm paslanmaz çelikler arasında en yaygın kullanılan 304 kalite paslanmaz çelik fark etmesek bile
-                        neredeyse her noktada yer alır.  Kimyasal ürünler elde etmede, petrokimya, tencere ve ev aletleri, çatal ve bıçak
-                        takımları, düdüklü tencereler, pişirme kapları, endüstriyel mutfak sektöründe, İlaç ve tıp endüstrisinde kullanılmaktadır.
-                        Ayrıca lavabolar, gıda ve içecek sanayi gibi pek çok sektörün yanı sıra evye yapımında yaygınlıkla da tercih edilmektedir.</div>
+                    <h3>UZMAN MÜHENDİSLİK KADROSU</h3>
+                    <div class="text">Uzmanlarımız son derece yeteneklidir ve ileri düzeyde  eğitime dayalı bir donanımla karakterizedir.
+                        Alanında uzman olan mühendisimizin sahip olduğu kariyer ve teknolojik, bilgileri karmaşık örüntüleri algılama ve
+                        kolaylıkla gerçekleştirme kabiliyeti sağlar. Huzey Metal Çeliğin yeni teknolojik gelişmeleri benimsemesi ve son
+                        teknoloji paslanmaz çeliği taşlama ekipmanları konusundaki yaratıcı bilgi ve beceri ile teknolojiyi işlevsel bir
+                        şekilde kullanabilme yeteneği, bizi sektörde öne çıkaran özelliklerimizdendir. </div>
+                    <h3>ÜSTÜN KALİTE VE PERFORMANS</h3>
+                    <div class="text">Huzey Metal, Çelik yüzey taşlama yöntemi ile geliştirilen taşlama mekanizmasında elde edilecek kalitenin
+                        iyi bir parça üretilmesinden çok daha fazlası olduğuna inanmaktadır. Müşteri memnuniyetinin temel şartı kaliteli ürün ve
+                        hizmet üretmektir. Huzey Metal size en yüksek performans ve kalitedeki parçaları hatasız şekilde sunarak kaliteyi ölçmektedir.
+                        Odak noktamız, yüksek kaliteli gereksemelerinizi karşılayabilecek daha kesif toleranslı hassas parçalar sunmaktır. </div>
+                    <h3>GENİŞ MALZEME YELPAZESİ</h3>
+                    <div class="text">Teknolojik ekipmanlarımız ve geniş bir malzeme yelpazesindeki yüzey taşlama deneyimimiz, her
+                        türlü malzemeyi öğütmemizi sağlar. Üretkenliğinizi, performansınızı ve parça kalitenizi artırmak için her zaman
+                        en kaliteli malzemeyi tercih ediyor ve seçiyoruz. Karaca, paslanmaz Çelik müşterilerine ile ilgili uluslararası
+                        standartlarda paslanmaz çelik taşlama hizmeti sunmaktadır. </div>
+                </div>
 
                 </div>
+
+        </div>
             </div>
         </div>
     </section>

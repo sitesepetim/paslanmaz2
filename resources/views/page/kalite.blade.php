@@ -4,7 +4,7 @@
 <!-- Mirrored from html.tonatheme.com/2022/welbim/services.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 05 Jan 2023 08:21:34 GMT -->
 <head>
     <meta charset="utf-8">
-    <title>Kaliteler || Nikomet Paslanmaz</title>
+    <title>Kaliteler || HUZEY METAL </title>
     <!-- Stylesheets -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
     <link href="assets/css/style.css" rel="stylesheet">
@@ -82,7 +82,7 @@
             <div class="row">
                 <div class="col-lg-4 col-md-6 service-block">
                     <div class="inner-box">
-                        <div class="image"><span class="border-shape"></span><img src="assets/images/resource/image-4.jpg" alt=""></div>
+                        <div class="image"><span class="border-shape"></span><img src="assets/images/kalite/201 Paslanmaz Çelik.jpg" alt="201 Paslanmaz Çelik"></div>
                         <div class="content">
                             <h3><a href="{{route('201')}}"> 201 Paslanmaz <br>ÇELİK</a></h3>
                             <div class="link">
@@ -93,7 +93,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 service-block">
                     <div class="inner-box">
-                        <div class="image"><span class="border-shape"></span><img src="assets/images/resource/image-5.jpg" alt=""></div>
+                        <div class="image"><span class="border-shape"></span><img src="assets/images/kalite/202 Paslanmaz Çelik.jpg" alt="202 Paslanmaz Çelik"></div>
                         <div class="content">
                             <h3><a href="{{route('202')}}"> 202 Paslanmaz <br>ÇELİK</a></h3>
                             <div class="link">
@@ -104,7 +104,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 service-block">
                     <div class="inner-box">
-                        <div class="image"><span class="border-shape"></span><img src="assets/images/resource/image-6.jpg" alt=""></div>
+                        <div class="image"><span class="border-shape"></span><img src="assets/images/kalite/303 (1.4305) Paslanmaz Çelik.jpg" alt="303 (1.4305) Paslanmaz Çelik"></div>
                         <div class="content">
                             <h3><a href="{{route('303')}}">303 (1.4305) Paslanmaz ÇELİK</a></h3>
                             <div class="link">
@@ -115,7 +115,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 service-block">
                     <div class="inner-box">
-                        <div class="image"><span class="border-shape"></span><img src="assets/images/resource/image-12.jpg" alt=""></div>
+                        <div class="image"><span class="border-shape"></span><img src="assets/images/kalite/304 (1.4301) Paslanmaz Çelik.jpg" alt="304 (1.4301) Paslanmaz Çelik"></div>
                         <div class="content">
                             <h3><a href="{{route('304')}}">304 (1.4301) Paslanmaz ÇELİK</a></h3>
                             <div class="link">
@@ -126,7 +126,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 service-block">
                     <div class="inner-box">
-                        <div class="image"><span class="border-shape"></span><img src="assets/images/resource/image-13.jpg" alt=""></div>
+                        <div class="image"><span class="border-shape"></span><img src="assets/images/kalite/304 DDQ Paslanmaz Çelik.jpeg" alt="304 DDQ Paslanmaz Çelik"></div>
                         <div class="content">
                             <h3><a href="{{route('304-dd')}}">304 DDQ Paslanmaz ÇELİK</a></h3>
                             <div class="link">
@@ -137,7 +137,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 service-block">
                     <div class="inner-box">
-                        <div class="image"><span class="border-shape"></span><img src="assets/images/resource/image-14.jpg" alt=""></div>
+                        <div class="image"><span class="border-shape"></span><img src="assets/images/kalite/304L (1.4307) Paslanmaz Çelik.jpg" alt="304L (1.4307) Paslanmaz Çelik"></div>
                         <div class="content">
                             <h3><a href="{{route('304-l')}}">304L (1.4307) Paslanmaz ÇELİK</a></h3>
                             <div class="link">
@@ -148,7 +148,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 service-block">
                     <div class="inner-box">
-                        <div class="image"><span class="border-shape"></span><img src="assets/images/resource/image-13.jpg" alt=""></div>
+                        <div class="image"><span class="border-shape"></span><img src="assets/images/kalite/309 Kalite Paslanmaz Çelik.jpeg" alt="309 Kalite Paslanmaz Çelik"></div>
                         <div class="content">
                             <h3><a href="{{route('309')}}">309 Paslanmaz<br> ÇELİK</a></h3>
                             <div class="link">
@@ -159,7 +159,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 service-block">
                     <div class="inner-box">
-                        <div class="image"><span class="border-shape"></span><img src="assets/images/resource/image-13.jpg" alt=""></div>
+                        <div class="image"><span class="border-shape"></span><img src="assets/images/kalite/309S Paslanmaz Çelik.jpg" alt="309S Paslanmaz Çelik"></div>
                         <div class="content">
                             <h3><a href="{{route('309-s')}}">309S Paslanmaz<br> ÇELİK</a></h3>
                             <div class="link">
@@ -170,7 +170,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 service-block">
                     <div class="inner-box">
-                        <div class="image"><span class="border-shape"></span><img src="assets/images/resource/image-13.jpg" alt=""></div>
+                        <div class="image"><span class="border-shape"></span><img src="assets/images/kalite/310 (1.4845) Paslanmaz Çelik.jpg" alt="310 (1.4845) Paslanmaz Çelik"></div>
                         <div class="content">
                             <h3><a href="{{route('310')}}">310 (1.4845) Paslanmaz ÇELİK</a></h3>
                             <div class="link">
@@ -181,7 +181,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 service-block">
                     <div class="inner-box">
-                        <div class="image"><span class="border-shape"></span><img src="assets/images/resource/image-13.jpg" alt=""></div>
+                        <div class="image"><span class="border-shape"></span><img src="assets/images/kalite/310S Paslanmaz Çelik.jpeg" alt="310S Paslanmaz Çelik"></div>
                         <div class="content">
                             <h3><a href="{{route('310-s')}}">310S Paslanmaz<br> ÇELİK</a></h3>
                             <div class="link">
@@ -192,7 +192,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 service-block">
                     <div class="inner-box">
-                        <div class="image"><span class="border-shape"></span><img src="assets/images/resource/image-13.jpg" alt=""></div>
+                        <div class="image"><span class="border-shape"></span><img src="assets/images/kalite/316 (1.4401) Paslanmaz Çelik.jpeg" alt="316 (1.4401) Paslanmaz Çelik"></div>
                         <div class="content">
                             <h3><a href="{{route('316')}}">316 (1.4401) Paslanmaz ÇELİK</a></h3>
                             <div class="link">
@@ -203,7 +203,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 service-block">
                     <div class="inner-box">
-                        <div class="image"><span class="border-shape"></span><img src="assets/images/resource/image-13.jpg" alt=""></div>
+                        <div class="image"><span class="border-shape"></span><img src="assets/images/kalite/316L (1.4404) Paslanmaz Çelik.jpeg" alt="316L (1.4404) Paslanmaz Çelik"></div>
                         <div class="content">
                             <h3><a href="{{route('316-l')}}">316L (1.4404) Paslanmaz ÇELİK</a></h3>
                             <div class="link">
@@ -214,7 +214,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 service-block">
                     <div class="inner-box">
-                        <div class="image"><span class="border-shape"></span><img src="assets/images/resource/image-13.jpg" alt=""></div>
+                        <div class="image"><span class="border-shape"></span><img src="assets/images/kalite/316Ti (1.4571) Paslanmaz Çelik.jpg" alt="316Ti (1.4571) Paslanmaz Çelik"></div>
                         <div class="content">
                             <h3><a href="{{route('316-ti')}}">316Ti (1.4571) Paslanmaz ÇELİK</a></h3>
                             <div class="link">
@@ -225,7 +225,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 service-block">
                     <div class="inner-box">
-                        <div class="image"><span class="border-shape"></span><img src="assets/images/resource/image-13.jpg" alt=""></div>
+                        <div class="image"><span class="border-shape"></span><img src="assets/images/kalite/321 (1.4541) Paslanmaz Çelik.jpg" alt="321 (1.4541) Paslanmaz Çelik"></div>
                         <div class="content">
                             <h3><a href="{{route('321')}}">321 (1.4541) Paslanmaz ÇELİK</a></h3>
                             <div class="link">
@@ -236,7 +236,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 service-block">
                     <div class="inner-box">
-                        <div class="image"><span class="border-shape"></span><img src="assets/images/resource/image-13.jpg" alt=""></div>
+                        <div class="image"><span class="border-shape"></span><img src="assets/images/kalite/409 Paslanmaz Çelik.jpg" alt="409 Paslanmaz Çelik.jpg"></div>
                         <div class="content">
                             <h3><a href="{{route('409')}}">409 Paslanmaz ÇELİK</a></h3>
                             <div class="link">
@@ -247,7 +247,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 service-block">
                     <div class="inner-box">
-                        <div class="image"><span class="border-shape"></span><img src="assets/images/resource/image-13.jpg" alt=""></div>
+                        <div class="image"><span class="border-shape"></span><img src="assets/images/kalite/420 Paslanmaz Çelik.jpeg" alt="420 Paslanmaz Çelik"></div>
                         <div class="content">
                             <h3><a href="{{route('420')}}">420 Paslanmaz ÇELİK</a></h3>
                             <div class="link">
@@ -258,7 +258,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 service-block">
                     <div class="inner-box">
-                        <div class="image"><span class="border-shape"></span><img src="assets/images/resource/image-13.jpg" alt=""></div>
+                        <div class="image"><span class="border-shape"></span><img src="assets/images/kalite/430 (1.4016) Paslanmaz Çelik.jpg" alt="430 (1.4016) Paslanmaz Çelik"></div>
                         <div class="content">
                             <h3><a href="{{route('430')}}">430 (1.4016) Paslanmaz ÇELİK</a></h3>
                             <div class="link">
@@ -269,7 +269,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 service-block">
                     <div class="inner-box">
-                        <div class="image"><span class="border-shape"></span><img src="assets/images/resource/image-13.jpg" alt=""></div>
+                        <div class="image"><span class="border-shape"></span><img src="assets/images/kalite/431 (1.4057) Paslanmaz Çelik.jpeg" alt="431 (1.4057) Paslanmaz Çelik"></div>
                         <div class="content">
                             <h3><a href="{{route('431')}}">431 (1.4057) Paslanmaz ÇELİK</a></h3>
                             <div class="link">
@@ -280,7 +280,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 service-block">
                     <div class="inner-box">
-                        <div class="image"><span class="border-shape"></span><img src="assets/images/resource/image-13.jpg" alt=""></div>
+                        <div class="image"><span class="border-shape"></span><img src="assets/images/kalite/440M (1.4116N) Paslanmaz Çelik.jpeg" alt="440M (1.4116N) Paslanmaz Çelik"></div>
                         <div class="content">
                             <h3><a href="{{route('440-m')}}">440M (1.4116N) Paslanmaz ÇELİK</a></h3>
                             <div class="link">
@@ -291,7 +291,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 service-block">
                     <div class="inner-box">
-                        <div class="image"><span class="border-shape"></span><img src="assets/images/resource/image-13.jpg" alt=""></div>
+                        <div class="image"><span class="border-shape"></span><img src="assets/images/kalite/4418 (1.4418) PASLANMAZ ÇELİK.jpg" alt="4418 (1.4418) PASLANMAZ ÇELİK"></div>
                         <div class="content">
                             <h3><a href="{{route('4418')}}">4418 (1.4418) Paslanmaz ÇELİK</a></h3>
                             <div class="link">
@@ -302,7 +302,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 service-block">
                     <div class="inner-box">
-                        <div class="image"><span class="border-shape"></span><img src="assets/images/resource/image-13.jpg" alt=""></div>
+                        <div class="image"><span class="border-shape"></span><img src="assets/images/kalite/309 Kalite Paslanmaz Çelik.jpeg" alt="309 Kalite Paslanmaz Çelik"></div>
                         <div class="content">
                             <h3><a href="{{route('309')}}">309 Kalite Paslanmaz ÇELİK</a></h3>
                             <div class="link">
@@ -313,7 +313,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 service-block">
                     <div class="inner-box">
-                        <div class="image"><span class="border-shape"></span><img src="assets/images/resource/image-13.jpg" alt=""></div>
+                        <div class="image"><span class="border-shape"></span><img src="assets/images/kalite/439  439Ti Paslanmaz Çelik.jpeg" alt="439  439Ti Paslanmaz Çelik"></div>
                         <div class="content">
                             <h3><a href="{{route('439')}}">439 / 439Ti Paslanmaz ÇELİK</a></h3>
                             <div class="link">
@@ -324,7 +324,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 service-block">
                     <div class="inner-box">
-                        <div class="image"><span class="border-shape"></span><img src="assets/images/resource/image-13.jpg" alt=""></div>
+                        <div class="image"><span class="border-shape"></span><img src="assets/images/kalite/630 (1.4542) PH 17-4 Paslanmaz Çelik.jpg" alt="630 (1.4542) PH 17-4 Paslanmaz Çelik"></div>
                         <div class="content">
                             <h3><a href="{{route('630')}}">630 (1.4542) PH 17-4 Paslanmaz ÇELİK</a></h3>
                             <div class="link">
@@ -335,7 +335,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 service-block">
                     <div class="inner-box">
-                        <div class="image"><span class="border-shape"></span><img src="assets/images/resource/image-13.jpg" alt=""></div>
+                        <div class="image"><span class="border-shape"></span><img src="assets/images/kalite/Östenitik Paslanmaz Çelik.jpeg" alt="Östenitik Paslanmaz Çelik"></div>
                         <div class="content">
                             <h3><a href="{{route('oztentitik')}}">Östenitik Paslanmaz ÇELİK</a></h3>
                             <div class="link">
@@ -346,7 +346,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 service-block">
                     <div class="inner-box">
-                        <div class="image"><span class="border-shape"></span><img src="assets/images/resource/image-13.jpg" alt=""></div>
+                        <div class="image"><span class="border-shape"></span><img src="assets/images/kalite/MARTENSİTİK PASLANMAZ ÇELİK.jpeg" alt="MARTENSİTİK PASLANMAZ ÇELİK"></div>
                         <div class="content">
                             <h3><a href="{{route('martensitik')}}">Martensitik Paslanmaz ÇELİK</a></h3>
                             <div class="link">
@@ -357,7 +357,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 service-block">
                     <div class="inner-box">
-                        <div class="image"><span class="border-shape"></span><img src="assets/images/resource/image-13.jpg" alt=""></div>
+                        <div class="image"><span class="border-shape"></span><img src="assets/images/kalite/FERRİTİK PASLANMAZ ÇELİK.jpeg" alt="FERRİTİK PASLANMAZ ÇELİK"></div>
                         <div class="content">
                             <h3><a href="{{route('ferritik')}}">Ferritik Paslanmaz <br>ÇELİK</a></h3>
                             <div class="link">
@@ -368,7 +368,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 service-block">
                     <div class="inner-box">
-                        <div class="image"><span class="border-shape"></span><img src="assets/images/resource/image-13.jpg" alt=""></div>
+                        <div class="image"><span class="border-shape"></span><img src="assets/images/kalite/1.4507 Süper Dubleks Paslanmaz Çelik.jpg" alt="1.4507 Süper Dubleks Paslanmaz Çelik"></div>
                         <div class="content">
                             <h3><a href="{{route('14507')}}">1.4507 Süper Dubleks Paslanmaz ÇELİK</a></h3>
                             <div class="link">

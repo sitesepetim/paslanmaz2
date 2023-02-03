@@ -4,7 +4,7 @@
 <!-- Mirrored from html.tonatheme.com/2022/welbim/projects.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 05 Jan 2023 08:21:35 GMT -->
 <head>
     <meta charset="utf-8">
-    <title>Ürünlerimiz | Nikomet Paslanmaz</title>
+    <title>Ürünlerimiz | HUZEY METAL </title>
     <!-- Stylesheets -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
     <link href="assets/css/style.css" rel="stylesheet">
@@ -82,85 +82,85 @@
             <div class="row">
                 <div class="col-lg-4 col-md-6 project-block">
                     <div class="inner-box">
-                        <div class="image"><img src="assets/images/resource/project-1.jpg" alt=""></div>
+                        <div class="image"><img src="assets/images/resource/PASLANMAZ ÇELİK.jpg" alt="PASLANMAZ ÇELİK"></div>
                         <h4><a href="{{route('paslanmaz_celik')}}">Paslanmaz Çelİk</a></h4>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 project-block">
                     <div class="inner-box">
-                        <div class="image"><img src="assets/images/resource/project-2.jpg" alt=""></div>
+                        <div class="image"><img src="assets/images/resource/PASLANMAZ MİL.jpeg" alt="PASLANMAZ MİL"></div>
                         <h4><a href="{{route('paslanmaz-mil-cubuk')}}">Paslanmaz Mİl (Çubuk)</a></h4>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 project-block">
                     <div class="inner-box">
-                        <div class="image"><img src="assets/images/resource/project-3.jpg" alt=""></div>
+                        <div class="image"><img src="assets/images/resource/PASLANMAZ KARE PROFİL.jpeg" alt="PASLANMAZ KARE PROFİL"></div>
                         <h4><a href="{{route('paslanmaz-kare')}}">Paslanmaz Kare Profİl </a></h4>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 project-block">
                     <div class="inner-box">
-                        <div class="image"><img src="assets/images/resource/project-4.jpg" alt=""></div>
+                        <div class="image"><img src="assets/images/resource/PASLANMAZ TEL.jpeg" alt="PASLANMAZ TEl"></div>
                         <h4><a href="{{route('paslanmaz-tel')}}">Paslanmaz Tel (Kanga Tel)</a></h4>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 project-block">
                     <div class="inner-box">
-                        <div class="image"><img src="assets/images/resource/project-5.jpg" alt=""></div>
+                        <div class="image"><img src="assets/images/resource/PASLANMAZ LAMA.jpeg" alt="PASLANMAZ LAMA"></div>
                         <h4><a href="{{route('paslanmaz-lama')}}">Paslanmaz Lama</a></h4>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 project-block">
                     <div class="inner-box">
-                        <div class="image"><img src="assets/images/resource/project-6.jpg" alt=""></div>
+                        <div class="image"><img src="assets/images/resource/PASLANMAZ FİTTİNGS.jpeg" alt="PASLANMAZ FİTTİNGS"></div>
                         <h4><a href="{{route('paslanmaz-fitting')}}">Paslanmaz Fittings</a></h4>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 project-block">
                     <div class="inner-box">
-                        <div class="image"><img src="assets/images/resource/project-6.jpg" alt=""></div>
+                        <div class="image"><img src="assets/images/resource/PASLANMAZ KÜPEŞTE.jpeg" alt="PASLANMAZ KÜPEŞTE"></div>
                         <h4><a href="{{route('paslanmaz-kupeste')}}">Paslanmaz Küpeşte</a></h4>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 project-block">
                     <div class="inner-box">
-                        <div class="image"><img src="assets/images/resource/project-6.jpg" alt=""></div>
+                        <div class="image"><img src="assets/images/resource/PASLANMAZ KÖŞEBENT.jpeg" alt="PASLANMAZ KÖŞEBENT"></div>
                         <h4><a href="{{route('paslanmaz-kosebent')}}">Paslanmaz Köşebent</a></h4>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 project-block">
                     <div class="inner-box">
-                        <div class="image"><img src="assets/images/resource/project-6.jpg" alt=""></div>
+                        <div class="image"><img src="assets/images/resource/PASLANMAZ PROFİL.png" alt="PASLANMAZ PROFİL"></div>
                         <h4><a href="{{route('paslanmaz-profil')}}">Paslanmaz Profİl</a></h4>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 project-block">
                     <div class="inner-box">
-                        <div class="image"><img src="assets/images/resource/project-6.jpg" alt=""></div>
+                        <div class="image"><img src="assets/images/resource/PASLANMAZ BORU.jpeg" alt="PASLANMAZ BORU"></div>
                         <h4><a href="{{route('paslanmaz-boru')}}">Paslanmaz Boru</a></h4>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 project-block">
                     <div class="inner-box">
-                        <div class="image"><img src="assets/images/resource/project-6.jpg" alt=""></div>
+                        <div class="image"><img src="assets/images/resource/PASLANMAZ SAC.jpeg" alt="PASLANMAZ SAC"></div>
                         <h4><a href="{{route('paslanmaz-sac')}}">Paslanmaz Sac</a></h4>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 project-block">
                     <div class="inner-box">
-                        <div class="image"><img src="assets/images/resource/project-6.jpg" alt=""></div>
+                        <div class="image"><img src="assets/images/resource/PASLANMAZ RULO.jpeg" alt="PASLANMAZ RULO"></div>
                         <h4><a href="{{route('paslanmaz-rulo')}}">Paslanmaz Rulo</a></h4>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 project-block">
                     <div class="inner-box">
-                        <div class="image"><img src="assets/images/resource/project-6.jpg" alt=""></div>
+                        <div class="image"><img src="assets/images/resource/PASLANMAZ ŞERİT.jpeg" alt="PASLANMAZ ŞERİT"></div>
                         <h4><a href="{{route('paslanmaz-serit')}}">Paslanmaz Şerİt</a></h4>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 project-block">
                     <div class="inner-box">
-                        <div class="image"><img src="assets/images/resource/project-6.jpg" alt=""></div>
+                        <div class="image"><img src="assets/images/resource/PASLANMAZ ÇEKME BORU.jpeg" alt="PASLANMAZ ÇEKME BORU"></div>
                         <h4><a href="{{route('paslanmaz-cekme')}}">Paslanmaz Çekme Boru</a></h4>
                     </div>
                 </div>

@@ -4,7 +4,7 @@
 <!-- Mirrored from html.tonatheme.com/2022/welbim/blog.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 05 Jan 2023 08:21:36 GMT -->
 <head>
     <meta charset="utf-8">
-    <title>Blog | Nikomet Paslanmaz</title>
+    <title>Blog | HUZEY METAL</title>
     <!-- Stylesheets -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
     <link href="assets/css/style.css" rel="stylesheet">
@@ -89,7 +89,7 @@
                                 <div class="date">06  Ocak, 2023</div>
                             </div>
                             <div class="content">
-                                <div class="post-meta"> <a href="#"><i class="far fa-user-circle"></i> Nikomet</a> <a href="#"><i class="far fa-comments"></i> 2 Yorum </a></div>
+                                <div class="post-meta"> <a href="#"><i class="far fa-user-circle"></i> Huzey Metal</a> <a href="#"><i class="far fa-comments"></i> 2 Yorum </a></div>
                                 <h4><a href="blog-details.html">Paslanmaz ÇELİK NEDİR?</a></h4>
                                 <div class="text">Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin </div>
                             </div>
@@ -102,7 +102,7 @@
                                 <div class="date">06  Ocak, 2023</div>
                             </div>
                             <div class="content">
-                                <div class="post-meta"> <a href="#"><i class="far fa-user-circle"></i> Nikomet</a> <a href="#"><i class="far fa-comments"></i> 2 Yorum </a></div>
+                                <div class="post-meta"> <a href="#"><i class="far fa-user-circle"></i> Huzey Metal</a> <a href="#"><i class="far fa-comments"></i> 2 Yorum </a></div>
                                 <h4><a href="blog-details.html">When the welding output is on</a></h4>
                                 <div class="text">Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin</div>
                             </div>
@@ -115,7 +115,7 @@
                                 <div class="date">06  Ocak, 2023</div>
                             </div>
                             <div class="content">
-                                <div class="post-meta"> <a href="#"><i class="far fa-user-circle"></i> Nikomet</a> <a href="#"><i class="far fa-comments"></i> 2 Yorum </a></div>
+                                <div class="post-meta"> <a href="#"><i class="far fa-user-circle"></i> Huzey Metal</a> <a href="#"><i class="far fa-comments"></i> 2 Yorum </a></div>
                                 <h4><a href="blog-details.html">Paslanmaz ÇELİK NEDİR?</a></h4>
                                 <div class="text">Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin</div>
                             </div>

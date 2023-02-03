@@ -4,7 +4,7 @@
 <!-- Mirrored from html.tonatheme.com/2022/welbim/index-2.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 05 Jan 2023 08:21:29 GMT -->
 <head>
     <meta charset="utf-8">
-    <title>NİKOMET PASLANMAZ</title>
+    <title>HUZEY METAL</title>
     <!-- Stylesheets -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
     <link href="assets/css/style.css" rel="stylesheet">
@@ -124,10 +124,10 @@
                 <div class="col-lg-6">
                     <div class="content-side">
                         <div class="sec-title mb-30">
-                            <div class="sub-title">NİKOMET PASLANMAZ</div>
+                            <div class="sub-title">HUZEY METAL</div>
                             <h2>GÜVENİLİR &<br> KALİTELİ</h2>
                         </div>
-                        <div class="text wow fadeInUp" data-wow-duration="1500ms">Nikomet Paslanmaz, yıllardır sektördeki tecrübesiyle ülkemizde paslanmaz sektöründe
+                        <div class="text wow fadeInUp" data-wow-duration="1500ms">Huzey Metal, yıllardır sektördeki tecrübesiyle ülkemizde paslanmaz sektöründe
                             öncü firma olma yolunda kararlı adımlarla ilerlemektedir.</div>
                         <div class="bottom-content">
                             <div class="experience-years wow fadeInUp" data-wow-duration="1500ms">
@@ -181,7 +181,7 @@
     <section class="services-section style-two">
         <div class="auto-container">
             <div class="sec-title text-center">
-                <div class="sub-title">NİKOMET PASLANMAZ</div>
+                <div class="sub-title">HUZEY METAL</div>
                 <h2>KALİTELER</h2>
             </div>
             <div class="row">
@@ -247,7 +247,7 @@
     <section class="projects-section">
         <div class="auto-container">
             <div class="sec-title text-center light">
-                <div class="sub-title">NİKOMET PASLANMAZ</div>
+                <div class="sub-title">HUZEY METAL</div>
                 <h2>ÜRÜNLER</h2>
             </div>
             <div class="row">
@@ -283,14 +283,14 @@
     <section class="testimonials-section-two pt-0" style="background-image: url(assets/images/resource/map.png)">
         <div class="auto-container">
             <div class="sec-title text-center">
-                <div class="sub-title text-center">NİKOMET PASLANMAZ</div>
+                <div class="sub-title text-center">HUZEY METAL</div>
                 <h2>SİZLERDEN GELENLER</h2>
             </div>
             <div class="row">
                 <div class="theme_carousel owl-theme owl-carousel" data-options='{"loop": true, "margin": 0, "autoheight":true, "lazyload":true, "nav": true, "dots": true, "autoplay": true, "autoplayTimeout": 6000, "smartSpeed": 1000, "responsive":{ "0" :{ "items": "1" }, "600" :{ "items" : "1" }, "768" :{ "items" : "2" } , "992":{ "items" : "2" }, "1200":{ "items" : "3" }}}'>
                     <div class="testimonial-block-two">
                         <div class="inner-box">
-                            <div class="text">Nikomet Paslanmaz, sektörde fark yaratan bir firma. Devamlı çalışabileceğimiz bir firma bulmak harika...
+                            <div class="text">Huzey Metal, sektörde fark yaratan bir firma. Devamlı çalışabileceğimiz bir firma bulmak harika...
                             </div>
                             <h4>Jessica Brown <span>Co-Founder</span></h4>
                             <div class="author-thumb">
@@ -405,7 +405,7 @@
         <div class="sec-bg" style="background-image: url(assets/images/background/bg-7.jpg);"></div>
         <div class="auto-container">
             <div class="sec-title light text-center">
-                <div class="sub-title">NİKOMET PASLANMAZ</div>
+                <div class="sub-title">HUZEY METAL</div>
                 <h2>BLOG </h2>
             </div>
             <div class="row">

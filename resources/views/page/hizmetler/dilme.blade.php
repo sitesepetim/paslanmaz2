@@ -26,39 +26,32 @@
               @include('page.hizmetler.sidebar')
                 <div class="col-lg-8">
                     <h2>PASLANMAZ ÇELİK DİLME</h2>
-                    <div class="image mb-40"><img src="{{asset('assets/images/resource/PASLANMAZ ÇELİK.jpg')}}" alt="PASLANMAZ ÇELİK"></div>
+                    <div class="image mb-40"><img src="{{asset('assets/images/resource/PASLANMAZ ÇELİK DİLME.jpeg')}}" alt="PASLANMAZ ÇELİK DİLME"></div>
 
-                    <div class="text">Paslanmaz çelik; demir ve karbon alaşımı olmasına karsın, bileşiminde karbondan başka minimal
-                        %10,5 krom elementi içermektedir.  Krom elementi  çeliği paslanmaya karşı koruyan temel bileşendir. Paslanmaz
-                        çeliğin içindeki  erimiş kromun varlığı iyi analiz edilmelidir. Doğru yerlerde doğru amaçlarla kullanılması
-                        gerekmektedir. Diğer türlü elinizde bulunan bir üründen herhangi bir fayda sağlayamazsınız. Bu nedenle
-                        mühendisler paslanmaz çelik üretimi öncesi, kullanma şekli göz önünde tutularak  tasarlamalar yapmalıdır.
-                        Kullanım yerleri ve paslanmaz çelik malzemenin içindeki krom oranı veya ayrı bileşiklerin varlığına göre
-                        paslanmaz çelikler belli gruplara ayrılmışlardır. Temel paslanmaz çelik alaşımlarında ağırlığa göre minimum
-                        %10.5 krom bulunur). Paslanmaz çelikteki krom elementi Oksijenle teması halinde yüzeyinde malzemeyi korozyondan
-                        koruyan çok ince krom-oksit tabakası oluşturur. Ayrıca, bu katman yırtıldığında, açıldığında veya herhangi bir
-                        nedenle çizilmesi halinde atman tekrar kendini yeniler ve açığı kapatır. Bu görüngüye pasivasyon adı verilir ve
-                        titanyum gibi bir kısım diğer metallerde de görülür. Toplamda 150 'nin üzerinde paslanmaz çelik kalitesi  vardır
-                        ve bunlardan 15’i birçok sektörde kendine yer bulmaktadır. Paslanmaz çelikler boru ve yassı ürün şekillerinde
-                        üretilebilirler. Bu şekilde birçok gıda sektöründe,  otomotiv, beyaz eşya,  inşaat, yapısal uygulamalarda,
-                        tıbbi aletlerde kendine yer bulmaktadır.  Başlıca paslanmaz çelik türleri beş ana grupta toplanır. Çeliğe nikel
-                        ilave edilmesi halinde,  manyetik olmayan bu tip çelikler, soğuk şekil verme sırasında daha az kırılgan hale getirir.
-                        Bu gruplar 5 ana gruba ayrılır;
+                    <div class="text">PPaslanmaz çelik dilme hattı, rulo halinde olan sacı açarak belli bir düzende sıralanmış dairesel
+                        hale dönüşen bıçaklar arasından geçirerek normal genişliğinden daha küçük kalıplar haline getirilmesini sağlar.
+                        Dilme hattında kesimi yapılacak saca en yüksek toleransta ısı verilerek istenilen ölçünün sağlanması gereklidir.
+                        Dilme hattı içinde istenilen genişlikte ve kalınlıktaki sac üretimi yapabilmek için ısı toleransının yüksek performansı
+                        yakalayabilmesi gerekmektedir.
                         <br>
                         <br>
-                        <ul class="list">
-                            <li>1.	Östenitik Paslanmaz Çelikler</li>
-                            <li>2.	Ferritik Paslanmaz Çelikler</li>
-                            <li>3.	Martensitik Paslanmaz Çelikler</li>
-                            <li>4.	Dubleks Paslanmaz Çellikler</li>
-                            <li>5.	Çökelmeyle Sertleştirilebilen Paslanmaz Çelikler</li>
-                        </ul>
-                    </div>
-                    <h3>PASLANMAZ ÇELİK KULLANIM ALANLARI</h3>
-                    <div class="text">Tüm paslanmaz çelikler arasında en yaygın kullanılan 304 kalite paslanmaz çelik fark etmesek bile
-                        neredeyse her noktada yer alır.  Kimyasal ürünler elde etmede, petrokimya, tencere ve ev aletleri, çatal ve bıçak
-                        takımları, düdüklü tencereler, pişirme kapları, endüstriyel mutfak sektöründe, İlaç ve tıp endüstrisinde kullanılmaktadır.
-                        Ayrıca lavabolar, gıda ve içecek sanayi gibi pek çok sektörün yanı sıra evye yapımında yaygınlıkla da tercih edilmektedir.</div>
+                        Bir dilme hattı 0,3–10 mm aralığında rulolar ile saca kısa ve kolayca bir şekil verme özelliği mümkün olabilmektedir.
+                        Sac ısıl işleme alınırken şekli ve boyutları istenilen ölçülerde olmalıdır. Dilme hattında yüksek performans sağlanması
+                        profesyonel bir ekip işidir. Dilme hattının başlıca özellikleri arasında sacı istenen forma sokacak uygun ısıl işlem süreleri
+                        yer almaktadır.
+                        <br>
+                        <br>
+                        Huzey Metal Firması bünyesindeki rulo sac dilme makinelerimiz ile rulo sac dilme işlemi yüksek standartlarda yapılabilmektedir.
+                        İhtiyaca göre değişen genişliklerde uzunlamasına kesim işlemi gerçekleştikten sonra ortaya çıkan hurda çapakları
+                        küçük parçacıklara ayırabilen sistemlerimiz mevcuttur. Rulo sac dilme makinelerimizde oluşabilecek arızalar erken uyarı
+                        sistemleri ile kontrol altına alınmaktadır. Rulo sac dilme makinelerimiz manyetik kayıpları minimuma indirerek verimi arttırmaktadır.
+                        Böylelikle gereksiz enerji tüketimin önüne geçilerek, mümkün olduğu ölçüde tasarruf edilmesi, sağlanmaktadır.
+                        </div>
+                    <h3>KULLANIM ALANLARI</h3>
+                    <div class="text">Paslanmaz ürünler rulo, kare, levha, köşebent olarak farklı ölçülerde, özelliklerde kesildikten sonra kullanım
+                        amacına göre dilimlenerek farklı sektörlerde kullanılmaktadır. Paslanmaz dilme rulo da en çok ulaştırma sektörü, savunma, inşaat
+                        sanayi, silah ve savunma sanayi gibi daha birçok alanda tercih edilmektedir. Paslanmaz ürünlerin temizlenmesi, parlaklaştırma ya
+                        da matlaştırma aşamalarında da polisaj malzemeleri kullanılmaktadır.</div>
 
                 </div>
             </div>

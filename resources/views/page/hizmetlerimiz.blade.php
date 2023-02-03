@@ -4,7 +4,7 @@
 <!-- Mirrored from html.tonatheme.com/2022/welbim/projects.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 05 Jan 2023 08:21:35 GMT -->
 <head>
     <meta charset="utf-8">
-    <title>Ürünlerimiz | Nikomet Paslanmaz</title>
+    <title>Ürünlerimiz | HUZEY METAL </title>
     <!-- Stylesheets -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
     <link href="assets/css/style.css" rel="stylesheet">
@@ -82,25 +82,25 @@
             <div class="row">
                 <div class="col-lg-6 col-md-6 project-block">
                     <div class="inner-box">
-                        <div class="image"><img src="assets/images/resource/project-1.jpg" alt=""></div>
+                        <div class="image"><img src="assets/images/resource/PASLANMAZ ÇELİK BOY KESME.jpeg" alt="PASLANMAZ ÇELİK BOY KESME"></div>
                         <h4><a href="{{route('kesme')}}">Paslanmaz Çelİk Boy Kesme</a></h4>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6 project-block">
                     <div class="inner-box">
-                        <div class="image"><img src="assets/images/resource/project-2.jpg" alt=""></div>
+                        <div class="image"><img src="assets/images/resource/PASLANMAZ ÇELİK TAŞLAMA.jpeg" alt="PASLANMAZ ÇELİK TAŞLAMA"></div>
                         <h4><a href="{{route('taslama')}}">Paslanmaz Çelik Taşlama</a></h4>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6 project-block">
                     <div class="inner-box">
-                        <div class="image"><img src="assets/images/resource/project-3.jpg" alt=""></div>
-                        <h4><a href="{{route('paslanmaz-kare')}}">Paslanmaz Dilme </a></h4>
+                        <div class="image"><img src="assets/images/resource/PASLANMAZ ÇELİK DİLME.jpeg" alt="PASLANMAZ ÇELİK DİLME"></div>
+                        <h4><a href="{{route('paslanmaz-kare')}}">Paslanmaz ÇELİK Dilme </a></h4>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6 project-block">
                     <div class="inner-box">
-                        <div class="image"><img src="assets/images/resource/project-4.jpg" alt=""></div>
+                        <div class="image"><img src="assets/images/resource/PASLANMAZ ÇELİK LAZER KESİM.jpeg" alt="PASLANMAZ ÇELİK LAZER KESİM"></div>
                         <h4><a href="{{route('paslanmaz-tel')}}">Paslanmaz Çelİk Lazer Kesim</a></h4>
                     </div>
                 </div>

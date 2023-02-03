@@ -4,7 +4,7 @@
 <!-- Mirrored from html.tonatheme.com/2022/welbim/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 05 Jan 2023 08:21:39 GMT -->
 <head>
     <meta charset="utf-8">
-    <title>İletişim || Nikomet Paslanmaz</title>
+    <title>İletişim || HUZEY METAL </title>
     <!-- Stylesheets -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
     <link href="assets/css/style.css" rel="stylesheet">
@@ -111,7 +111,7 @@
                                 <div class="icon"><span class="flaticon-mail"></span></div>
                                 <div class="content">
                                     <h5>E Posta</h5>
-                                    <div class="text"><a href="mailto:info@nikometpaslanmaz.com">info@nikometpaslanmaz.com</a></div>
+                                    <div class="text"><a href="mailto:info@huzeymetal.com">info@huzeymetal.com</a></div>
                                 </div>
                             </div>
                             <div class="icon-box">
