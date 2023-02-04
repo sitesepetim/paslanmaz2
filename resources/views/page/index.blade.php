@@ -64,7 +64,7 @@
         <div class="swiper-container banner-slider">
             <div class="swiper-wrapper">
                 <!-- Slide Item -->
-                <div class="swiper-slide" style="background-image: url(assets/images/main-slider/HUZEY METAL PASLANMAZ ÇELİK.jpeg);">
+                <div class="swiper-slide" style="background-image: url({{asset('assets/images/main-slider/HUZEY METAL PASLANMAZ ÇELİK .jpeg')}});">
                     <div class="content-outer">
                         <div class="content-box">
                             <div class="inner">
