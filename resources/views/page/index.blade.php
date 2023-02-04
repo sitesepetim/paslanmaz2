@@ -64,11 +64,11 @@
         <div class="swiper-container banner-slider">
             <div class="swiper-wrapper">
                 <!-- Slide Item -->
-                <div class="swiper-slide" style="background-image: url(assets/images/main-slider/RULO-min.jpeg);">
+                <div class="swiper-slide" style="background-image: url(assets/images/main-slider/HUZEY METAL PASLANMAZ ÇELİK .jpeg);">
                     <div class="content-outer">
                         <div class="content-box">
                             <div class="inner">
-                                <h1>HUZEY METAL <br>PASLANMAZ ÇELİK'TE <br> ÖNCÜ</h1>
+                                <h1>HUZEY METAL <br>PASLANMAZ ÇELİK <br> </h1>
                                 <div class="link-box">
                                     <a href="about.html" class="theme-btn btn-style-one"><span>BİZE ULAŞABİLİRSİNİZ</span></a>
                                 </div>
@@ -77,13 +77,13 @@
                     </div>
                 </div>
                 <!-- Slide Item -->
-                <div class="swiper-slide" style="background-image: url(assets/images/main-slider/image-2.jpg);">
+                <div class="swiper-slide" style="background-image: url(assets/images/main-slider/HUZEY METAL PASLANMAZ ÇELİK1.jpeg);">
                     <div class="content-outer">
                         <div class="content-box">
                             <div class="inner">
-                                <h1>offering <br>solid metal <br> solutions</h1>
+                                <h1>SEKÖTRÜN <br>ÖNCÜSÜ</h1>
                                 <div class="link-box">
-                                    <a href="about.html" class="theme-btn btn-style-one"><span>Discover More</span></a>
+                                    <a href="about.html" class="theme-btn btn-style-one"><span>BİZE ULAŞABİLİRSİNİZ</span></a>
                                 </div>
                             </div>
                         </div>
