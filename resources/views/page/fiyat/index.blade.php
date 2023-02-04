@@ -82,74 +82,74 @@
             <div class="row">
                 <div class="col-lg-4 col-md-6 project-block">
                     <div class="inner-box">
-                        <div class="image"><img src="assets/images/resource/project-1.jpg" alt=""></div>
-                        <h4><a href="{{route('304_sac_fiyat')}}">304 Paslanmaz Sac Fiyatları</a></h4>
+                        <div class="image"><img src="assets/images/resource/304 Paslanmaz Sac Fİyatları.jpg" alt="304 Paslanmaz Sac Fİyatları"></div>
+                        <h4><a href="{{route('304_sac_fiyat')}}">304 Paslanmaz Sac Fİyatları</a></h4>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 project-block">
                     <div class="inner-box">
-                        <div class="image"><img src="assets/images/resource/project-2.jpg" alt=""></div>
-                        <h4><a href="{{route('316_sac_fiyat')}}">316 Paslanmaz Sac Fiyatları</a></h4>
+                        <div class="image"><img src="assets/images/resource/316 Paslanmaz Sac Fİyatları.jpg" alt="316 Paslanmaz Sac Fİyatları"></div>
+                        <h4><a href="{{route('316_sac_fiyat')}}">316 Paslanmaz Sac Fİyatları</a></h4>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 project-block">
                     <div class="inner-box">
-                        <div class="image"><img src="assets/images/resource/project-3.jpg" alt=""></div>
-                        <h4><a href="{{route('430_sac_fiyat')}}">430 Paslanmaz Sac Fiyatları</a></h4>
+                        <div class="image"><img src="assets/images/resource/430 Paslanmaz Sac Fİyatları.jpg" alt="430 Paslanmaz Sac Fİyatları"></div>
+                        <h4><a href="{{route('430_sac_fiyat')}}">430 Paslanmaz Sac Fİyatları</a></h4>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 project-block">
                     <div class="inner-box">
-                        <div class="image"><img src="assets/images/resource/project-4.jpg" alt=""></div>
-                        <h4><a href="{{route('309_sac_fiyat')}}">309 Paslanmaz Sac Fiyatları</a></h4>
+                        <div class="image"><img src="assets/images/resource/309 Paslanmaz Sac Fİyatları.jpeg" alt="309 Paslanmaz Sac Fİyatları"></div>
+                        <h4><a href="{{route('309_sac_fiyat')}}">309 Paslanmaz Sac Fİyatları</a></h4>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 project-block">
                     <div class="inner-box">
-                        <div class="image"><img src="assets/images/resource/project-5.jpg" alt=""></div>
-                        <h4><a href="{{route('310_sac_fiyat')}}">310 Paslanmaz Sac Fiyatları</a></h4>
+                        <div class="image"><img src="assets/images/resource/310 Paslanmaz Sac Fİyatları.jpeg" alt="310 Paslanmaz Sac Fİyatları"></div>
+                        <h4><a href="{{route('310_sac_fiyat')}}">310 Paslanmaz Sac Fİyatları</a></h4>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 project-block">
                     <div class="inner-box">
-                        <div class="image"><img src="assets/images/resource/project-6.jpg" alt=""></div>
-                        <h4><a href="{{route('304_boru_fiyat')}}">304 Paslanmaz Boru Fiyatları</a></h4>
+                        <div class="image"><img src="assets/images/resource/304 Paslanmaz Boru Fİyatları.jpg" alt="304 Paslanmaz Boru Fİyatları"></div>
+                        <h4><a href="{{route('304_boru_fiyat')}}">304 Paslanmaz Boru Fİyatları</a></h4>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 project-block">
                     <div class="inner-box">
-                        <div class="image"><img src="assets/images/resource/project-6.jpg" alt=""></div>
-                        <h4><a href="{{route('304_kare_fiyat')}}">304 Paslanmaz Kare Profil Fiyat Listesi</a></h4>
+                        <div class="image"><img src="assets/images/resource/304 Paslanmaz Kare Profil FİyatLARI.jpg" alt="304 Paslanmaz Kare Profil FİyatLARI"></div>
+                        <h4><a href="{{route('304_kare_fiyat')}}">304 Paslanmaz Kare Profil FİyatLARI</a></h4>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 project-block">
                     <div class="inner-box">
-                        <div class="image"><img src="assets/images/resource/project-6.jpg" alt=""></div>
-                        <h4><a href="{{route('304_dik_fiyat')}}">304 Paslanmaz Dikdörtgen Profil Fiyat Listesi</a></h4>
+                        <div class="image"><img src="assets/images/resource/304 Paslanmaz Dİkdörtgen Profİl FiyatLARI.jpeg" alt="304 Paslanmaz Dİkdörtgen Profİl FiyatLARI"></div>
+                        <h4><a href="{{route('304_dik_fiyat')}}">304 Paslanmaz Dİkdörtgen Profİl FiyatLARI</a></h4>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 project-block">
                     <div class="inner-box">
-                        <div class="image"><img src="assets/images/resource/project-6.jpg" alt=""></div>
-                        <h4><a href="{{route('304_cubuk_fiyat')}}">304 Paslanmaz Çubuk Fiyatları</a></h4>
+                        <div class="image"><img src="assets/images/resource/304 Paslanmaz Çubuk Fİyatları.jpeg" alt="304 Paslanmaz Çubuk Fİyatları"></div>
+                        <h4><a href="{{route('304_cubuk_fiyat')}}">304 Paslanmaz Çubuk Fİyatları</a></h4>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 project-block">
                     <div class="inner-box">
-                        <div class="image"><img src="assets/images/resource/project-6.jpg" alt=""></div>
-                        <h4><a href="{{route('316_cubuk_fiyat')}}">316 Paslanmaz Çubuk Fiyatları</a></h4>
+                        <div class="image"><img src="assets/images/resource/316 Paslanmaz Çubuk Fİyatları.jpg" alt="316 Paslanmaz Çubuk Fİyatları"></div>
+                        <h4><a href="{{route('316_cubuk_fiyat')}}">316 Paslanmaz Çubuk Fİyatları</a></h4>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 project-block">
                     <div class="inner-box">
-                        <div class="image"><img src="assets/images/resource/project-6.jpg" alt=""></div>
-                        <h4><a href="{{route('304_lama_fiyat')}}">304 Paslanmaz Lama Fiyatları</a></h4>
+                        <div class="image"><img src="assets/images/resource/304 Paslanmaz Lama Fİyatları.jpeg" alt="304 Paslanmaz Lama Fİyatları"></div>
+                        <h4><a href="{{route('304_lama_fiyat')}}">304 Paslanmaz Lama Fİyatları</a></h4>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 project-block">
                     <div class="inner-box">
-                        <div class="image"><img src="assets/images/resource/project-6.jpg" alt=""></div>
-                        <h4><a href="{{route('304_kose_fiyat')}}">304 Paslanmaz Köşebent Fiyatları</a></h4>
+                        <div class="image"><img src="assets/images/resource/304 Paslanmaz Köşebent Fİyatları.jpeg" alt="304 Paslanmaz Köşebent Fİyatları"></div>
+                        <h4><a href="{{route('304_kose_fiyat')}}">304 Paslanmaz Köşebent Fİyatları</a></h4>
                     </div>
                 </div>
             </div>

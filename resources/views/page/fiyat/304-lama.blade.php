@@ -9,12 +9,12 @@
             <div class="content-box">
                 <div class="content-wrapper">
                     <div class="title">
-                        <h1>304 PASLANMAZ LAMA FIYATLARI</h1>
+                        <h1>304 PASLANMAZ LAMA FİYATLARI</h1>
                     </div>
                     <ul class="bread-crumb">
                         <li><a href="{{route('index')}}">ANA SAYFA</a></li>
                         <li><a href="{{route('fiyat_listesi')}}">FİYAT LİSTESİ</a></li>
-                        <li>304 PASLANMAZ LAMA FIYATLARI</li>
+                        <li>304 PASLANMAZ LAMA FİYATLARI</li>
                     </ul>
                 </div>
             </div>
@@ -28,7 +28,7 @@
             <div class="row">
                 @include('page.fiyat.sidebar')
                 <div class="col-lg-9">
-                    <h2>304 PASLANMAZ LAMA FIYATLARI</h2>
+                    <h2>304 PASLANMAZ LAMA FİYATLARI</h2>
 
                     <table class="table table-striped">
                         <thead>

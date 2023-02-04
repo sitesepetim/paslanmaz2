@@ -9,12 +9,12 @@
             <div class="content-box">
                 <div class="content-wrapper">
                     <div class="title">
-                        <h1>310 PASLANMAZ SAC FIYATLARI</h1>
+                        <h1>310 PASLANMAZ SAC FİYATLARI</h1>
                     </div>
                     <ul class="bread-crumb">
                         <li><a href="{{route('index')}}">ANA SAYFA</a></li>
                         <li><a href="{{route('fiyat_listesi')}}">FİYAT LİSTESİ</a></li>
-                        <li>310 PASLANMAZ SAC FIYATLARI</li>
+                        <li>310 PASLANMAZ SAC FİYATLARI</li>
                     </ul>
                 </div>
             </div>
@@ -28,7 +28,7 @@
             <div class="row">
                 @include('page.fiyat.sidebar')
                 <div class="col-lg-9">
-                    <h2>310 Paslanmaz Sac Fiyatları</h2>
+                    <h2>310 Paslanmaz Sac Fİyatları</h2>
 
                     <table class="table table-striped">
                         <thead>

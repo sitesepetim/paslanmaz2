@@ -9,12 +9,12 @@
             <div class="content-box">
                 <div class="content-wrapper">
                     <div class="title">
-                        <h1>304 PASLANMAZ DİKDÖRTGEN FIYATLARI</h1>
+                        <h1>304 PASLANMAZ DİKDÖRTGEN FİYATLARI</h1>
                     </div>
                     <ul class="bread-crumb">
                         <li><a href="{{route('index')}}">ANA SAYFA</a></li>
                         <li><a href="{{route('fiyat_listesi')}}">FİYAT LİSTESİ</a></li>
-                        <li>304 PASLANMAZ DİKDÖRTGEN FIYATLARI</li>
+                        <li>304 PASLANMAZ DİKDÖRTGEN FİYATLARI</li>
                     </ul>
                 </div>
             </div>

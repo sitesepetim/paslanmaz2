@@ -9,12 +9,12 @@
             <div class="content-box">
                 <div class="content-wrapper">
                     <div class="title">
-                        <h1>304 PASLANMAZ BORU FIYATLARI</h1>
+                        <h1>304 PASLANMAZ BORU FİYATLARI</h1>
                     </div>
                     <ul class="bread-crumb">
                         <li><a href="{{route('index')}}">ANA SAYFA</a></li>
                         <li><a href="{{route('fiyat_listesi')}}">FİYAT LİSTESİ</a></li>
-                        <li>304 PASLANMAZ BORU FIYATLARI</li>
+                        <li>304 PASLANMAZ BORU FİYATLARI</li>
                     </ul>
                 </div>
             </div>
@@ -28,8 +28,26 @@
             <div class="row">
                 @include('page.fiyat.sidebar')
                 <div class="col-lg-9">
-                    <h2>304 PASLANMAZ BORU FIYATLARI</h2>
+                    <h2>304 PASLANMAZ BORU FİYATLARI</h2>
 
+                    Paslanmaz çelik, korozyona dayanıklı ve estetik görünümü ile yüksek talep gören bir malzemedir.
+                    Bu malzeme, gıda sanayi, inşaat, havacılık ve otomotiv gibi birçok sektörde kullanılır. Paslanmaz
+                    çelik malzemelerin kalitesi, ölçüsü ve miktarı fiyatın belirlenmesinde etkilidir.
+                    <br>
+                    <br>
+                    Fiyat listemizdeki tüm fiyatlar, dolar cinsindendir. Lütfen bu fiyatların, yerel para
+                    birimi cinsinden değerlendirilmesi için gerekli döviz kuru hesaplamalarını yapın.
+                    <br>
+                    <br>
+                    Fiyat listemizdeki tüm fiyatlara, KDV dahil değildir.
+                    <br>
+                    <br>
+                    Detaylı bilgi için iletişim bilgilerimizden bizlere ulaşabilirsiniz.
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <h3>304 PASLANMAZ BORU FİYAT LİSTESİ</h3>
                     <table class="table table-striped">
                         <thead>
                         <tr>

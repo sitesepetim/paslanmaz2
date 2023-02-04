@@ -9,12 +9,12 @@
             <div class="content-box">
                 <div class="content-wrapper">
                     <div class="title">
-                        <h1>316 PASLANMAZ ÇUBUK FIYATLARI</h1>
+                        <h1>316 PASLANMAZ ÇUBUK FİYATLARI</h1>
                     </div>
                     <ul class="bread-crumb">
                         <li><a href="{{route('index')}}">ANA SAYFA</a></li>
                         <li><a href="{{route('fiyat_listesi')}}">FİYAT LİSTESİ</a></li>
-                        <li>316 PASLANMAZ ÇUBUK FIYATLARI</li>
+                        <li>316 PASLANMAZ ÇUBUK FİYATLARI</li>
                     </ul>
                 </div>
             </div>
@@ -28,7 +28,7 @@
             <div class="row">
                 @include('page.fiyat.sidebar')
                 <div class="col-lg-9">
-                    <h2>316 PASLANMAZ ÇUBUK FIYATLARI</h2>
+                    <h2>316 PASLANMAZ ÇUBUK FİYATLARI</h2>
 
                     <table class="table table-striped">
                         <thead>
