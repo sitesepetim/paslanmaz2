@@ -61,7 +61,6 @@
                             <div class="icon-box">
                                 <div class="icon"><span class="flaticon-email-1"></span></div>
                                 <div class="text"><a href="mailto:info@huzeymetal.com">info@huzeymetal.com</a></div>
-                                <div class="text"><a href="mailto:info@huzeymetal.com">info@huzeymetal.com</a></div>
                             </div>
                             <div class="icon-box">
                                 <div class="icon"><span class="flaticon-telephone"></span></div>

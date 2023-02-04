@@ -169,7 +169,7 @@
                     <div class="main-menu__wrapper-inner clearfix">
                         <div class="main-menu__left">
                             <div class="main-menu__logo">
-                                <a href="{{route('index')}}"><img width="160" src="{{asset('assets/images/logo-asaf.png')}}" alt=""></a>
+                                <a href="{{route('index')}}"><img width="160" src="{{asset('assets/huzey-metal-logo.png')}}" alt=""></a>
                             </div>
                             <div class="main-menu__main-menu-box">
                                 <div class="main-menu__main-menu-box-inner">
