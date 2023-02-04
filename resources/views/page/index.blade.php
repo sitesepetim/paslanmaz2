@@ -81,7 +81,7 @@
                     <div class="content-outer">
                         <div class="content-box">
                             <div class="inner">
-                                <h1>SEKÖTRÜN <br>ÖNCÜSÜ</h1>
+                                <h1>SEKTÖRÜN <br>ÖNCÜSÜ</h1>
                                 <div class="link-box">
                                     <a href="about.html" class="theme-btn btn-style-one"><span>BİZE ULAŞABİLİRSİNİZ</span></a>
                                 </div>
