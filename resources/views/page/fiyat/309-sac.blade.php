@@ -46,7 +46,7 @@
                     <br>
                     <br>
                     <br>
-                    <h3>304 PASLANMAZ BORU FİYAT LİSTESİ</h3>
+                    <h3>309 Paslanmaz Sac FİYAT LİSTESİ</h3>
 
                     <table class="table table-striped">
                         <thead>
