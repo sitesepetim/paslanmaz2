@@ -7,7 +7,7 @@
                 <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
                 <li><a href="#"><i class="fab fa-youtube"></i></a></li>
             </ul>
-            <div class="copyright-text">© LİSANSLIDIR 2023 / NİKOMET PASLANMAZ / TÜM HAKLARI SAKLIDIR</div>
+            <div class="copyright-text">© LİSANSLIDIR 2023 / HUZEY PASLANMAZ / TÜM HAKLARI SAKLIDIR</div>
         </div>
     </div>
 </div>

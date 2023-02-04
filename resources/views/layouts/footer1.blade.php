@@ -5,7 +5,7 @@
                 <div class="col-lg-3 col-md-6">
                     <div class="widget about-widget">
                         <div class="logo"><a href="{{route('index')}}"><img src="{{asset('assets/images/logo.png')}}" alt=""></a></div>
-                        <div class="text">NİKOMET PASLANMAZ, çelik sektöründe öncü firma olmak ve ülkemizi uluslararası
+                        <div class="text">HUZEY PASLANMAZ, çelik sektöründe öncü firma olmak ve ülkemizi uluslararası
                             arenada temsil etmek amacıyla çalışmalara durmadan tüm hızıyla devam etmektedir.</div>
                         <div class="link-box">
                             <a href="{{route('iletisim')}}" class="theme-btn btn-style-one"><span>İLETİŞİM</span></a>
@@ -60,7 +60,8 @@
                             </div>
                             <div class="icon-box">
                                 <div class="icon"><span class="flaticon-email-1"></span></div>
-                                <div class="text"><a href="mailto:info@nikometpaslanmaz.com">info@nikometpaslanmaz.com</a></div>
+                                <div class="text"><a href="mailto:info@huzeymetal.com">info@huzeymetal.com</a></div>
+                                <div class="text"><a href="mailto:info@huzeymetal.com">info@huzeymetal.com</a></div>
                             </div>
                             <div class="icon-box">
                                 <div class="icon"><span class="flaticon-telephone"></span></div>

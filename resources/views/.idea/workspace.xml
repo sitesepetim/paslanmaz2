@@ -57,6 +57,7 @@
       <workItem from="1667806274026" duration="596000" />
       <workItem from="1667977290164" duration="4119000" />
       <workItem from="1668067577221" duration="15748000" />
+      <workItem from="1675528774528" duration="657000" />
     </task>
     <servers />
   </component>
@@ -96,6 +97,11 @@
           <url>file://$PROJECT_DIR$/page/index.blade.php</url>
           <line>992</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/page/index.blade.php</url>
+          <line>79</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
