@@ -77,7 +77,7 @@
                     </div>
                 </div>
                 <!-- Slide Item -->
-                <div class="swiper-slide" style="background-image: url(assets/images/main-slider/HUZEY METAL PASLANMAZ ÇELİK1.jpeg);">
+                <div class="swiper-slide" style="background-image: url(assets/images/main-slider/HUZEY-METAL-PASLANMAZ-ÇELİK1.jpeg);">
                     <div class="content-outer">
                         <div class="content-box">
                             <div class="inner">
