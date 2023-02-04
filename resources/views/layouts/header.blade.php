@@ -29,7 +29,7 @@
             <div class="inner-container">
                 <!--Logo-->
                 <div class="logo-box">
-                    <div class="logo"><a href="{{route('index')}}"><img src="assets/huzey-metal-logo.png" alt=""></a></div>
+                    <div class="logo"><a href="{{route('index')}}"><img src="assets/huzey-metal-logo.png" width="250" alt=""></a></div>
                 </div>
                 <div class="right-column">
                     <!--Nav Box-->
