@@ -68,9 +68,9 @@
                     <div class="content-outer">
                         <div class="content-box">
                             <div class="inner">
-                                <h1>offering <br>solid metal <br> solutions</h1>
+                                <h1>HUZEY METAL <br>PASLANMAZ ÇELİK'TE <br> ÖNCÜ</h1>
                                 <div class="link-box">
-                                    <a href="about.html" class="theme-btn btn-style-one"><span>Discover More</span></a>
+                                    <a href="about.html" class="theme-btn btn-style-one"><span>BİZE ULAŞABİLİRSİNİZ</span></a>
                                 </div>
                             </div>
                         </div>
