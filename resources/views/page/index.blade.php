@@ -124,7 +124,7 @@
                 <div class="col-lg-6">
                     <div class="content-side">
                         <div class="sec-title mb-30">
-                            <div class="sub-title">HUZEY METAL 2</div>
+                            <div class="sub-title">HUZEY METAL</div>
                             <h2>GÜVENİLİR &<br> KALİTELİ</h2>
                         </div>
                         <div class="text wow fadeInUp" data-wow-duration="1500ms">Huzey Metal, yıllardır sektördeki tecrübesiyle ülkemizde paslanmaz sektöründe
