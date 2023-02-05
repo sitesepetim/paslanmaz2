@@ -68,7 +68,7 @@
                         <h1>ürünler</h1>
                     </div>
                     <ul class="bread-crumb">
-                        <li><a href="index.html">ana sayfa</a></li>
+                        <li><a href="{{route('index')}}">ana sayfa</a></li>
                         <li>ürünler</li>
                     </ul>
                 </div>
