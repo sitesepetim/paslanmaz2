@@ -103,7 +103,7 @@
                 <div class="inner-container">
                     <!--Logo-->
                     <div class="logo-box">
-                        <div class="logo"><a href="index.html"><img src="assets/huzey-metal-logo.png" alt=""></a></div>
+                        <div class="logo"><a href="index.html"><img src="assets/huzey-metal-logo.png"  width="250" alt=""></a></div>
                     </div>
                     <div class="right-column">
                         <!--Nav Box-->
@@ -127,7 +127,7 @@
         <div class="close-btn"><span class="icon flaticon-remove"></span></div>
 
         <nav class="menu-box">
-            <div class="nav-logo"><a href="index.html"><img src="assets/huzey-metal-logo.png" alt="" title=""></a></div>
+            <div class="nav-logo"><a href="index.html"><img src="assets/huzey-metal-logo.png" alt=""  width="200" title=""></a></div>
             <div class="menu-outer"><!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header--></div>
             <!--Social Links-->
             <div class="social-links">
