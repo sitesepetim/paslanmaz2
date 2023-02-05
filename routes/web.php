@@ -324,7 +324,23 @@ Route::get('/urunler/paslanmaz-cekme-boru', function () {
 })->name('paslanmaz-cekme');
 
 
+//ağırık hesaplama
+
+
+Route::get('/agirlik-hesaplama', function () {
+    return view('page.fiyat_hesapla');
+})->name('fiyat_hesaplamaa');
+
+
+Route::get('/paslanmaz-boru-agirlik-hesaplama', function () {
+    return view('page.fiyat_hesapla');
+})->name('fiyat_hesaplamaa');
+
+
 ////fiyat listesi
+///
+///
+
 Route::get('/fiyat-listesi', function () {
     return view('page.fiyat.index');
 })->name('fiyat_listesi');
