@@ -88,7 +88,7 @@
                         </nav>
                     </div>
                 </div>
-                <div class="link-box">
+                <div hidden class="link-box">
                     <a href="#" class="theme-btn btn-style-one"><span>S.S.S</span></a>
                 </div>
             </div>
