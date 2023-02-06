@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-lg-3 col-md-6">
                     <div class="widget about-widget">
-                        <div class="logo"><a href="{{route('index')}}"><img src="{{asset('assets/images/logo.png')}}" alt=""></a></div>
+                        <div class="logo"><a href="{{route('index')}}"><img src="{{asset('assets/huzey-metal-logo-wihte.png')}}" alt=""></a></div>
                         <div class="text">HUZEY PASLANMAZ, çelik sektöründe öncü firma olmak ve ülkemizi uluslararası
                             arenada temsil etmek amacıyla çalışmalara durmadan tüm hızıyla devam etmektedir.</div>
                         <div class="link-box">

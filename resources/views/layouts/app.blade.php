@@ -288,7 +288,7 @@
                     <div class="col-xl-6 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
                         <div class="footer-widget__column footer-widget__about">
                             <div class="footer-widget__logo">
-                                <a href="index.html"><img src="{{asset('assets/huzey-metal-logo.png)}}" alt=""></a>
+                                <a href="index.html"><img src="{{asset('assets/huzey-metal-logo-wihte.png')}}" alt=""></a>
                             </div>
                             <div class="footer-widget__about-text-box">
                                 <p class="footer-widget__about-text">Asaf Sigorta olarak, 2010 yılından beri Kırıklareli'nin Lüleburgaz ilçesinde, sektörün öncüsü Axa Sigorta’dan aldığımız güçle sizlere hizmet ediyoruz.</p>
@@ -363,7 +363,7 @@
         <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
 
         <div class="logo-box">
-            <a href="index.html" aria-label="logo image"><img src="assets/huzey-metal-logo.png" width="143"
+            <a href="index.html" aria-label="logo image"><img src="assets/huzey-metal-logo-wihte.png" width="143"
                                                               alt="" /></a>
         </div>
         <!-- /.logo-box -->
