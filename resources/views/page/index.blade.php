@@ -167,7 +167,7 @@
                                 <li>Son Teknoloji Ürünleri</li>
                             </ul>
                             <div class="link">
-                                <a href="about.html" class="theme-btn btn-style-one"><span>HAKKIMIZDA</span></a>
+                                <a href="hakkimizda.html" class="theme-btn btn-style-one"><span>HAKKIMIZDA</span></a>
                             </div>
                         </div>
 
@@ -202,7 +202,8 @@
                         <div class="image"><span class="border-shape"></span><img src="assets/images/resource/image-5.jpg" alt=""></div>
                         <div class="content">
                             <h3><a href="metal-work.html"> 202 PASLANMAZ<br> ÇELİK</a></h3>
-                            <div class="text">ÖRNEK METİN ÖRNEK METİN <br> ÖRNEK METİN ÖRNEK METİN  <br> ÖRNEK METİN ÖRNEK METİN </div>
+                            <div class="text">nikel içeriğinin yarısını kapsayan ve daha yaygın türdeki çeliklerin fazlalaştırılmış
+                                mangan ve azotunu içerdiği bir alaşımdır. </div>
                             <div class="link">
                                 <a href="metal-work.html" class="theme-btn btn-style-one"><span>DETAYLI BİLGİ</span></a>
                             </div>
