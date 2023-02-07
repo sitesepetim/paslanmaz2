@@ -13,7 +13,7 @@
                     </div>
                     <ul class="bread-crumb">
                         <li><a href="{{route('index')}}">ANA SAYFA</a></li>
-                        <li><a href="{{route('desenler')}}">DESENLER</a></li>
+                        <li><a href="{{route('desenler')}}">DEKORATİF DESENLER</a></li>
                         <li>SATİNE DESEN</li>
                     </ul>
                 </div>
@@ -24,11 +24,12 @@
     <!-- Project details -->
     <section class="project-details">
         <div class="auto-container">
-            <div class="image mb-40"><img src="{{asset('assets/images/resource/project-7.jpg')}}" alt=""></div>
             <div class="row">
                 @include('page.desenler.sidebar')
                 <div class="col-lg-8">
                     <h2>SATİNE DESEN</h2>
+                    <div class="image mb-40"><img src="{{asset('assets/images/resource/4N SATİNE TAŞLI YÜZEY-min.jpeg')}}" alt="4N SATİNE TAŞLI YÜZEY"></div>
+
                     <div class="text">Paslanmaz çelik satine deseni, asansör kabinleri ve diğer dekoratif alanlar gibi
                         fonksiyonel ve estetik amaçları bir arada sunan yapılar için idealdir. Bu desen, düz ve sade bir
                         görünüme sahip olmasına rağmen hafif eğimli çizgilerle zenginleştirilmiş bir görünüme sahiptir.

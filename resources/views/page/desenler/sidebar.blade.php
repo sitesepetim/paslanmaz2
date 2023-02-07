@@ -2,10 +2,10 @@
     <aside class="col-lg-12 sidebar service-sidebar">
         <div class="widget category-widget-two">
             <ul class="widget cat-list">
-                <li class="{{request()->is("satine-desen") ? "active":""}}" ><a href="{{route('satine_desen')}}">Satine Desen</a></li>
+                <li class="{{request()->is("satine-desen") ? "active":""}}" ><a href="{{route('satine_desen')}}">Satİne Desen</a></li>
                 <li class="{{request()->is("nokta-desen") ? "active":""}}"><a href="{{route('nokta_desen')}}">Nokta Desen</a></li>
                 <li class="{{request()->is("kare-desen") ? "active":""}}"><a href="{{route('kare_desen')}}">Kare Desen</a></li>
-                <li  class="{{request()->is("deri-desen") ? "active":""}}" ><a href="{{route('deri_desen')}}">Deri Desen</a></li>
+                <li  class="{{request()->is("deri-desen") ? "active":""}}" ><a href="{{route('deri_desen')}}">Derİ Desen</a></li>
 
             </ul>
         </div>

@@ -15,7 +15,7 @@
                 <li  class="{{request()->is("urunler/paslanmaz-sac") ? "active":""}}" ><a href="{{route('paslanmaz-sac')}}">PASLANMAZ SAC</a></li>
                 <li  class="{{request()->is("urunler/paslanmaz-rulo") ? "active":""}}" ><a href="{{route('paslanmaz-rulo')}}">PASLANMAZ RULO</a></li>
                 <li  class="{{request()->is("urunler/paslanmaz-serit") ? "active":""}}" ><a href="{{route('paslanmaz-serit')}}">PASLANMAZ ŞERİT</a></li>
-                <li  class="{{request()->is("urunler/paslanmaz-serit") ? "active":""}}" ><a href="{{route('paslanmaz-cekme')}}">PASLANMAZ ÇEKME ŞERİT</a></li>
+                <li  class="{{request()->is("urunler/paslanmaz-serit") ? "active":""}}" ><a href="{{route('paslanmaz-cekme')}}">PASLANMAZ ÇEKME BORU</a></li>
             </ul>
         </div>
 

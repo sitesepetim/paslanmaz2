@@ -60,7 +60,7 @@
     </div>
 
     <!-- Page Title -->
-    <section class="page-title" style="background-image: url(assets/images/background/bg-9.jpg);">
+    <section class="page-title" style="background-image: url(assets/images/background/SAYFALAR-SLİDER.jpeg);">
         <div class="auto-container">
             <div class="content-box">
                 <div class="content-wrapper">

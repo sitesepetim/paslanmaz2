@@ -60,7 +60,7 @@
     </div>
 
     <!-- Page Title -->
-    <section class="page-title" style="background-image: url(assets/images/background/bg-9.jpg);">
+    <section class="page-title" style="background-image: url(assets/images/background/SAYFALAR-SLİDER.jpeg);">
         <div class="auto-container">
             <div class="content-box">
                 <div class="content-wrapper">
@@ -83,8 +83,8 @@
                 <div class="col-lg-6">
                     <div class="image-wrapper">
                         <div class="image-one wow fadeInUp" data-wow-duration="1500ms">
-                            <img src="assets/images/resource/image-8.jpg" alt="">
-                            <div class="experience-years">
+                            <img src="assets/images/resource/HAKKİMİZDA.jpeg" alt="">
+                            <div hidden class="experience-years">
                                 <div class="icon"><span class="fab fa-twitter"></span></div>
                                 <h4>27  <br> Yıldan Beri</h4>
                             </div>
@@ -154,7 +154,7 @@
 
     <!-- Clients Logo Section -->
     <section class="clients-logo-section">
-        <div class="auto-container">
+        <div hidden class="auto-container">
             <!--Sponsors Carousel-->
             <div class="theme_carousel owl-theme owl-carousel" data-options='{"loop": true, "margin": 40, "autoheight":true, "lazyload":true, "nav": true, "dots": true, "autoplay": true, "autoplayTimeout": 6000, "smartSpeed": 300, "responsive":{ "0" :{ "items": "1" }, "600" :{ "items" : "2" }, "768" :{ "items" : "3" } , "992":{ "items" : "4" }, "1200":{ "items" : "5" }}}'>
                 <div class="slide-item"><div class="image"><img src="assets/images/resource/clients-logo-1.png" alt=""></div></div>
@@ -266,10 +266,10 @@
     </section>
 
     <!-- Team Section -->
-    <section class="team-section">
+    <section hidden="team-section">
         <div class="auto-container">
             <div class="sec-title text-center">
-                <div class="sub-title">Nikomet Paslanmaz</div>
+                <div class="sub-title">HUZEY METAL </div>
                 <h2>EKİBİMİZ</h2>
             </div>
             <div class="row">

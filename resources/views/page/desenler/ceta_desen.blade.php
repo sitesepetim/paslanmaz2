@@ -13,7 +13,7 @@
                     </div>
                     <ul class="bread-crumb">
                         <li><a href="{{route('index')}}">ANA SAYFA</a></li>
-                        <li><a href="{{route('desenler')}}">DESENLER</a></li>
+                        <li><a href="{{route('desenler')}}">ENDÜSTRİYEL DESENLER</a></li>
                         <li>ÇETA DESEN</li>
                     </ul>
                 </div>
@@ -24,11 +24,12 @@
     <!-- Project details -->
     <section class="project-details">
         <div class="auto-container">
-            <div class="image mb-40"><img src="{{asset('assets/images/resource/project-7.jpg')}}" alt=""></div>
             <div class="row">
                 @include('page.desenler.sidebar2')
                 <div class="col-lg-8">
                     <h2>ÇETA DESEN</h2>
+                    <div class="image mb-40"><img src="{{asset('assets/images/resource/çeta-desen.jpg')}}" alt="çeta-desen"></div>
+
                     <div class="text">Paslanmaz çelik, uzun ömürlü, dayanıklı ve korozyona karşı dirençli özelliklere sahip
                         bir malzeme olduğu için endüstriyel sektörde sıklıkla kullanılır. Bu sebeple, paslanmaz çelik malzemelerin
                         görünümlerine de büyük önem verilir. Endüstriyel desenler, paslanmaz çelik malzemelerin görünümünü değiştirerek,

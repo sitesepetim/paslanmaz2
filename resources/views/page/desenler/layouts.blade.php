@@ -68,7 +68,7 @@
 
 
     <!-- Related Project -->
-    <section class="related-projects">
+    <section hidden class="related-projects">
         <div class="auto-container">
             <div class="sec-title text-center">
                 <div class="sub-title">NİKOMET PASLANMAZ</div>

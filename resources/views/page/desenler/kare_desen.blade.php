@@ -13,7 +13,7 @@
                     </div>
                     <ul class="bread-crumb">
                         <li><a href="{{route('index')}}">ANA SAYFA</a></li>
-                        <li><a href="{{route('desenler')}}">DESENLER</a></li>
+                        <li><a href="{{route('desenler')}}">DEKORATİF DESENLER</a></li>
                         <li>KARE DESEN</li>
                     </ul>
                 </div>
@@ -24,11 +24,12 @@
     <!-- Project details -->
     <section class="project-details">
         <div class="auto-container">
-            <div class="image mb-40"><img src="{{asset('assets/images/resource/project-7.jpg')}}" alt=""></div>
             <div class="row">
                 @include('page.desenler.sidebar')
                 <div class="col-lg-8">
                     <h2>KARE DESEN</h2>
+                    <div class="image mb-40"><img src="{{asset('assets/images/resource/KARE-DESEN.jpeg')}}" alt=""KARE-DESEN></div>
+
                     <div class="text">Paslanmaz çelik, kare desenli olarak tasarlandığında, birçok dekoratif alanda kullanılabilir.
                         Bunlar arasında asansör kabinleri, banyo ve mutfak dolapları, kapılar ve mobilyalar bulunur. Paslanmaz çelik,
                         dayanıklı, rutubetsiz ve hijyenik özellikleri nedeniyle, ev ve işletmelerin dekorasyonunda popüler bir seçimdir.
