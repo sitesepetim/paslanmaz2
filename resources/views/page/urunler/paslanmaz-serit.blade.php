@@ -23,20 +23,27 @@
     <!-- Project details -->
     <section class="project-details">
         <div class="auto-container">
-            <div class="image mb-40"><img src="{{asset('assets/images/resource/project-7.jpg')}}" alt=""></div>
+
             <div class="row">
             @include('page.urunler.sidebar')
                 <div class="col-lg-8">
                     <h2>PASLANMAZ ŞERİT</h2>
-                    <div class="text">Lorem ipsum is simply free text used by copytyping refreshing. Neque porro est qui dolorem ipsum quia quaed inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Aelltes port lacus quis enim var sed efficitur turpis gilla sed sit amet finibus eros. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ndustry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries. Lorem Ipsum is simply dummy text of the new design printng and type setting Ipsum Take a look at our round up of the best shows coming soon to your telly box has been the is industrys. When an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing.</div>
-                    <h3>Project Challenges</h3>
-                    <div class="text">Neque porro est qui dolorem ipsum quia quaed inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Aelltes port lacus quis enim var sed efficitur turpis gilla sed sit amet finibus eros. Lorem Ipsum is simply dummy text of the printing and typesetting industry.</div>
+                    <div class="image mb-40"><img src="{{asset('assets/images/resource/PASLANMAZ-ŞERİT.jpeg')}}" alt="PASLANMAZ-ŞERİT"></div>
+                    <div class="text">Paslanmaz şerit, korozyona dayanıklı ve güçlü bir malzeme olan paslanmaz çelikten üretilir.
+                        Bu şeritler genellikle inşaat, endüstriyel ve gıda sektörlerinde kullanılır.</div>
+                    <h3>PASLANMAZ ŞERİTLERİN ÖZELLİKLERİ</h3>
                     <ul class="list">
-                        <li>Lorem Ipsum generators on the Internet tend</li>
-                        <li>It uses a dictionary of over 200 Latin words</li>
-                        <li>The majority have alteration in some form</li>
-                        <li>There are many variations of passages of available</li>
-                        <li>Which don’t look even slightly believable</li>
+                        <li><strong>Korozyona dayanıklılık: </strong>Paslanmaz çelik, korozyona dayanıklı bir malzeme olduğundan paslanmaz şeritler de bu özelliği taşır.</li>
+                        <li><strong>Güçlülük:</strong> Paslanmaz şeritler güçlü ve dayanıklıdır, bu nedenle inşaat, endüstriyel ve gıda sektörlerinde uzun süreli kullanım için ideal bir seçenektir.</li>
+                        <li><strong>Düşük aşınma: </strong>Paslanmaz şeritler, yüksek aşınma dayanımına sahiptir ve dolayısıyla uzun süreli kullanım için uygundur.</li>
+                        <li><strong>Hijyenik: </strong>Paslanmaz şeritler, mikroorganizmaların büyümesini engelleme ve kolay temizlenebilme özelliğine sahiptir.
+                            Bu nedenle gıda sektöründe sıklıkla kullanılır.</li>
+                    </ul>
+                    <h3>PASLANMAZ ŞERİTLERİN <br> KULLANIM ALANLARI</h3>
+                    <ul class="list">
+                        <li><strong>Gıda endüstrisi:</strong> Paslanmaz şeritler hijyenik özelliği nedeniyle gıda endüstrisinde sıklıkla kullanılır (örneğin, gıda işleme tesislerinde).</li>
+                        <li><strong>Endüstriyel:</strong> Paslanmaz şeritler, endüstriyel makine ve ekipmanlar için kapaklar, çerçeveler, borular ve vidalar gibi uygulamalarda kullanılır.</li>
+                        <li><strong>İnşaat: </strong>Paslanmaz şeritler, duvar kaplamaları, merdivenler, çatı örtüleri ve banyo malzemeleri gibi inşaat uygulamalarında kullanılabilir.</li>
                     </ul>
                 </div>
             </div>

@@ -113,12 +113,12 @@
 
     <!-- Welcome Section two -->
     <section class="welcome-section-two">
-        <div class="side-image" style="background-image: url(assets/images/resource/image-7.jpg)"></div>
+        <div class="side-image" style="background-image: url(assets/images/resource/KALİTE-min.jpeg)"></div>
         <div class="auto-container">
             <div class="row">
                 <div class="col-lg-6">
                     <div class="image-wrapper">
-                        <div class="image-one wow fadeInUp" data-wow-duration="1500ms"><img src="assets/images/resource/image-8.jpg" alt=""></div>
+                        <div class="image-one wow fadeInUp" data-wow-duration="1500ms"><img src="assets/images/resource/KALİTE-min.jpeg" alt=""></div>
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -187,10 +187,11 @@
             <div class="row">
                 <div class="col-lg-4 col-md-6 service-block">
                     <div class="inner-box wow fadeInUp" data-wow-duration="1500ms">
-                        <div class="image"><span class="border-shape"></span><img src="assets/images/resource/image-4.jpg" alt=""></div>
+                        <div class="image"><span class="border-shape"></span><img src="assets/images/kalite/201 Paslanmaz Çelik.jpg" alt="201 Paslanmaz Çelik"></div>
                         <div class="content">
                             <h3><a href="steel-welding.html"> 201 PASLANMAZ<br> ÇELİK</a></h3>
-                            <div class="text">ÖRNEK METİN ÖRNEK METİN <br> ÖRNEK METİN ÖRNEK METİN  <br> ÖRNEK METİN ÖRNEK METİN</div>
+                            <div class="text">Nikel içeriğinin yarısını kapsayan ve daha yaygın türdeki çeliklerin fazlalaştırılmış
+                                mangan ve azotunu içerdiği bir alaşımdır.</div>
                             <div class="link">
                                 <a href="steel-welding.html" class="theme-btn btn-style-one"><span>DETAYLI BİLGİ</span></a>
                             </div>
@@ -199,11 +200,10 @@
                 </div>
                 <div class="col-lg-4 col-md-6 service-block">
                     <div class="inner-box wow fadeInDown" data-wow-duration="1500ms">
-                        <div class="image"><span class="border-shape"></span><img src="assets/images/resource/image-5.jpg" alt=""></div>
+                        <div class="image"><span class="border-shape"></span><img src="assets/images/kalite/202 Paslanmaz Çelik.jpg" alt="202 Paslanmaz Çelik"></div>
                         <div class="content">
                             <h3><a href="metal-work.html"> 202 PASLANMAZ<br> ÇELİK</a></h3>
-                            <div class="text">nikel içeriğinin yarısını kapsayan ve daha yaygın türdeki çeliklerin fazlalaştırılmış
-                                mangan ve azotunu içerdiği bir alaşımdır. </div>
+                            <div class="text"> Yüksek mukavemete, tokluğa, yüksek aşınma direnci <br>dayanıklılığı sertleşebilirlik özelliğine sahiptir. </div>
                             <div class="link">
                                 <a href="metal-work.html" class="theme-btn btn-style-one"><span>DETAYLI BİLGİ</span></a>
                             </div>
@@ -212,10 +212,11 @@
                 </div>
                 <div class="col-lg-4 col-md-6 service-block">
                     <div class="inner-box wow fadeInUp" data-wow-duration="1500ms">
-                        <div class="image"><span class="border-shape"></span><img src="assets/images/resource/image-6.jpg" alt=""></div>
+                        <div class="image"><span class="border-shape"></span><img src="assets/images/kalite/303 (1.4305) Paslanmaz Çelik.jpg" alt="303 (1.4305) Paslanmaz Çelik"></div>
                         <div class="content">
                             <h3><a href="pipe-welding.html">303 (1.4305) PASLANMAZ ÇELİK</a></h3>
-                            <div class="text">ÖRNEK METİN ÖRNEK METİN <br> ÖRNEK METİN ÖRNEK METİN  <br> ÖRNEK METİN ÖRNEK METİN</div>
+                            <div class="text">İçerdiği sülfürün bir sonucu olarak işlenebilirliği çok iyi olan bir paslanmaz çelik kalitesidir.
+                                Sülfür, malzemenin korozyona dayanım etkisini azaltır.</div>
                             <div class="link">
                                 <a href="pipe-welding.html" class="theme-btn btn-style-one"><span>DETAYLI BİLGİ</span></a>
                             </div>
@@ -227,7 +228,7 @@
     </section>
 
     <!-- Video section -->
-    <section class="video-section" style="background-image: url(assets/images/background/bg-6.jpg);">
+    <section class="video-section" style="background-image: url(assets/images/background/SAYFALAR-SLİDER.jpeg);">
         <div class="auto-container">
             <div class="row">
                 <div class="col-lg-9">
@@ -254,26 +255,26 @@
             <div class="row">
                 <div class="col-xl-3 col-lg-6 project-block">
                     <div class="inner-box wow fadeInUp" data-wow-duration="1500ms">
-                        <div class="image"><img src="assets/images/resource/project-1.jpg" alt=""></div>
-                        <h4><a href="project-details.html">PASLANMAZ ÇELİK</a></h4>
+                        <div class="image"><img src="assets/images/resource/PASLANMAZ ÇELİK.jpg" alt="PASLANMAZ ÇELİK"></div>
+                        <h4><a href="paslanmaz-celik">PASLANMAZ ÇELİK</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-3 col-lg-6 project-block">
                     <div class="inner-box wow fadeInDown" data-wow-duration="1500ms">
-                        <div class="image"><img src="assets/images/resource/project-2.jpg" alt=""></div>
-                        <h4><a href="project-details.html">PASLANMAZ MİL (ÇUBUK)</a></h4>
+                        <div class="image"><img src="assets/images/resource/PASLANMAZ MİL.jpeg" alt="PASLANMAZ MİL"></div>
+                        <h4><a href="paslanmaz-mil-cubuk">PASLANMAZ MİL (ÇUBUK)</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-3 col-lg-6 project-block">
                     <div class="inner-box wow fadeInUp" data-wow-duration="1500ms">
-                        <div class="image"><img src="assets/images/resource/project-3.jpg" alt=""></div>
-                        <h4><a href="project-details.html">PASLANMAZ MİL (ÇUBUK)</a></h4>
+                        <div class="image"><img src="assets/images/resource/PASLANMAZ KARE PROFİL.jpeg" alt="PASLANMAZ KARE PROFİL"></div>
+                        <h4><a href="paslanmaz-kare-profil">PASLANMAZ KARE PROFİL</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-3 col-lg-6 project-block">
                     <div class="inner-box wow fadeInDown" data-wow-duration="1500ms">
-                        <div class="image"><img src="assets/images/resource/project-4.jpg" alt=""></div>
-                        <h4><a href="project-details.html">PASLANMAZ MİL (ÇUBUK)</a></h4>
+                        <div class="image"><img src="assets/images/resource/PASLANMAZ TEL.jpeg" alt="PASLANMAZ TEL"></div>
+                        <h4><a href="paslanmaz-tel">PASLANMAZ TEL</a></h4>
                     </div>
                 </div>
             </div>
@@ -281,13 +282,13 @@
     </section>
 
     <!-- Testimonials section two -->
-    <section class="testimonials-section-two pt-0" style="background-image: url(assets/images/resource/map.png)">
+    <section  class="testimonials-section-two pt-0" style="background-image: url(assets/images/resource/map.png)">
         <div class="auto-container">
-            <div class="sec-title text-center">
+            <div hidden class="sec-title text-center">
                 <div class="sub-title text-center">HUZEY METAL</div>
                 <h2>SİZLERDEN GELENLER</h2>
             </div>
-            <div class="row">
+            <div hidden class="row">
                 <div class="theme_carousel owl-theme owl-carousel" data-options='{"loop": true, "margin": 0, "autoheight":true, "lazyload":true, "nav": true, "dots": true, "autoplay": true, "autoplayTimeout": 6000, "smartSpeed": 1000, "responsive":{ "0" :{ "items": "1" }, "600" :{ "items" : "1" }, "768" :{ "items" : "2" } , "992":{ "items" : "2" }, "1200":{ "items" : "3" }}}'>
                     <div class="testimonial-block-two">
                         <div class="inner-box">
@@ -317,10 +318,10 @@
 
     <!-- Faq section -->
     <section class="faq-section">
-        <div class="side-image"><img src="assets/images/resource/image-10.jpg" alt=""></div>
+        <div hidden="side-image"><img src="assets/images/resource/image-10.jpg" alt=""></div>
         <div class="auto-container">
             <div class="row">
-                <div class="col-lg-6 column" style="background-image: url(assets/images/resource/image-9.jpg);">
+                <div class="col-lg-6 column" style="background-image: url(assets/images/resource/sss-photo.jpeg);">
                     <div class="image"><img src="assets/images/resource/image-9.jpeg" alt=""></div>
                 </div>
                 <div class="col-lg-6">

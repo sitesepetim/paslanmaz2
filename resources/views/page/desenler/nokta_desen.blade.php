@@ -13,7 +13,7 @@
                     </div>
                     <ul class="bread-crumb">
                         <li><a href="{{route('index')}}">ANA SAYFA</a></li>
-                        <li><a href="{{route('desenler')}}">DESENLER</a></li>
+                        <li><a href="{{route('desenler')}}">DEKORATİF DESENLER/a></li>
                         <li>NOKTA DESEN</li>
                     </ul>
                 </div>
@@ -24,11 +24,12 @@
     <!-- Project details -->
     <section class="project-details">
         <div class="auto-container">
-            <div class="image mb-40"><img src="{{asset('assets/images/resource/project-7.jpg')}}" alt=""></div>
             <div class="row">
                 @include('page.desenler.sidebar')
                 <div class="col-lg-8">
                     <h2>NOKTA DESEN</h2>
+                    <div class="image mb-40"><img src="{{asset('assets/images/resource/nokta-desen.jpg')}}" alt="nokta-desen"></div>
+
                     <div class="text">Paslanmaz çelik, dayanıklılık, uzun ömürlülük ve estetik görünüm sunan bir malzeme olarak,
                         asansör kabinleri ve diğer dekoratif alanlar için sıklıkla tercih edilmektedir. Bu malzemenin en popüler
                         desenlerinden birisi de nokta deseni'dir.

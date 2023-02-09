@@ -13,7 +13,7 @@
                     </div>
                     <ul class="bread-crumb">
                         <li><a href="{{route('index')}}">ANA SAYFA</a></li>
-                        <li><a href="{{route('desenler')}}">DESENLER</a></li>
+                        <li><a href="{{route('desenler')}}">ENDÜSTRİYEL DESENLER</a></li>
                         <li>BAKLAVA DESEN</li>
                     </ul>
                 </div>
@@ -24,11 +24,12 @@
     <!-- Project details -->
     <section class="project-details">
         <div class="auto-container">
-            <div class="image mb-40"><img src="{{asset('assets/images/resource/project-7.jpg')}}" alt=""></div>
             <div class="row">
                 @include('page.desenler.sidebar2')
                 <div class="col-lg-8">
                     <h2>BAKLAVA DESEN</h2>
+                    <div class="image mb-40"><img src="{{asset('assets/images/resource/baklava-desen.png')}}" alt=""></div>
+
                     <div class="text">Paslanmaz çelik endüstriyel sektöründe baklava deseni, zeminler, fabrikalar, gemiler
                         ve benzer alanlarda sıklıkla kullanılan bir endüstriyel desendir. Bu desen, paslanmaz çelik ürünlerin
                         estetik görünümünü arttırmak için kullanılır ve güçlü, dayanıklı ve korozyona karşı dirençli olduğu
