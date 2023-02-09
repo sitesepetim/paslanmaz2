@@ -333,8 +333,26 @@ Route::get('/agirlik-hesaplama', function () {
 
 
 Route::get('/paslanmaz-boru-agirlik-hesaplama', function () {
-    return view('page.fiyat_hesapla');
-})->name('fiyat_hesaplamaa');
+    return view('page.agirlik.boru');
+})->name('boru_agirlik');
+Route::get('/paslanmaz-cubuk-agirlik-hesaplama', function () {
+    return view('page.agirlik.cubuk');
+})->name('cubuk_agirlik');
+Route::get('/paslanmaz-kosebent-agirlik-hesaplama', function () {
+    return view('page.agirlik.kosebent');
+})->name('kosebent_agirlik');
+Route::get('/paslanmaz-lama-agirlik-hesaplama', function () {
+    return view('page.agirlik.lama');
+})->name('lama_agirlik');
+Route::get('/paslanmaz-sac-agirlik-hesaplama', function () {
+    return view('page.agirlik.sac');
+})->name('sac_agirlik');
+Route::get('/paslanmaz-kutu-profil-agirlik-hesaplama', function () {
+    return view('page.agirlik.kutu');
+})->name('kutu_agirlik');
+Route::get('/paslanmaz-kare-profil-agirlik-hesaplama', function () {
+    return view('page.agirlik.kare');
+})->name('kare_agirlik');
 
 
 ////fiyat listesi

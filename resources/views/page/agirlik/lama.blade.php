@@ -1,6 +1,8 @@
 
 @extends('page.hizmetler.layouts')
 
+@section('title') Paslanmaz Lama Ağırlık Hesaplama @endsection
+
 @section('content')
 
     <section class="page-title" style="background-image: url({{asset('assets/images/background/bg-9.jpg')}});">
@@ -8,13 +10,13 @@
             <div class="content-box">
                 <div class="content-wrapper">
                     <div class="title">
-                        <h1>Paslanmaz Boru Ağırlık Hesaplama
+                        <h1>Paslanmaz Lama Ağırlık Hesaplama
                         </h1>
                     </div>
                     <ul class="bread-crumb">
                         <li><a href="{{route('index')}}">ANA SAYFA</a></li>
                         <li><a href="{{route('hizmetlerimiz')}}">HİZMETLERİMİZ</a></li>
-                        <li>Paslanmaz Boru Ağırlık Hesaplama</li>
+                        <li>Paslanmaz Lama Ağırlık Hesaplama</li>
                     </ul>
                 </div>
             </div>
@@ -27,20 +29,20 @@
             <div class="row">
                 @include('page.agirlik.sidebar')
                 <div class="col-lg-8">
-                    <h2>Paslanmaz Boru Ağırlık Hesaplama
+                    <h2>Paslanmaz Lama Ağırlık Hesaplama
                     </h2>
 
 
                     <div class="row">
-                        <div class="col-6">  <img src="https://www.karacapaslanmaz.com/front/calc/tube.jpg" name="pictures" width="200"></div>
+                        <div class="col-6">  <img src="https://www.karacapaslanmaz.com/front/calc/flat.jpg" name="pictures" width="200"></div>
                         <div class="col-6">
                             <div class="row">
                                 <div class="col-12">
-                                    <label for="dis_cap"><b>Dış çap (mm)</b></label>
+                                    <label for="dis_cap"><b>Kalınlık (mm)</b></label>
                                     <input id="dis_cap" type="text" placeholder="milimetre olarak giriniz. örn 10cm 100mm şeklinde" class="form-control">
                                 </div>
                                 <div class="col-12">
-                                    <label for="ic_cap"><b>İç çap (mm)(Et kalınlığı)</b></label>
+                                    <label for="ic_cap"><b>Genişlik (mm)</b></label>
                                     <input id="ic_cap" type="text" placeholder="milimetre olarak giriniz. örn 10cm 100mm şeklinde" name="" class="form-control">
                                 </div>
                                 <div class="col-12">
@@ -63,10 +65,10 @@
 
 
 
-                                    var sonuc2=(dis_cap-ic_cap)*ic_cap*0.02464*uzunluk;
+                                    var sonuc2=(parseInt(dis_cap)*parseInt(ic_cap)*parseInt(uzunluk)*1000*78)/10000000;
 
                                     console.log("Sonuç: "+sonuc2.toString().substring(0, 6)+" KG");
-                                    sonuc.textContent="Sonuç: "+sonuc2.toString().substring(0, 7)+" KG";
+                                    sonuc.textContent="Sonuç: "+sonuc2.toString().substring(0, 8)+" KG";
 
 
 

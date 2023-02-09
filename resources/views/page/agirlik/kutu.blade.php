@@ -1,4 +1,7 @@
 
+
+
+
 @extends('page.hizmetler.layouts')
 
 @section('content')
@@ -32,16 +35,20 @@
 
 
                     <div class="row">
-                        <div class="col-6">  <img src="https://www.karacapaslanmaz.com/front/calc/tube.jpg" name="pictures" width="200"></div>
+                        <div class="col-6">  <img src="https://www.karacapaslanmaz.com/front/calc/kosebent.jpg" name="pictures" width="200"></div>
                         <div class="col-6">
                             <div class="row">
                                 <div class="col-12">
-                                    <label for="dis_cap"><b>Dış çap (mm)</b></label>
-                                    <input id="dis_cap" type="text" placeholder="milimetre olarak giriniz. örn 10cm 100mm şeklinde" class="form-control">
+                                    <label for="c"><b>Yükseklik (mm)</b></label>
+                                    <input id="c" type="text" placeholder="milimetre olarak giriniz. örn 10cm 100mm şeklinde" class="form-control">
                                 </div>
                                 <div class="col-12">
-                                    <label for="ic_cap"><b>İç çap (mm)(Et kalınlığı)</b></label>
-                                    <input id="ic_cap" type="text" placeholder="milimetre olarak giriniz. örn 10cm 100mm şeklinde" name="" class="form-control">
+                                    <label for="a"><b>Genişlik (mm)</b></label>
+                                    <input id="a" type="text" placeholder="milimetre olarak giriniz. örn 10cm 100mm şeklinde" name="" class="form-control">
+                                </div>
+                                <div class="col-12">
+                                    <label for="b"><b>Et Kalınlığı (mm)</b></label>
+                                    <input id="b" type="text" placeholder="milimetre olarak giriniz. örn 10cm 100mm şeklinde" name="" class="form-control">
                                 </div>
                                 <div class="col-12">
                                     <label for="uzunluk"><b>Uzunluk (m)</b></label>
@@ -56,17 +63,21 @@
 
 
 
-                                    var dis_cap = document.getElementById('dis_cap').value;
-                                    var ic_cap = document.getElementById('ic_cap').value;
+                                    var a = document.getElementById('a').value;
+                                    var b = document.getElementById('b').value;
+                                    var c = document.getElementById('c').value;
                                     var uzunluk = document.getElementById('uzunluk').value;
                                     var sonuc = document.getElementById('sonuc');
 
 
 
-                                    var sonuc2=(dis_cap-ic_cap)*ic_cap*0.02464*uzunluk;
+                                    console.log();
+                                    var sonuc2=((parseInt(a)*parseInt(c))*78*(uzunluk*1000));
+                                    var sonuc3=((((parseInt(a)-parseInt(b)*2)* (parseInt(c)-parseInt(b)*2))*78*(uzunluk*1000)));
 
-                                    console.log("Sonuç: "+sonuc2.toString().substring(0, 6)+" KG");
-                                    sonuc.textContent="Sonuç: "+sonuc2.toString().substring(0, 7)+" KG";
+                                    var sonuc4=(parseInt(sonuc2)-parseInt(sonuc3))/10000000;
+                                    console.log("Sonuç: "+sonuc4.toString().substring(0, 6)+" KG");
+                                    sonuc.textContent="Sonuç: "+sonuc4.toString().substring(0, 7)+" KG";
 
 
 

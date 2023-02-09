@@ -1,4 +1,3 @@
-
 @extends('page.hizmetler.layouts')
 
 @section('content')
@@ -32,16 +31,12 @@
 
 
                     <div class="row">
-                        <div class="col-6">  <img src="https://www.karacapaslanmaz.com/front/calc/tube.jpg" name="pictures" width="200"></div>
+                        <div class="col-6">  <img src="https://www.karacapaslanmaz.com/front/calc/round.jpg" name="pictures" width="200"></div>
                         <div class="col-6">
                             <div class="row">
                                 <div class="col-12">
-                                    <label for="dis_cap"><b>Dış çap (mm)</b></label>
+                                    <label for="dis_cap"><b>Çap (mm)</b></label>
                                     <input id="dis_cap" type="text" placeholder="milimetre olarak giriniz. örn 10cm 100mm şeklinde" class="form-control">
-                                </div>
-                                <div class="col-12">
-                                    <label for="ic_cap"><b>İç çap (mm)(Et kalınlığı)</b></label>
-                                    <input id="ic_cap" type="text" placeholder="milimetre olarak giriniz. örn 10cm 100mm şeklinde" name="" class="form-control">
                                 </div>
                                 <div class="col-12">
                                     <label for="uzunluk"><b>Uzunluk (m)</b></label>
@@ -57,15 +52,14 @@
 
 
                                     var dis_cap = document.getElementById('dis_cap').value;
-                                    var ic_cap = document.getElementById('ic_cap').value;
                                     var uzunluk = document.getElementById('uzunluk').value;
                                     var sonuc = document.getElementById('sonuc');
 
 
 
-                                    var sonuc2=(dis_cap-ic_cap)*ic_cap*0.02464*uzunluk;
+                                    var sonuc2=((dis_cap/2)*(dis_cap/2)*(uzunluk*1000)*78*3.14)/10000000 ;
 
-                                    console.log("Sonuç: "+sonuc2.toString().substring(0, 6)+" KG");
+                                    console.log("Sonuç: "+sonuc2.toString().substring(0, 7)+" KG");
                                     sonuc.textContent="Sonuç: "+sonuc2.toString().substring(0, 7)+" KG";
 
 

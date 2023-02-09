@@ -84,9 +84,9 @@
                     <div class="inner-box">
                         <div class="image"><span class="border-shape"></span><img src="assets/images/kalite/201 Paslanmaz Çelik.jpg" alt="201 Paslanmaz Çelik"></div>
                         <div class="content">
-                            <h3><a href="{{route('201')}}"> Paslanmaz Boru Ağırlık <br>Hesaplama</a></h3>
+                            <h3><a href="{{route('boru_agirlik')}}"> Paslanmaz Boru Ağırlık <br>Hesaplama</a></h3>
                             <div class="link">
-                                <a href="{{route('201')}}" class="theme-btn btn-style-one"><span>DETAYLI BİLGİ</span></a>
+                                <a href="{{route('boru_agirlik')}}" class="theme-btn btn-style-one"><span>DETAYLI BİLGİ</span></a>
                             </div>
                         </div>
                     </div>

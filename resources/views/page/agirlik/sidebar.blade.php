@@ -2,10 +2,18 @@
     <aside class="col-lg-12 sidebar service-sidebar">
         <div class="widget category-widget-two">
             <ul class="widget cat-list">
-                <li class="{{request()->is("hizmet/paslanmaz-celik-boy-kesme") ? "active":""}}" ><a href="{{route('kesme')}}">Paslanmaz Çelİk Boy Kesme</a></li>
-                <li class="{{request()->is("hizmet/paslanmaz-celik-taslama") ? "active":""}}"><a href="{{route('taslama')}}">Paslanmaz Çelİk Taşlama</a></li>
-                <li class="{{request()->is("hizmet/paslanmaz-celik-dilme") ? "active":""}}"><a href="{{route('dilme')}}">Paslanmaz Dİlme </a></li>
-                <li  class="{{request()->is("hizmet/paslanmaz-celik-lazer-kesim") ? "active":""}}" ><a href="{{route('lazer')}}">Paslanmaz Çelİk Lazer Kesİm</a></li>
+                <li class="{{request()->is("paslanmaz-boru-agirlik-hesaplama") ? "active":""}}" ><a href="{{route('boru_agirlik')}}">PASLANMAZ BORU AĞIRLIK HESAPLAMA                    </a></li>
+                <li class="{{request()->is("paslanmaz-cubuk-agirlik-hesaplama") ? "active":""}}"><a href="{{route('cubuk_agirlik')}}">Paslanmaz Çubuk Ağırlık Hesaplama
+                    </a></li>
+                <li class="{{request()->is("paslanmaz-kosebent-agirlik-hesaplama") ? "active":""}}"><a href="{{route('kosebent_agirlik')}}">Paslanmaz Köşebent Ağırlık Hesaplama</a></li>
+                <li  class="{{request()->is("paslanmaz-lama-agirlik-hesaplama") ? "active":""}}" ><a href="{{route('lama_agirlik')}}">Paslanmaz Lama Ağırlık Hesaplama
+                    </a></li>
+                <li  class="{{request()->is("paslanmaz-sac-agirlik-hesaplama") ? "active":""}}" ><a href="{{route('sac_agirlik')}}">Paslanmaz Sac Ağırlık Hesaplama
+
+                    </a></li>
+                <li  class="{{request()->is("hizmet/paslanmaz-celik-lazer-kesim") ? "active":""}}" ><a href="{{route('kutu_agirlik')}}">Paslanmaz Profil Ağırlık Hesaplama</a></li>
+                <li  class="{{request()->is("hizmet/paslanmaz-celik-lazer-kesim") ? "active":""}}" ><a href="{{route('kare_agirlik')}}">Paslanmaz Demir Ağırlık Hesaplama
+                    </a></li>
 
             </ul>
         </div>
