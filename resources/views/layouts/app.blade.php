@@ -332,7 +332,7 @@
                             <div class="footer-widget__open-hour">
                                 <h3 class="footer-widget__open-hour-title">Mesai Saatleri</h3>
                                 <h3 class="footer-widget__open-hour-text">Pazartesi - Cuma 08:00 - 18:00
-                                    Closed</h3>
+                                    Kapalı</h3>
                             </div>
                         </div>
                     </div>
