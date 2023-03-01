@@ -33,6 +33,79 @@
                     <h2>PASLANMAZ KARE PROFİL</h2>
                     <div class="image mb-40"><img src="{{asset('assets/images/resource/PASLANMAZ KARE PROFİL.jpeg')}}" alt="PASLANMAZ KARE PROFİL"></div>
 
+
+                    <h5>Üretimdeki Kare Profiller ve Teorik Birim Ağırlıkları(Kg/Mt)
+                    </h5>
+                    <table class="table table-striped">
+                        <thead>
+                        <tr>
+                            <th scope="col">DIŞ KUTUR (mm)</th>
+                            <th scope="col">1,0</th>
+                            <th scope="col">1,2	</th>
+                            <th scope="col">1,5</th>
+                            <th scope="col">2,0	</th>
+                            <th scope="col">2,5	</th>
+                            <th scope="col">3,0	</th>
+                            <th scope="col">4,0	</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        <tr>
+                            <th scope="row">12×12 mm	</th>
+                            <td>0,358</td>
+                            <td>0,415</td>
+                            <td>0,508</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">15×15 mm	</th>
+                            <td>0,453</td>
+                            <td>0,538</td>
+                            <td>0,661</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">16×16 mm	</th>
+                            <td>0,485</td>
+                            <td>0,576</td>
+                            <td>0,709</td>
+                            <td>0,920</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">20×20 mm	</th>
+                            <td>0,613</td>
+                            <td>0,729</td>
+                            <td>0,90</td>
+                            <td>1,175</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">25×25 mm</th>
+                            <td>0,772</td>
+                            <td>0,921</td>
+                            <td>1,140</td>
+                            <td>1,494</td>
+                            <td>1,846</td>
+                            <td>2,179</td>
+                            <td>-</td>
+                        </tr>
+
+                        </tbody>
+                    </table>
+
+
+
                     <div class="text">Paslanmaz kare profil ürünleri, genellikle inşaat, endüstriyel, ticari veya dekoratif amaçlar için kullanılan,
                         dayanıklı ve estetik olarak güzel görünen ürünlerdir. Bu ürünler, paslanmaz çelikten imal edilirler ve korozyona karşı dayanıklı
                         olduklarından, uzun ömürlü ve kullanımı kolaydır.</div>

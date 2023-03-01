@@ -12,7 +12,7 @@
             <div class="inner-container">
                 <div class="left-column">
                     <ul class="contact-info">
-                        <li><a href="mailto:info@nikometpaslanmaz.com"><i class="flaticon-email-1"></i>info@nikometpaslanmaz.com</a></li>
+                        <li><a href="mailto:info@nikometpaslanmaz.com"><i class="flaticon-email-1"></i>info@huzeymetal.com</a></li>
                         <li><a href="tel:+905445073848"><i class="flaticon-telephone"></i>+90 (544) 507 38 48</a></li>
                         <li><i class="flaticon-pin"></i>Velibaba Mh.Mimarsinan Cd.No:1 Pendik/İST.</li>
                     </ul>
@@ -50,22 +50,16 @@
 
                                     <li  class="{{request()->is('hakkimizda') ? "current":""}}"><a  href="{{route('hakkimizda')}}">Hakkımızda</a></li>
                                     <li  class="dropdown {{request()->is('kaliteler') || request()->is('kalite*')  ? "current":""}}"><a href="{{route('kaliteler')}}">Kaliteler</a>
-                                        <ul>
-                                            <li><a href="{{route('201')}}">201 Kalite Paslanmaz Çelik</a></li>
-                                            <li><a href="{{route('202')}}">202 Kalite Paslanmaz Çelik</a></li>
-                                            <li><a href="{{route('303')}}">303 (1.4305) Kalite Paslanmaz Çelik </a></li>
-                                            <li><a href="{{route('304')}}">304 (1.4301) Kalite Paslanmaz Çelik  </a></li>
 
-                                        </ul>
                                     </li>
                                     <li  class="dropdown {{request()->is('urunler') ? "current":""}}"><a href="{{route('urunler')}}">Ürünler</a>
                                         <ul>
-                                            <li><a href="{{route('kesme')}}">Ürünlerimiz</a></li>
+                                            <li><a href="{{route('urunler')}}">Ürünlerimiz</a></li>
 
                                             <li  class="dropdown {{request()->is('desenler') ? "current":""}}"><a href="{{route('desenler')}}">Desenlerimiz</a>
                                                 <ul>
-                                                    <li><a href="{{route('kesme')}}">Dekoratif Desenler</a></li>
-                                                    <li><a href="{{route('kesme')}}">Endüstriyel Desenler Desenler</a></li>
+                                                    <li><a href="{{route('dekor_desenler')}}">Dekoratif Desenler</a></li>
+                                                    <li><a href="{{route('endus_desenler')}}">Endüstriyel Desenler Desenler</a></li>
 
 
                                                 </ul>

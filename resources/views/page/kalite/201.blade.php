@@ -49,6 +49,8 @@
                         <h2>201 PASLANMAZ ÇELİK</h2>
                         <div class="image"><img src="{{asset('assets/images/kalite/201 Paslanmaz Çelik.jpg')}}" alt="201 Paslanmaz Çelik"></div>
 
+
+
                         <div class="text">
                             <p>201 paslanmaz çelik, nikel içeriğinin yarısını kapsayan ve daha yaygın türdeki çeliklerin
                                 fazlalaştırılmış mangan ve azotunu içerdiği bir alaşımdır. Diğer bazı alaşımlara kıyasla daha az fiyatlı

@@ -74,7 +74,7 @@
     <section class="welcome-section-three">
         <div class="auto-container">
             <div class="row">
-                <div class="col-lg-6">
+                <div class="col-lg-12">
                     <div class="image-wrapper">
                         <div class="image-one wow fadeInUp" data-wow-duration="1500ms">
                             <img src="assets/images/resource/HAKKİMİZDA.jpeg" alt="">
@@ -85,25 +85,40 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-6">
+                <div class="col-lg-12">
                     <div class="content-side">
                         <div class="sec-title mb-40">
                             <div class="sub-title">HUZEY METAL</div>
                             <h2>KALİTELİ <br>  HİZMET ANLAYIŞI</h2>
                         </div>
-                        <div class="text mb-35">Huzey Metal, yıllardır sektördeki tecrübesiyle ülkemizde paslanmaz sektöründe öncü firma olma yolunda kararlı adımlarla ilerlemektedir. </div>
+                        <div class="text mb-35">Huzey Metal, paslanmaz sektöründe öncü bir firma olarak ülkemizde uzun yıllardır hizmet vermektedir. Firmanın sektördeki tecrübesi ve uzmanlığı, müşterilerine kaliteli ve güvenilir ürünler sunma konusunda önemli bir avantaj sağlamaktadır.
+
+                             <br>
+                             <br>
+                             Huzey Metal, paslanmaz çelik ürünlerinde müşteri memnuniyetine odaklanarak hizmet vermektedir. Bu amaç doğrultusunda, firma 7 gün 24 saat iletişim imkanı sunarak müşterilerinin her zaman yanında olmaktadır. Ayrıca, firmanın kurumsal hizmet anlayışı ve sertifikalı ürünleri, müşterilerine kaliteli hizmet sunma konusundaki kararlılığını göstermektedir.
+                        <br>
+                        <br>
+                             Huzey Metal, müşterilerine fiyat garantisi sunarak, kaliteli ürünleri uygun fiyata temin etmelerine olanak tanımaktadır. Firmanın müşteri odaklı yaklaşımı, müşterilerinin ihtiyaçlarına uygun çözümler sunma konusunda kendini sürekli geliştirmektedir.
+                        <br>
+                        <br>
+                             27 yıllık tecrübesiyle, Huzey Metal paslanmaz sektöründe lider bir konumda yer almaktadır. Firmanın başarısının arkasında, müşteri memnuniyeti odaklı hizmet anlayışı, kaliteli ürünleri uygun fiyata sunma konusundaki kararlılığı ve uzman kadrosu yer almaktadır.
+                        <br>
+                        <br>
+                             Sonuç olarak, Huzey Metal paslanmaz sektöründe öncü bir firma olarak müşterilerine kaliteli ürünleri uygun fiyata sunma konusundaki kararlılığıyla dikkat çekmektedir. 27 yıllık tecrübesi, kurumsal hizmet anlayışı ve sertifikalı ürünleriyle müşteri memnuniyeti odaklı yaklaşımını sürdürmektedir.</br>
                         <div class="bottom-content">
 
                             <div class="row">
                                 <div class="col-md-6">
                                     <ul class="list">
                                         <li>7/24 Ulaşılabilir</li>
+                                        <br>
                                         <li>Kurumsal Hizmet</li>
                                     </ul>
                                 </div>
                                 <div class="col-md-6">
                                     <ul class="list">
                                         <li>Sertifikalı Ürünler</li>
+                                        <br>
                                         <li>Fiyat Garantisi</li>
                                     </ul>
                                 </div>
@@ -138,6 +153,27 @@
                                     </div>
                                 </div>
                             </div>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="col-lg-12">
+                    <div class="content-side">
+                        <div class="sec-title mb-40">
+                            <div class="sub-title text-center">HUZEY METAL</div>
+                            <h2>Vizyon & Misyon</h2>
+                        </div>
+                        <div class="text mb-35"><b>Vizyon: </b>Huzey Metal, paslanmaz çelik sektöründe lider bir firma olarak, kaliteli ve yenilikçi ürünler sunarak müşterilerinin beklentilerini en üst düzeyde karşılamayı hedeflemektedir. Şirket, müşteri memnuniyetini her zaman öncelikli tutarak, sektördeki öncü konumunu sürekli olarak güçlendirmek ve sürdürmek istemektedir.
+
+                        <br>
+                        <br>
+                            <b>Misyon:</b> Huzey Metal, müşterilerinin paslanmaz çelik ürünleri konusundaki ihtiyaçlarını, kaliteli, güvenilir ve uygun fiyatlı ürünlerle karşılamak için çalışmaktadır. Müşteri memnuniyetini en üst düzeyde tutarak, müşteri ihtiyaçlarını anlayıp, onlara en uygun çözümleri sunmak ve sürekli olarak kendini geliştirmek, Huzey Metal'in temel misyonunu oluşturmaktadır. Ayrıca, şirket, çalışanlarına adil ve destekleyici bir çalışma ortamı sağlayarak, onların iş tatminini arttırmayı ve iş performanslarını yükseltmeyi de hedeflemektedir.
+
+                            <br>
+                            <br>
+                            Huzey Metal, vizyon ve misyonu doğrultusunda, müşteri memnuniyeti odaklı yaklaşımı ve kaliteli ürünleriyle, paslanmaz çelik sektöründe öncü bir firma olma yolunda kararlı adımlarla ilerlemektedir.
+                            <br>
+
                         </div>
 
                     </div>
