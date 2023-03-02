@@ -60,145 +60,51 @@
                             <td>0,0003</td>
                         </tr>
                         <tr>
-                            <th scope="row">15×15 mm	</th>
-                            <td>0,453</td>
-                            <td>0,538</td>
-                            <td>0,661</td>
-                            <td>-</td>
-                            <td>-</td>
-                            <td>-</td>
-                            <td>-</td>
+                            <th scope="row">0,10</th>
+                            <td>+,-0,003</td>
+                            <td>0,0006</td>
                         </tr>
                         <tr>
-                            <th scope="row">16×16 mm	</th>
-                            <td>0,485</td>
-                            <td>0,576</td>
-                            <td>0,709</td>
-                            <td>0,920</td>
-                            <td>-</td>
-                            <td>-</td>
-                            <td>-</td>
+                            <th scope="row">0,30</th>
+                            <td>+,-0,005</td>
+                            <td>0,0018</td>
                         </tr>
                         <tr>
-                            <th scope="row">20×20 mm	</th>
-                            <td>0,613</td>
-                            <td>0,729</td>
-                            <td>0,90</td>
-                            <td>1,175</td>
-                            <td>-</td>
-                            <td>-</td>
-                            <td>-</td>
+                            <th scope="row">0,60</th>
+                            <td>+,-0,006</td>
+                            <td>0,0016</td>
                         </tr>
                         <tr>
-                            <th scope="row">25×25 mm</th>
-                            <td>0,772</td>
-                            <td>0,921</td>
-                            <td>1,140</td>
-                            <td>1,494</td>
-                            <td>1,846</td>
-                            <td>2,179</td>
-                            <td>-</td>
+                            <th scope="row">1,00</th>
+                            <td>+,-0,010</td>
+                            <td>0,006</td>
                         </tr>
                         <tr>
-                            <th scope="row">30×30 mm</th>
-                            <td>0,932</td>
-                            <td>1,112</td>
-                            <td>1,379</td>
-                            <td>1,813</td>
-                            <td>2,222</td>
-                            <td>2,645</td>
-                            <td>-</td>
+                            <th scope="row">1,50</th>
+                            <td>+,-0,020</td>
+                            <td>0,009</td>
                         </tr>
                         <tr>
-                            <th scope="row">35×35 mm</th>
-                            <td>1,091</td>
-                            <td>1,303</td>
-                            <td>1,618</td>
-                            <td>2,132</td>
-                            <td>2,629</td>
-                            <td>3,118</td>
-                            <td>-</td>
+                            <th scope="row">2,00</th>
+                            <td>+,-0,030</td>
+                            <td>0,012</td>
                         </tr>
                         <tr>
-                            <th scope="row">40×40 mm</th>
-                            <td>1,251</td>
-                            <td>1,495</td>
-                            <td>1,857</td>
-                            <td>2,451</td>
-                            <td>3,036</td>
-                            <td>3,602</td>
-                            <td>4,708</td>
+                            <th scope="row">2,50</th>
+                            <td>+,-0,040</td>
+                            <td>0,015</td>
                         </tr>
                         <tr>
-                            <th scope="row">45×45 mm</th>
-                            <td>1,410</td>
-                            <td>1,686</td>
-                            <td>2,097</td>
-                            <td>2,770</td>
-                            <td>3,433</td>
-                            <td>4,081</td>
-                            <td>5,309</td>
+                            <th scope="row">3,00</th>
+                            <td>+,-0,050</td>
+                            <td>0,018</td>
                         </tr>
                         <tr>
-                            <th scope="row">50×50 mm</th>
-                            <td>1,570</td>
-                            <td>1,878</td>
-                            <td>2,336</td>
-                            <td>3,089</td>
-                            <td>3,818</td>
-                            <td>4,559</td>
-                            <td>5,960</td>
+                            <th scope="row">4,00</th>
+                            <td>+,-0,060</td>
+                            <td>0,024</td>
                         </tr>
-                        <tr>
-                            <th scope="row">60×60 mm</th>
-                            <td>-</td>
-                            <td>-</td>
-                            <td>2,814</td>
-                            <td>3,727</td>
-                            <td>4,607</td>
-                            <td>5,516</td>
-                            <td>7,222</td>
-                        </tr>
-                        <tr>
-                            <th scope="row">70×70 mm</th>
-                            <td>-</td>
-                            <td>-</td>
-                            <td>3,293</td>
-                            <td>4,365</td>
-                            <td>5,408</td>
-                            <td>6,473</td>
-                            <td>8,507</td>
-                        </tr>
-                        <tr>
-                            <th scope="row">80×80 mm</th>
-                            <td>-</td>
-                            <td>-</td>
-                            <td>3,771</td>
-                            <td>5,003</td>
-                            <td>6,203</td>
-                            <td>7,430</td>
-                            <td>9,807</td>
-                        </tr>
-                        <tr>
-                            <th scope="row">100×100 mm</th>
-                            <td>-</td>
-                            <td>-</td>
-                            <td>4,728</td>
-                            <td>6,279</td>
-                            <td>7,918</td>
-                            <td>9,343</td>
-                            <td>12,358</td>
-                        </tr>
-                        <tr>
-                            <th scope="row">120×120 mm</th>
-                            <td>-</td>
-                            <td>-</td>
-                            <td>-</td>
-                            <td>7,555</td>
-                            <td>-</td>
-                            <td>11,257</td>
-                            <td>-</td>
-                        </tr>
+
 
                         </tbody>
                     </table>
