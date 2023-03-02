@@ -43,6 +43,473 @@
                         kullanılmaktadır. Kare profil ve dikdörtgen profil ve 304 paslanmaz dikdörtgen profil ölçü ve fiyat bilgileri için iletişim bilgilerimizden
                         bizlere ulaşabilirsiniz.
                     </div>
+
+                    <br>
+                    <br>
+                    <h5><strong>Üretimdeki Dikdörtgen Profiller ve Teorik Birim Ağırlıkları(Kg/Mt)</strong></h5>
+                    <br>
+                    <table class="table table-striped">
+                        <thead>
+                        <tr >
+                            <th scope="col">DIŞ KUTUR (mm)</th>
+                            <th scope="col">1,0</th>
+                            <th scope="col">1,2</th>
+                            <th scope="col">1,5</th>
+                            <th scope="col">2,0	</th>
+                            <th scope="col">2,5</th>
+                            <th scope="col">3,0</th>
+                            <th scope="col">4,0</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        <tr>
+                            <th scope="row">20x10 mm</th>
+                            <td>0,453</td>
+                            <td>0,538</td>
+                            <td>0,661</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">20x15 mm</th>
+                            <td>0,533</td>
+                            <td>0,634</td>
+                            <td>0,781</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">25x15 mm</th>
+                            <td>0,613</td>
+                            <td>0,729</td>
+                            <td>0,900</td>
+                            <td>1,175</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">30x10 mm</th>
+                            <td>0,613</td>
+                            <td>0,729</td>
+                            <td>0,900</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">30x15 mm</th>
+                            <td>0,693</td>
+                            <td>0,825</td>
+                            <td>1,020</td>
+                            <td>1,335</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">30x20 mm</th>
+                            <td>0,772</td>
+                            <td>0,921</td>
+                            <td>1,140</td>
+                            <td>1,494</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">35x20 mm</th>
+                            <td>0,852</td>
+                            <td>1,017</td>
+                            <td>1,259</td>
+                            <td>1,654</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">40x15 mm</th>
+                            <td>0,852</td>
+                            <td>1,017</td>
+                            <td>1,259</td>
+                            <td>1,654</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">40x20 mm</th>
+                            <td>0,926</td>
+                            <td>1,112</td>
+                            <td>1,379</td>
+                            <td>1,813</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">40x30 mm</th>
+                            <td>1,091</td>
+                            <td>1,303</td>
+                            <td>1,618</td>
+                            <td>2,132</td>
+                            <td>2,661</td>
+                            <td>3,156</td>
+                            <td>-</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">50x20 mm</th>
+                            <td>1,091</td>
+                            <td>1,303</td>
+                            <td>1,618</td>
+                            <td>2,132</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">50x25 mm</th>
+                            <td>-</td>
+                            <td>1,399</td>
+                            <td>1,738</td>
+                            <td>2,292</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">50x30 mm</th>
+                            <td>1,251</td>
+                            <td>1,495</td>
+                            <td>1,857</td>
+                            <td>2,451</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">50x40 mm</th>
+                            <td>-</td>
+                            <td>1,686</td>
+                            <td>2,097</td>
+                            <td>2,770</td>
+                            <td>3,412</td>
+                            <td>4,081</td>
+                            <td>-</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">60x20 mm</th>
+                            <td>-</td>
+                            <td>1,495</td>
+                            <td>1,857</td>
+                            <td>2,451</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">60x30 mm</th>
+                            <td>-</td>
+                            <td>1,686</td>
+                            <td>2,097</td>
+                            <td>2,770</td>
+                            <td>3,412</td>
+                            <td>4,081</td>
+                            <td>-</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">60x40 mm</th>
+                            <td>-</td>
+                            <td>1,878</td>
+                            <td>2,336</td>
+                            <td>3,089</td>
+                            <td>3,819</td>
+                            <td>4,559</td>
+                            <td>5,960</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">80x40 mm</th>
+                            <td>-</td>
+                            <td>2,261</td>
+                            <td>2,814</td>
+                            <td>3,727</td>
+                            <td>4,600</td>
+                            <td>5,516</td>
+                            <td>7,222</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">80x60 mm</th>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>3,293</td>
+                            <td>4,365</td>
+                            <td>5,408</td>
+                            <td>6,473</td>
+                            <td>8,504</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">100x40 mm</th>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>3,293</td>
+                            <td>4,365</td>
+                            <td>5,408</td>
+                            <td>6,473</td>
+                            <td>8,504</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">100x50 mm</th>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>3,532</td>
+                            <td>4,684</td>
+                            <td>5,790</td>
+                            <td>6,952</td>
+                            <td>9,115</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">100x60 mm</th>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>3,771</td>
+                            <td>5,003</td>
+                            <td>-</td>
+                            <td>7,430</td>
+                            <td>9,807</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">120x40 mm</th>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>5,003</td>
+                            <td>-</td>
+                            <td>7,430</td>
+                            <td>9,807</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">120x60 mm</th>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>5,642</td>
+                            <td>-</td>
+                            <td>8,387</td>
+                            <td>11,083</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">120x80 mm</th>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>6,279</td>
+                            <td>-</td>
+                            <td>9,343</td>
+                            <td>12,358</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">150x50 mm</th>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>6,279</td>
+                            <td>-</td>
+                            <td>9,343</td>
+                            <td>12,358</td>
+                        </tr>
+                        <tr>
+                            <th scope="row"></th>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                        </tr>
+
+                        </tbody>
+                    </table>
+                    <br>
+                    <br>
+
+                    <h5><strong>Üretimdeki Kare Profiller ve Teorik Birim Ağırlıkları(Kg/Mt)</strong></h5>
+                    <br>
+                    <table class="table table-striped">
+                        <thead>
+                        <tr >
+                            <th scope="col">DIŞ KUTUR (mm)</th>
+                            <th scope="col">1,0</th>
+                            <th scope="col">1,2</th>
+                            <th scope="col">1,5</th>
+                            <th scope="col">2,0	</th>
+                            <th scope="col">2,5</th>
+                            <th scope="col">3,0</th>
+                            <th scope="col">4,0</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        <tr>
+                            <th scope="row">12x12 mm</th>
+                            <td>0,358</td>
+                            <td>0,415</td>
+                            <td>0,508</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">15x15 mm</th>
+                            <td>0,453</td>
+                            <td>0,538</td>
+                            <td>0,661</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">16x16 mm</th>
+                            <td>0,485</td>
+                            <td>0,576</td>
+                            <td>0,709</td>
+                            <td>0,920</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">20x20 mm</th>
+                            <td>0,613</td>
+                            <td>0,729</td>
+                            <td>0,900</td>
+                            <td>1,175</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">25x25 mm</th>
+                            <td>0,772</td>
+                            <td>0,921</td>
+                            <td>1,140</td>
+                            <td>1,494</td>
+                            <td>1,846</td>
+                            <td>2,179</td>
+                            <td>-</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">30x30 mm</th>
+                            <td>0,932</td>
+                            <td>1,112</td>
+                            <td>1,379</td>
+                            <td>1,813</td>
+                            <td>2,222</td>
+                            <td>2,645</td>
+                            <td>-</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">35x35 mm</th>
+                            <td>1,091</td>
+                            <td>1,303</td>
+                            <td>1,618</td>
+                            <td>2,132</td>
+                            <td>2,629</td>
+                            <td>3,118</td>
+                            <td>-</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">40x40 mm</th>
+                            <td>1,251</td>
+                            <td>1,495</td>
+                            <td>1,857</td>
+                            <td>2,451</td>
+                            <td>3,036</td>
+                            <td>3,602</td>
+                            <td>4,708</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">45x45 mm</th>
+                            <td>1,410</td>
+                            <td>1,686</td>
+                            <td>2,097</td>
+                            <td>2,770</td>
+                            <td>3,433</td>
+                            <td>4,081</td>
+                            <td>5,309</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">50x50 mm</th>
+                            <td>1,570</td>
+                            <td>1,878</td>
+                            <td>2,336</td>
+                            <td>3,089</td>
+                            <td>3,818</td>
+                            <td>4,559</td>
+                            <td>5,960</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">60x60 mm</th>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>2,814</td>
+                            <td>3,727</td>
+                            <td>4,607</td>
+                            <td>5,516</td>
+                            <td>7,222</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">70x70 mm</th>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>3,293</td>
+                            <td>4,365</td>
+                            <td>5,408</td>
+                            <td>6,473</td>
+                            <td>8,507</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">80x80 mm</th>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>3,771</td>
+                            <td>5,003</td>
+                            <td>6,203</td>
+                            <td>7,430</td>
+                            <td>9,807</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">100x100 mm</th>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>4,728</td>
+                            <td>6,279</td>
+                            <td>7,918</td>
+                            <td>9,343</td>
+                            <td>12,358</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">120x120 mm</th>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>7,555</td>
+                            <td>-</td>
+                            <td>11,257</td>
+                            <td>-</td>
+                        </tr>
+
+                        </tbody>
+                    </table>
+                    <br>
+                    <br>
+
                     <h3>PASLANMAZ PROFİL VE FİYATLARI</h3>
                     <div class="text">Huzey Metal Paslanmaz çelik olarak   her ölçüde paslanmaz profil stokumuz bulunmaktadır. Kare profillerde 10x10’dan
                         150x150’ye kadar uzanan ebatlar, dikdörtgen profillerde 20x10’dan 120x80’e uzanan ebatlar bulunsa da sizlerin ölçü isteğine göre
