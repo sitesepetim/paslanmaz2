@@ -38,7 +38,7 @@
                     <br>
                     <table class="table table-striped">
                         <thead>
-                        <tr>
+                        <tr >
                             <th scope="col">DIŞ KUTUR (mm)</th>
                             <th scope="col">1,0</th>
                             <th scope="col">1,2	</th>

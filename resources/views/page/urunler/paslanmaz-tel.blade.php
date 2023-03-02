@@ -41,6 +41,9 @@
                         de üretim yapılmaktadır. Bu kalite 1200 derece santigrat yüksek sıcaklık dayanımı bulunmaktadır. Firmamız tüketicilerin ortak
                         yönelik kangal tel   ve tel ürünleri üretimini yapmaktadır. Huzey Metal Paslanmaz Çelik olarak Metal olarak farklı kangal tel
                         seçenekleriyle sizlere hizmet vermekteyiz.</div>
+                    <br>
+                    <br>
+                    
                     <h3>PASLANMAZ ÇELİK TEL ÇEŞİTLERİ</h3>
 
                     <ul class="list">
