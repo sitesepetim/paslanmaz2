@@ -34,6 +34,107 @@
                         ve sonrasında da istenilen ölçülere getirildikten sonra çeşitli kalıplardan geçirilir. İsteğinden şekle gelen köşebentler talep
                         edilen uzunlukta kesilerek hazırlanır. Geniş kullanım alanlarına sahiptir. Geniş kullanım yelpazesi olan bu ürün pek çok farklı
                         ölçüde kullanıma sahiptir. Birbirinden değişik  ölçülerde çeşitleri bulunur.</div>
+
+                    <br>
+                    <br>
+                    <h5><strong>Üretimdeki Paslanmaz Köşebent ve Teorik Ağırlıkları(Kg/Mt)</strong></h5>
+                    <br>
+                    <table class="table table-striped">
+                        <thead>
+                        <tr >
+                            <th scope="col">EBAT</th>
+                            <th scope="col">MM</th>
+                            <th scope="col">AĞIRLIK</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        <tr>
+                            <th scope="row">20x20</th>
+                            <td>3</td>
+                            <td>0,880</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">25x25</th>
+                            <td>3</td>
+                            <td>1,120</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">30x30</th>
+                            <td>3</td>
+                            <td>1,330</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">30x30</th>
+                            <td>4</td>
+                            <td>1,780</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">35x35</th>
+                            <td>4</td>
+                            <td>2,100</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">40x40</th>
+                            <td>4</td>
+                            <td>2,420</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">50x50</th>
+                            <td>5</td>
+                            <td>3,770</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">60x60</th>
+                            <td>6</td>
+                            <td>5,420</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">65x65</th>
+                            <td>7</td>
+                            <td>6,830</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">65x65</th>
+                            <td>9</td>
+                            <td>8,620</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">70x70</th>
+                            <td>7</td>
+                            <td>7,380</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">80x80</th>
+                            <td>8</td>
+                            <td>9,660</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">80x80</th>
+                            <td>10</td>
+                            <td>11,900</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">100x100</th>
+                            <td>10</td>
+                            <td>15,100</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">120x120</th>
+                            <td>11</td>
+                            <td>19,900
+                            </td>
+                        </tr>
+                        <tr>
+                            <th scope="row">150x150</th>
+                            <td>14</td>
+                            <td>31,600</td>
+                        </tr>
+
+                        </tbody>
+                    </table>
+                    <br>
+                    <br>
+
                     <h3>PASLANMAZ KÖŞEBENT ÖZELLİKLERİ VE MALZEMELERİ</h3>
                     <div class="text">Yüksek oranda ostenitik çelik içeren köşebent çeşitlerimiz,  tamamı sertifikalıdır. Uzun süre kullanma avantajı sunar.
                         Paslanmaz köşebentler manyetik değildir. Yüksek ısıya karşı  gösterdikleri yüksek mukavemet nedeniyle bu ürünler, kaynak edilebilme
