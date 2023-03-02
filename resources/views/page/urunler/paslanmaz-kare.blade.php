@@ -34,7 +34,8 @@
                     <div class="image mb-40"><img src="{{asset('assets/images/resource/PASLANMAZ KARE PROFİL.jpeg')}}" alt="PASLANMAZ KARE PROFİL"></div>
 
 
-                    <h5>Üretimdeki Kare Profiller ve Teorik Birim Ağırlıkları(Kg/Mt)</h5>
+                    <h5><strong>Üretimdeki Kare Profiller ve Teorik Birim Ağırlıkları(Kg/Mt)</strong></h5>
+                    <br>
                     <table class="table table-striped">
                         <thead>
                         <tr>
