@@ -65,7 +65,7 @@
                             <div class="inner">
                                 <h1>HUZEY METAL <br>PASLANMAZ ÇELİK <br> </h1>
                                 <div class="link-box">
-                                    <a href="about.html" class="theme-btn btn-style-one"><span>BİZE ULAŞABİLİRSİNİZ</span></a>
+                                    <a href="{{route('iletisim')}}" class="theme-btn btn-style-one"><span>BİZE ULAŞABİLİRSİNİZ</span></a>
                                 </div>
                             </div>
                         </div>
@@ -78,25 +78,14 @@
                             <div class="inner">
                                 <h1>SEKTÖRÜN <br>ÖNCÜSÜ</h1>
                                 <div class="link-box">
-                                    <a href="about.html" class="theme-btn btn-style-one"><span>BİZE ULAŞABİLİRSİNİZ</span></a>
+                                    <a href="{{route('iletisim')}}" class="theme-btn btn-style-one"><span>BİZE ULAŞABİLİRSİNİZ</span></a>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
                 <!-- Slide Item -->
-                <div class="swiper-slide" style="background-image: url(assets/images/main-slider/image-3.jpg);">
-                    <div class="content-outer">
-                        <div class="content-box">
-                            <div class="inner">
-                                <h1>offering <br>solid metal <br> solutions</h1>
-                                <div class="link-box">
-                                    <a href="about.html" class="theme-btn btn-style-one"><span>Discover More</span></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+
             </div>
         </div>
         <div class="banner-slider-nav">
@@ -162,7 +151,7 @@
                                 <li>Son Teknoloji Ürünleri</li>
                             </ul>
                             <div class="link">
-                                <a href="hakkimizda.html" class="theme-btn btn-style-one"><span>HAKKIMIZDA</span></a>
+                                <a href="{{route('hakkimizda')}}" class="theme-btn btn-style-one"><span>HAKKIMIZDA</span></a>
                             </div>
                         </div>
 
@@ -184,11 +173,11 @@
                     <div class="inner-box wow fadeInUp" data-wow-duration="1500ms">
                         <div class="image"><span class="border-shape"></span><img src="assets/images/kalite/201 Paslanmaz Çelik.jpg" alt="201 Paslanmaz Çelik"></div>
                         <div class="content">
-                            <h3><a href="steel-welding.html"> 201 PASLANMAZ<br> ÇELİK</a></h3>
+                            <h3><a href="{{route('201')}}"> 201 PASLANMAZ<br> ÇELİK</a></h3>
                             <div class="text">Nikel içeriğinin yarısını kapsayan ve daha yaygın türdeki çeliklerin fazlalaştırılmış
                                 mangan ve azotunu içerdiği bir alaşımdır.</div>
                             <div class="link">
-                                <a href="steel-welding.html" class="theme-btn btn-style-one"><span>DETAYLI BİLGİ</span></a>
+                                <a href="{{route('201')}}" class="theme-btn btn-style-one"><span>DETAYLI BİLGİ</span></a>
                             </div>
                         </div>
                     </div>
@@ -197,10 +186,10 @@
                     <div class="inner-box wow fadeInDown" data-wow-duration="1500ms">
                         <div class="image"><span class="border-shape"></span><img src="assets/images/kalite/202 Paslanmaz Çelik.jpg" alt="202 Paslanmaz Çelik"></div>
                         <div class="content">
-                            <h3><a href="metal-work.html"> 202 PASLANMAZ<br> ÇELİK</a></h3>
+                            <h3><a href="{{route('202')}}"> 202 PASLANMAZ<br> ÇELİK</a></h3>
                             <div class="text"> Yüksek mukavemete, tokluğa, yüksek aşınma direnci <br>dayanıklılığı sertleşebilirlik özelliğine sahiptir. </div>
                             <div class="link">
-                                <a href="metal-work.html" class="theme-btn btn-style-one"><span>DETAYLI BİLGİ</span></a>
+                                <a href="{{route('202')}}" class="theme-btn btn-style-one"><span>DETAYLI BİLGİ</span></a>
                             </div>
                         </div>
                     </div>
@@ -209,11 +198,11 @@
                     <div class="inner-box wow fadeInUp" data-wow-duration="1500ms">
                         <div class="image"><span class="border-shape"></span><img src="assets/images/kalite/303 (1.4305) Paslanmaz Çelik.jpg" alt="303 (1.4305) Paslanmaz Çelik"></div>
                         <div class="content">
-                            <h3><a href="pipe-welding.html">303 (1.4305) PASLANMAZ ÇELİK</a></h3>
+                            <h3><a href="{{route('303')}}">303 (1.4305) PASLANMAZ ÇELİK</a></h3>
                             <div class="text">İçerdiği sülfürün bir sonucu olarak işlenebilirliği çok iyi olan bir paslanmaz çelik kalitesidir.
                                 Sülfür, malzemenin korozyona dayanım etkisini azaltır.</div>
                             <div class="link">
-                                <a href="pipe-welding.html" class="theme-btn btn-style-one"><span>DETAYLI BİLGİ</span></a>
+                                <a href="{{route('303')}}" class="theme-btn btn-style-one"><span>DETAYLI BİLGİ</span></a>
                             </div>
                         </div>
                     </div>
@@ -228,7 +217,7 @@
             <div class="row">
                 <div class="col-lg-9">
                     <h2>PASLANMAZ ÇELİK  <br> SEKTÖRÜNDE ÖNCÜ...</h2>
-                    <div class="video-btn"><a href="https://www.youtube.com/watch?v=nfP5N9Yc72A&amp;t=28s" class="overlay-link play-now ripple" data-fancybox="gallery" data-caption=""><span class="fas fa-play"></span> </a></div>
+                    <div class="video-btn"></div>
                 </div>
                 <div class="col-lg-3">
                     <div class="icon-box" style="background-image: url(assets/images/background/bg-8.jpg);">
@@ -251,25 +240,25 @@
                 <div class="col-xl-3 col-lg-6 project-block">
                     <div class="inner-box wow fadeInUp" data-wow-duration="1500ms">
                         <div class="image"><img src="assets/images/resource/PASLANMAZ ÇELİK.jpg" alt="PASLANMAZ ÇELİK"></div>
-                        <h4><a href="paslanmaz-celik">PASLANMAZ ÇELİK</a></h4>
+                        <h4><a href="{{route('paslanmaz_celik')}}">PASLANMAZ ÇELİK</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-3 col-lg-6 project-block">
                     <div class="inner-box wow fadeInDown" data-wow-duration="1500ms">
                         <div class="image"><img src="assets/images/resource/PASLANMAZ MİL.jpeg" alt="PASLANMAZ MİL"></div>
-                        <h4><a href="paslanmaz-mil-cubuk">PASLANMAZ MİL (ÇUBUK)</a></h4>
+                        <h4><a href="{{route('paslanmaz-mil-cubuk')}}">PASLANMAZ MİL (ÇUBUK)</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-3 col-lg-6 project-block">
                     <div class="inner-box wow fadeInUp" data-wow-duration="1500ms">
                         <div class="image"><img src="assets/images/resource/PASLANMAZ KARE PROFİL.jpeg" alt="PASLANMAZ KARE PROFİL"></div>
-                        <h4><a href="paslanmaz-kare-profil">PASLANMAZ KARE PROFİL</a></h4>
+                        <h4><a href="{{route('paslanmaz-kare')}}">PASLANMAZ KARE PROFİL</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-3 col-lg-6 project-block">
                     <div class="inner-box wow fadeInDown" data-wow-duration="1500ms">
                         <div class="image"><img src="assets/images/resource/PASLANMAZ TEL.jpeg" alt="PASLANMAZ TEL"></div>
-                        <h4><a href="paslanmaz-tel">PASLANMAZ TEL</a></h4>
+                        <h4><a href="{{route('paslanmaz-tel')}}">PASLANMAZ TEL</a></h4>
                     </div>
                 </div>
             </div>

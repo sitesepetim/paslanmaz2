@@ -24,7 +24,7 @@
     <!-- Project details -->
     <section class="project-details">
         <div class="auto-container">
-            <div class="image mb-40"><img src="{{asset('assets/images/resource/project-7.jpg')}}" alt=""></div>
+            <div class="image mb-40"><img src="{{asset('assets/images/resource/304 Paslanmaz Dİkdörtgen Profİl FiyatLARI.jpeg')}}" alt=""></div>
             <div class="row">
                 @include('page.fiyat.sidebar')
                 <div class="col-lg-9">

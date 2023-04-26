@@ -1,5 +1,8 @@
 @extends('page.hizmetler.layouts')
 
+@section('title')Paslanmaz Çubuk Ağırlık Hesaplama | Huzey Metal @endsection
+
+
 @section('content')
 
     <section class="page-title" style="background-image: url({{asset('assets/images/background/bg-9.jpg')}});">
@@ -7,13 +10,13 @@
             <div class="content-box">
                 <div class="content-wrapper">
                     <div class="title">
-                        <h1>Paslanmaz Boru Ağırlık Hesaplama
+                        <h1>Paslanmaz Çubuk Ağırlık Hesaplama
                         </h1>
                     </div>
                     <ul class="bread-crumb">
                         <li><a href="{{route('index')}}">ANA SAYFA</a></li>
                         <li><a href="{{route('hizmetlerimiz')}}">HİZMETLERİMİZ</a></li>
-                        <li>Paslanmaz Boru Ağırlık Hesaplama</li>
+                        <li>Paslanmaz Çubuk Ağırlık Hesaplama</li>
                     </ul>
                 </div>
             </div>
@@ -26,12 +29,12 @@
             <div class="row">
                 @include('page.agirlik.sidebar')
                 <div class="col-lg-8">
-                    <h2>Paslanmaz Boru Ağırlık Hesaplama
+                    <h2>Paslanmaz Çubuk Ağırlık Hesaplama
                     </h2>
 
 
                     <div class="row">
-                        <div class="col-6">  <img src="https://www.karacapaslanmaz.com/front/calc/round.jpg" name="pictures" width="200"></div>
+                        <div class="col-6">  <img src="assets/images/resource/round.jpg" name="pictures" width="200"></div>
                         <div class="col-6">
                             <div class="row">
                                 <div class="col-12">

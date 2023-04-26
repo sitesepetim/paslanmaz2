@@ -197,7 +197,7 @@
     </section>
 
     <!-- Testimonials section two -->
-    <section class="testimonials-section-two style-two" style="background-image: url(assets/images/resource/map.png)">
+    <section hidden class="testimonials-section-two style-two" style="background-image: url(assets/images/resource/map.png)">
         <div class="auto-container">
             <div class="sec-title text-center">
                 <div class="sub-title text-center">HUZEY METAL</div>
@@ -209,7 +209,7 @@
                         <div class="inner-box">
                             <div class="text">Huzey Metal, sektörde fark yaratan bir firma. Devamlı çalışabileceğimiz bir firma bulmak harika...
                             </div>
-                            <h4>Jessica Brown <span>CEO</span></h4>
+                            <h4>Sevgi İnşaat <span>CEO</span></h4>
                             <div class="author-thumb">
                                 <img src="assets/images/resource/author-1.jpg" alt="">
                             </div>

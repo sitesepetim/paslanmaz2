@@ -1,7 +1,7 @@
 
 @extends('page.hizmetler.layouts')
 
-@section('title') Paslanmaz Lama Ağırlık Hesaplama @endsection
+@section('title') Paslanmaz Lama Ağırlık Hesaplama | Huzey Metal @endsection
 
 @section('content')
 
@@ -34,7 +34,7 @@
 
 
                     <div class="row">
-                        <div class="col-6">  <img src="https://www.karacapaslanmaz.com/front/calc/flat.jpg" name="pictures" width="200"></div>
+                        <div class="col-6">  <img src="assets/images/resource/flat.jpg" name="pictures" width="200"></div>
                         <div class="col-6">
                             <div class="row">
                                 <div class="col-12">

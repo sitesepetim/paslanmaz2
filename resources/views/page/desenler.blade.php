@@ -63,7 +63,7 @@
                         <h1>ürünler</h1>
                     </div>
                     <ul class="bread-crumb">
-                        <li><a href="index.html">ana sayfa</a></li>
+                        <li><a href="{{route('index')}}">ana sayfa</a></li>
                         <li>DESENLERİMİZ</li>
                     </ul>
                 </div>
@@ -77,13 +77,13 @@
             <div class="row">
                 <div class="col-lg-6 col-md-6 project-block">
                     <div class="inner-box">
-                        <div class="image"><img src="assets/images/resource/project-1.jpg" alt=""></div>
+                        <div class="image"><img src="assets/images/resource/4N%20SAT%C4%B0NE%20TA%C5%9ELI%20Y%C3%9CZEY-min.jpeg" alt=""></div>
                         <h4><a href="{{route('dekor_desenler')}}">Dekoratif Desenler</a></h4>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6 project-block">
                     <div class="inner-box">
-                        <div class="image"><img src="assets/images/resource/project-2.jpg" alt=""></div>
+                        <div class="image"><img src="assets/images/resource/G%C3%96ZYA%C5%9EI%20DESEN-min.jpeg" alt=""></div>
                         <h4><a href="{{route('endus_desenler')}}">Endüstriyel Desenler</a></h4>
                     </div>
                 </div>

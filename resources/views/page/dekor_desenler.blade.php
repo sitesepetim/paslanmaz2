@@ -77,25 +77,25 @@
             <div class="row">
                 <div class="col-lg-6 col-md-6 project-block">
                     <div class="inner-box">
-                        <div class="image"><img src="assets/images/resource/project-1.jpg" alt=""></div>
+                        <div class="image"><img src="assets/images/resource/4N%20SAT%C4%B0NE%20TA%C5%9ELI%20Y%C3%9CZEY-min.jpeg" alt=""></div>
                         <h4><a href="{{route('satine_desen')}}">Satine Desen</a></h4>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6 project-block">
                     <div class="inner-box">
-                        <div class="image"><img src="assets/images/resource/project-2.jpg" alt=""></div>
+                        <div class="image"><img src="assets/images/resource/nokta-desen.jpg" alt=""></div>
                         <h4><a href="{{route('nokta_desen')}}">Nokta Desen</a></h4>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6 project-block">
                     <div class="inner-box">
-                        <div class="image"><img src="assets/images/resource/project-2.jpg" alt=""></div>
+                        <div class="image"><img src="assets/images/resource/KARE-DESEN.jpeg" alt=""></div>
                         <h4><a href="{{route('kare_desen')}}">Kare Desen</a></h4>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6 project-block">
                     <div class="inner-box">
-                        <div class="image"><img src="assets/images/resource/project-2.jpg" alt=""></div>
+                        <div class="image"><img src="assets/images/resource/deri-desen.png" alt=""></div>
                         <h4><a href="{{route('deri_desen')}}">Deri Desen</a></h4>
                     </div>
                 </div>

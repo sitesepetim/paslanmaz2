@@ -48,6 +48,7 @@
                             <div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
                                 <ul class="navigation">
 
+                                    <li  class="{{request()->is('/') ? "current":""}}"><a  href="{{route('index')}}">Ana Sayfa</a></li>
                                     <li  class="{{request()->is('hakkimizda') ? "current":""}}"><a  href="{{route('hakkimizda')}}">Hakkımızda</a></li>
                                     <li  class="dropdown {{request()->is('kaliteler') || request()->is('kalite*')  ? "current":""}}"><a href="{{route('kaliteler')}}">Kaliteler</a>
 
@@ -76,7 +77,7 @@
 
                                         </ul>
                                     </li>
-                                    <li class="dropdown {{request()->is('fiyat-listesi') ? "current":""}}"><a href="{{route('fiyat_hesaplamaa')}}">Ağırlık Hesaplama</a></li>
+                                    <li class="dropdown {{request()->is('agirlik-hesaplama') ? "current":""}}"><a href="{{route('fiyat_hesaplamaa')}}">Ağırlık Hesaplama</a></li>
                                     <li class="dropdown {{request()->is('fiyat-listesi') ? "current":""}}"><a href="{{route('fiyat_listesi')}}">Fiyat Listesi</a></li>
                                     <li class="dropdown {{request()->is('blog') ? "current":""}}"><a href="{{route('blog')}}">Blog</a>
 

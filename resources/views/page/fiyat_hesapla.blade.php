@@ -60,11 +60,11 @@
             <div class="content-box">
                 <div class="content-wrapper">
                     <div class="title">
-                        <h1>KALİTELER</h1>
+                        <h1>Ağırlık Hesaplama</h1>
                     </div>
                     <ul class="bread-crumb">
-                        <li><a href="index.html">ANA SAYFA</a></li>
-                        <li>KALİTELER</li>
+                        <li><a href="{{route('index')}}">ANA SAYFA</a></li>
+                        <li>Ağırlık Hesaplama</li>
                     </ul>
                 </div>
             </div>
@@ -77,7 +77,7 @@
             <div class="row">
                 <div class="col-lg-4 col-md-6 service-block">
                     <div class="inner-box">
-                        <div class="image"><span class="border-shape"></span><img src="assets/images/kalite/201 Paslanmaz Çelik.jpg" alt="201 Paslanmaz Çelik"></div>
+                        <div class="image"><span class="border-shape"></span><img src="assets/images/resource/PASLANMAZ BORU.jpeg" alt="Paslanmaz Boru Ağırlık"></div>
                         <div class="content">
                             <h3><a href="{{route('boru_agirlik')}}"> Paslanmaz Boru Ağırlık <br>Hesaplama</a></h3>
                             <div class="link">
@@ -88,11 +88,74 @@
                 </div>
                 <div class="col-lg-4 col-md-6 service-block">
                     <div class="inner-box">
-                        <div class="image"><span class="border-shape"></span><img src="assets/images/kalite/201 Paslanmaz Çelik.jpg" alt="201 Paslanmaz Çelik"></div>
+                        <div class="image"><span class="border-shape"></span><img src="assets/images/resource/PASLANMAZ MİL.jpeg" alt=" Paslanmaz Çubuk Ağırlık"></div>
                         <div class="content">
-                            <h3><a href="{{route('201')}}"> Paslanmaz Çubuk Ağırlık <br>Hesaplama</a></h3>
+                            <h3><a href="{{route('cubuk_agirlik')}}"> Paslanmaz Çubuk Ağırlık <br>Hesaplama</a></h3>
                             <div class="link">
-                                <a href="{{route('201')}}" class="theme-btn btn-style-one"><span>DETAYLI BİLGİ</span></a>
+                                <a href="{{route('cubuk_agirlik')}}" class="theme-btn btn-style-one"><span>DETAYLI BİLGİ</span></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 service-block">
+                    <div class="inner-box">
+                        <div class="image"><span class="border-shape"></span><img src="assets/images/resource/PASLANMAZ KÖŞEBENT.jpeg" alt="Paslanmaz Köşebent Ağırlık"></div>
+                        <div class="content">
+                            <h3><a href="{{route('kosebent_agirlik')}}"> Paslanmaz Köşebent Ağırlık <br>Hesaplama</a></h3>
+                            <div class="link">
+                                <a href="{{route('kosebent_agirlik')}}" class="theme-btn btn-style-one"><span>DETAYLI BİLGİ</span></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+            </div>
+            <div class="row">
+                <div class="col-lg-4 col-md-6 service-block">
+                    <div class="inner-box">
+                        <div class="image"><span class="border-shape"></span><img src="assets/images/resource/PASLANMAZ LAMA.jpeg" alt="Paslanmaz Lama Ağırlık  "></div>
+                        <div class="content">
+                            <h3><a href="{{route('lama_agirlik')}}"> Paslanmaz Lama Ağırlık  <br>Hesaplama</a></h3>
+                            <div class="link">
+                                <a href="{{route('lama_agirlik')}}" class="theme-btn btn-style-one"><span>DETAYLI BİLGİ</span></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 service-block">
+                    <div class="inner-box">
+                        <div class="image"><span class="border-shape"></span><img src="assets/images/resource/PASLANMAZ SAC.jpeg" alt="Paslanmaz Saç Ağırlık"></div>
+                        <div class="content">
+                            <h3><a href="{{route('sac_agirlik')}}"> Paslanmaz Saç Ağırlık<br>Hesaplama</a></h3>
+                            <div class="link">
+                                <a href="{{route('sac_agirlik')}}" class="theme-btn btn-style-one"><span>DETAYLI BİLGİ</span></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 service-block">
+                    <div class="inner-box">
+                        <div class="image"><span class="border-shape"></span><img src="assets/images/resource/PASLANMAZ PROFİL.png" alt="Paslanmaz Kutu Profil Ağırlık"></div>
+                        <div class="content">
+                            <h3><a href="{{route('kutu_agirlik')}}"> Paslanmaz Kutu Profil Ağırlık <br>Hesaplama</a></h3>
+                            <div class="link">
+                                <a href="{{route('kutu_agirlik')}}" class="theme-btn btn-style-one"><span>DETAYLI BİLGİ</span></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+            </div>
+            <div class="row">
+                <div class="col-lg-4 col-md-6 service-block">
+                    <div class="inner-box">
+                        <div class="image"><span class="border-shape"></span><img src="assets/images/resource/PASLANMAZ KARE PROFİL.jpeg" alt="Paslanmaz Kare Profil Ağırlık"></div>
+                        <div class="content">
+                            <h3><a href="{{route('kare_agirlik')}}"> Paslanmaz Kare Profil Ağırlık <br>Hesaplama</a></h3>
+                            <div class="link">
+                                <a href="{{route('kare_agirlik')}}" class="theme-btn btn-style-one"><span>DETAYLI BİLGİ</span></a>
                             </div>
                         </div>
                     </div>

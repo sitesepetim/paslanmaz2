@@ -11,8 +11,8 @@
                 <li  class="{{request()->is("paslanmaz-sac-agirlik-hesaplama") ? "active":""}}" ><a href="{{route('sac_agirlik')}}">Paslanmaz Sac Ağırlık Hesaplama
 
                     </a></li>
-                <li  class="{{request()->is("hizmet/paslanmaz-celik-lazer-kesim") ? "active":""}}" ><a href="{{route('kutu_agirlik')}}">Paslanmaz Profil Ağırlık Hesaplama</a></li>
-                <li  class="{{request()->is("hizmet/paslanmaz-celik-lazer-kesim") ? "active":""}}" ><a href="{{route('kare_agirlik')}}">Paslanmaz Demir Ağırlık Hesaplama
+                <li  class="{{request()->is("paslanmaz-kutu-profil-agirlik-hesaplama") ? "active":""}}" ><a href="{{route('kutu_agirlik')}}">Paslanmaz Kutu Profil Ağırlık Hesaplama</a></li>
+                <li  class="{{request()->is("paslanmaz-kare-profil-agirlik-hesaplama") ? "active":""}}" ><a href="{{route('kare_agirlik')}}">Paslanmaz Kare Profil Ağırlık Hesaplama
                     </a></li>
 
             </ul>

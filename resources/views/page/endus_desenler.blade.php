@@ -63,7 +63,7 @@
                         <h1>Endüstriyel Desenler</h1>
                     </div>
                     <ul class="bread-crumb">
-                        <li><a href="index.html">ana sayfa</a></li>
+                        <li><a href="{{route('index')}}">ana sayfa</a></li>
                         <li>Endüstriyel Desenler</li>
                     </ul>
                 </div>
@@ -77,19 +77,19 @@
             <div class="row">
                 <div class="col-lg-4 col-md-6 project-block">
                     <div class="inner-box">
-                        <div class="image"><img src="assets/images/resource/project-1.jpg" alt=""></div>
+                        <div class="image"><img src="assets/images/resource/baklava-desen.png" alt=""></div>
                         <h4><a href="{{route('baklava_desen')}}">Baklava Desen</a></h4>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 project-block">
                     <div class="inner-box">
-                        <div class="image"><img src="assets/images/resource/project-2.jpg" alt=""></div>
+                        <div class="image"><img src="assets/images/resource/G%C3%96ZYA%C5%9EI%20DESEN-min.jpeg" alt=""></div>
                         <h4><a href="{{route('gozyasi_desen')}}">Gözyaşı Desen</a></h4>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 project-block">
                     <div class="inner-box">
-                        <div class="image"><img src="assets/images/resource/project-2.jpg" alt=""></div>
+                        <div class="image"><img src="assets/images/resource/%C3%A7eta-desen.jpg" alt=""></div>
                         <h4><a href="{{route('ceta_desen')}}">Çeta Desen</a></h4>
                     </div>
                 </div>

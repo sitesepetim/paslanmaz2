@@ -1,5 +1,7 @@
 @extends('page.fiyat.layouts')
 
+
+
 @section('content')
 
 
@@ -24,7 +26,7 @@
     <!-- Project details -->
     <section class="project-details">
         <div class="auto-container">
-            <div class="image mb-40"><img src="{{asset('assets/images/resource/project-7.jpg')}}" alt=""></div>
+            <div class="image mb-40"><img src="{{asset('assets/images/resource/304 Paslanmaz Boru Fİyatları.jpg')}}" alt=""></div>
             <div class="row">
                 @include('page.fiyat.sidebar')
                 <div class="col-lg-9">
@@ -68,8 +70,8 @@
                             <td>{{\App\Models\fiyatListesi::where('type','=',"304_boru")->get()[$i]['kalinlik']}}</td>
                             <td>{{\App\Models\fiyatListesi::where('type','=',"304_boru")->get()[$i]['ebat']}}</td>
                             <td>{{\App\Models\fiyatListesi::where('type','=',"304_boru")->get()[$i]['kg']}}</td>
-                            <td>${{\App\Models\fiyatListesi::where('type','=',"304_boru")->get()[$i]['birim']}}</td>
-                            <td>${{\App\Models\fiyatListesi::where('type','=',"304_boru")->get()[$i]['plaka']}}</td>
+                            <td>{{\App\Models\fiyatListesi::where('type','=',"304_boru")->get()[$i]['birim']}}</td>
+                            <td>{{\App\Models\fiyatListesi::where('type','=',"304_boru")->get()[$i]['plaka']}}</td>
                         </tr>
                         @endfor
                         </tbody>

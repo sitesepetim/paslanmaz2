@@ -241,6 +241,7 @@ Route::get('/kaliteler/14507-paslanmaz-celik', function () {
     return view('page.kalite.14507');
 })->name('14507');
 
+////urunler
 
 Route::get('/urunler/paslanmaz-celik', function () {
     return view('page.urunler.paslanmaz-celik');

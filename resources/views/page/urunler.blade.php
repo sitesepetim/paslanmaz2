@@ -138,7 +138,7 @@
                 <div class="col-lg-4 col-md-6 project-block">
                     <div class="inner-box">
                         <div class="image"><img src="assets/images/resource/PASLANMAZ SAC.jpeg" alt="PASLANMAZ SAC"></div>
-                        <h4><a href="{{route('paslanmaz-sac')}}">Paslanmaz Sac</a></h4>
+                        <h4><a href="{{route('paslanmaz-sac')}}">Paslanmaz Saç</a></h4>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 project-block">

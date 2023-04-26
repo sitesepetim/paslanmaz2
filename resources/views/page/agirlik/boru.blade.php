@@ -1,6 +1,9 @@
 
 @extends('page.hizmetler.layouts')
 
+@section('title')Paslanmaz Boru Ağırlık Hesaplama | Huzey Metal @endsection
+
+
 @section('content')
 
     <section class="page-title" style="background-image: url({{asset('assets/images/background/bg-9.jpg')}});">
@@ -32,7 +35,7 @@
 
 
                     <div class="row">
-                        <div class="col-6">  <img src="https://www.karacapaslanmaz.com/front/calc/tube.jpg" name="pictures" width="200"></div>
+                        <div class="col-6">  <img src="assets/images/resource/tube.jpg" name="pictures" width="200"></div>
                         <div class="col-6">
                             <div class="row">
                                 <div class="col-12">

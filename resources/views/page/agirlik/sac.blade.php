@@ -1,7 +1,7 @@
 
 @extends('page.hizmetler.layouts')
 
-@section('title') Paslanmaz Saç Ağırlık Hesaplama @endsection
+@section('title') Paslanmaz Saç Ağırlık Hesaplama  | Huzey Metal @endsection
 
 @section('content')
 
@@ -34,7 +34,7 @@
 
 
                     <div class="row">
-                        <div class="col-6">  <img src="https://www.karacapaslanmaz.com/front/calc/plate.jpg" name="pictures" width="200"></div>
+                        <div class="col-6">  <img src="assets/images/resource/sac.jpg" name="pictures" width="200"></div>
                         <div class="col-6">
                             <div class="row">
                                 <div class="col-12">
