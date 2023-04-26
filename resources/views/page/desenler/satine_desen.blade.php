@@ -1,5 +1,13 @@
 @extends('page.desenler.layouts')
 
+@section('title')
+    Satine Desen | Huzey Metal
+@endsection
+
+@section('desc')
+    ÖSTENİTİK Paslanmaz ÇELİK
+@endsection
+
 @section('content')
 
 
@@ -36,7 +44,7 @@
                         Paslanmaz çelik malzemesi, bu desenin uzun süreli performansını ve güzelliğini koruyan dayanıklı
                         bir malzeme olarak kullanılmasını sağlar.</div>
                     <h3>SATİNE DESEN KULLANIM ALANLARI</h3>
-                    <div class="text">Bu desen, aynı zamanda farklı renk ve parlaklık seçenekleri sunan paslanmaz çelik ürünlerin
+                    <div class="text">Farklı renk ve parlaklık seçenekleri sunan paslanmaz çelik ürünlerin
                         yüzeylerinde de kullanılabilir. Asansör kabinlerinde kullanımı, insanların rahat ve lüks bir atmosfere
                         ulaşmasına olanak tanır. Ayrıca, bu desen, diğer dekoratif alanlar için de oldukça popülerdir ve farklı renk
                         ve parlaklık seçenekleri sunarak bu alanların estetik değerini arttırır.

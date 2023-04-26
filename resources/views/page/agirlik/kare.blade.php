@@ -4,7 +4,12 @@
 
 @extends('page.hizmetler.layouts')
 
-@section('title')Paslanmaz Kare Profil Ağırlık Hesaplama | Huzey Metal @endsection
+@section('title')Paslanmaz Kare Profil Ağırlık Hesaplama | Huzey Metal
+@endsection
+
+@section('desc')
+    ÖSTENİTİK Paslanmaz ÇELİK
+@endsection
 
 @section('content')
 

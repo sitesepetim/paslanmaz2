@@ -1,5 +1,13 @@
 @extends('page.desenler.layouts')
 
+@section('title')
+    Nokta Desen | Huzey Metal
+@endsection
+
+@section('desc')
+    ÖSTENİTİK Paslanmaz ÇELİK
+@endsection
+
 @section('content')
 
 
@@ -13,7 +21,7 @@
                     </div>
                     <ul class="bread-crumb">
                         <li><a href="{{route('index')}}">ANA SAYFA</a></li>
-                        <li><a href="{{route('desenler')}}">DEKORATİF DESENLER/a></li>
+                        <li><a href="{{route('desenler')}}">DEKORATİF DESENLER</li>
                         <li>NOKTA DESEN</li>
                     </ul>
                 </div>
@@ -39,13 +47,13 @@
                         Bu desen, ince noktaların üst üste konmasıyla oluşur ve modern, şık ve zarif bir görünüm sunar.
                         Ayrıca, bu desen, aydınlık ve geniş görüntüler sağlamaya yardımcı olduğundan, asansör kabinlerinde
                         ve diğer dekoratif alanlarda sıklıkla tercih edilir.
+                        <br>
+                        <br>
+                        Fiyatlar, malzemenin kalitesi, boyutları, desen kalınlığı ve diğer faktörlere göre değişebilir.
+                        Ancak, paslanmaz çelik nokta desenli ürünler genellikle diğer desenli ürünlere göre daha ekonomik fiyatlarda satılır.
                     </div>
                     <h3>NOKTA DESEN KULLANIM ALANLARI</h3>
-                    <div class="text">Fiyatlar, malzemenin kalitesi, boyutları, desen kalınlığı ve diğer faktörlere göre değişebilir.
-                        Ancak, paslanmaz çelik nokta desenli ürünler genellikle diğer desenli ürünlere göre daha ekonomik fiyatlarda satılır.
-                        <br>
-                        <br>
-                        Sonuç olarak, paslanmaz çelik nokta deseni, asansör kabinleri ve diğer dekoratif alanlar için estetik ve ekonomik
+                    <div class="text">Nokta desen paslanmaz, asansör kabinleri ve diğer dekoratif alanlar için estetik ve ekonomik
                         bir seçimdir. Bu desen, dayanıklı ve uzun ömürlü bir malzeme olan paslanmaz çelik ürünlerin görünümünü canlı ve şık hale getirir
                     </div>
                     <ul class="list">

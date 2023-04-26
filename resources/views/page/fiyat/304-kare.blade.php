@@ -1,7 +1,11 @@
 @extends('page.fiyat.layouts')
 
 @section('title')
-    304 PASLANMAZ KARE FİYATLARI Huzey Metal
+    304 Paslanmaz Kare Fiyatları | Huzey Metal
+@endsection
+
+@section('desc')
+    ÖSTENİTİK Paslanmaz ÇELİK
 @endsection
 
 @section('content')

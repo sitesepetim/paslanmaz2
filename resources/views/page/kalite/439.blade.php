@@ -1,12 +1,17 @@
 @extends('page.kalite.layouts')
 
 
-@section('content')
 @section('title')
-    439 / 439Tİ  Paslanmaz ÇELİK | Huzey Metal
+    439 / 439Tİ  Paslanmaz Çelik | Huzey Metal
 @endsection
 
-<!--Search Popup-->
+@section('desc')
+    ÖSTENİTİK Paslanmaz ÇELİK
+@endsection
+
+@section('content')
+
+    <!--Search Popup-->
 <div id="search-popup" class="search-popup">
     <div class="close-search theme-btn"><span class="flaticon-remove"></span></div>
     <div class="popup-inner">

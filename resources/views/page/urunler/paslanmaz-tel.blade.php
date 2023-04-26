@@ -1,9 +1,11 @@
 @extends('page.urunler.layouts')
 
 @section('title')
+    Paslanmaz Tel | Huzey Metal
+@endsection
 
-    PASLANMAZ TEL ||
-
+@section('desc')
+    ÖSTENİTİK Paslanmaz ÇELİK
 @endsection
 
 @section('content')

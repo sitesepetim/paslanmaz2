@@ -1,7 +1,12 @@
 
 @extends('page.hizmetler.layouts')
 
-@section('title') Paslanmaz Saç Ağırlık Hesaplama  | Huzey Metal @endsection
+@section('title') Paslanmaz Sac Ağırlık Hesaplama  | Huzey Metal
+@endsection
+
+@section('desc')
+    ÖSTENİTİK Paslanmaz ÇELİK
+@endsection
 
 @section('content')
 
@@ -10,13 +15,13 @@
             <div class="content-box">
                 <div class="content-wrapper">
                     <div class="title">
-                        <h1>Paslanmaz Saç Ağırlık Hesaplama
+                        <h1>Paslanmaz Sac Ağırlık Hesaplama
                         </h1>
                     </div>
                     <ul class="bread-crumb">
                         <li><a href="{{route('index')}}">ANA SAYFA</a></li>
                         <li><a href="{{route('hizmetlerimiz')}}">HİZMETLERİMİZ</a></li>
-                        <li>Paslanmaz Saç Ağırlık Hesaplama</li>
+                        <li>Paslanmaz Sac Ağırlık Hesaplama</li>
                     </ul>
                 </div>
             </div>
@@ -29,7 +34,7 @@
             <div class="row">
                 @include('page.agirlik.sidebar')
                 <div class="col-lg-8">
-                    <h2>Paslanmaz Saç Ağırlık Hesaplama
+                    <h2>Paslanmaz Sac Ağırlık Hesaplama
                     </h2>
 
 

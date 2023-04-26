@@ -6,6 +6,7 @@
     <meta charset="utf-8">
 
    <title> @yield('title')</title>
+    <meta name="description" content="@yield('desc')">
     <!-- Stylesheets -->
     <link href="{{asset('assets/css/bootstrap.css')}}" rel="stylesheet">
     <link href="{{asset('assets/css/style.css')}}" rel="stylesheet">

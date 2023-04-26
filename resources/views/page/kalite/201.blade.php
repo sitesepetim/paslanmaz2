@@ -1,7 +1,11 @@
 @extends('page.kalite.layouts')
 
 @section('title')
-    201 Paslanmaz ÇELİK | HUZEY METAL
+    201 Paslanmaz Çelik | Huzey Metal
+@endsection
+
+@section('desc')
+    ÖSTENİTİK Paslanmaz ÇELİK
 @endsection
 
 @section('content')

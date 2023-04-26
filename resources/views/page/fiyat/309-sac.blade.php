@@ -1,7 +1,11 @@
 @extends('page.fiyat.layouts')
 
 @section('title')
-    309 PASLANMAZ SAÇ FİYATLARI |  Huzey Metal
+    309 Paslanmaz Sac Fiyatları |  Huzey Metal
+@endsection
+
+@section('desc')
+    ÖSTENİTİK Paslanmaz ÇELİK
 @endsection
 
 @section('content')
@@ -13,12 +17,12 @@
             <div class="content-box">
                 <div class="content-wrapper">
                     <div class="title">
-                        <h1>309 PASLANMAZ SAÇ FİYATLARI</h1>
+                        <h1>309 PASLANMAZ SAC FİYATLARI</h1>
                     </div>
                     <ul class="bread-crumb">
                         <li><a href="{{route('index')}}">ANA SAYFA</a></li>
                         <li><a href="{{route('fiyat_listesi')}}">FİYAT LİSTESİ</a></li>
-                        <li>309 PASLANMAZ SAÇ FİYATLARI</li>
+                        <li>309 PASLANMAZ SAC FİYATLARI</li>
                     </ul>
                 </div>
             </div>

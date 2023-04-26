@@ -1,5 +1,13 @@
 @extends('page.urunler.layouts')
 
+@section('title')
+    Paslanmaz Fittings | Huzey Metal
+@endsection
+
+@section('desc')
+    ÖSTENİTİK Paslanmaz ÇELİK
+@endsection
+
 @section('content')
 
     <!-- Page Title -->

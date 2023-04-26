@@ -1,7 +1,11 @@
 @extends('page.fiyat.layouts')
 
 @section('title')
-    304 PASLANMAZ ÇUBUK FİYATLARI| Huzey Metal
+    304 Paslanmaz Çubuk Fiyatları | Huzey Metal
+@endsection
+
+@section('desc')
+    ÖSTENİTİK Paslanmaz ÇELİK
 @endsection
 
 @section('content')

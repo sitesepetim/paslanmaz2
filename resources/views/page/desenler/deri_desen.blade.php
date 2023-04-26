@@ -1,5 +1,13 @@
 @extends('page.desenler.layouts')
 
+@section('title')
+    Deri Desen | Huzey Metal
+@endsection
+
+@section('desc')
+    ÖSTENİTİK Paslanmaz ÇELİK
+@endsection
+
 @section('content')
 
 
@@ -36,17 +44,16 @@
                         <br>
                         Deri desen, metal yüzeyler için güzel bir alternatifdir ve doğal görünen bir dokuya sahiptir. Bu desen, dekoratif
                         amaçlı kullanıldığında modern ve şık bir görünüm kazandırır.
-                        <br>
-                        <br>
+
                         Asansör kabinlerinde ve diğer dekoratif alanlarda, paslanmaz çelik deri deseni hafif ve dayanıklıdır ve ayrıca
                         kolayca temizlenebilir. Bu özellikler, bu deseni bu tür alanlar için ideal bir seçim yapar.
+                        <br>
+                        <br>
+                        Paslanmaz çelik deri desenin fiyatı, kalitesine ve ölçüsüne göre değişebilir. Ancak genel olarak,
+                        bu desen maliyeti, paslanmaz çelik malzemelerinin yüksek kalitesinden ve üretim sürecinin zahmetliliğinden kaynaklanır.
                     </div>
                     <h3>DERİ DESEN KULLANIM ALANLARI</h3>
-                    <div class="text">Paslanmaz çelik deri desenin fiyatı, kalitesine ve ölçüsüne göre değişebilir. Ancak genel olarak,
-                        bu desen maliyeti, paslanmaz çelik malzemelerinin yüksek kalitesinden ve üretim sürecinin zahmetliliğinden kaynaklanır.
-                        <br>
-                        <br>
-                        Sonuç olarak, paslanmaz çelik deri desen, asansör kabinleri ve diğer dekoratif alanlar için güzel ve dayanıklı bir
+                    <div class="text">Paslanmaz çelik deri desen, asansör kabinleri ve diğer dekoratif alanlar için güzel ve dayanıklı bir
                         alternatifdir. Bu desen, yüksek kaliteli paslanmaz çelik malzemelerin kullanılmasıyla üretildiği için uzun vadeli
                         kullanım için güvenilirdir.
                     </div>

@@ -2,8 +2,13 @@
 
 
 @section('title')
-    202 Paslanmaz ÇELİK | Nikomet Paslanmaz
+    202 Paslanmaz Çelik | Huzey Metal
 @endsection
+
+@section('desc')
+    ÖSTENİTİK Paslanmaz ÇELİK
+@endsection
+
 @section('content')
 
     <div id="search-popup" class="search-popup">

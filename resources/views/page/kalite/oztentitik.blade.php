@@ -1,10 +1,15 @@
 @extends('page.kalite.layouts')
 
+@section('title')
+    Östenitik Paslanmaz Çelik | Huzey Metal
+@endsection
+
+@section('desc')
+    ÖSTENİTİK Paslanmaz ÇELİK
+@endsection
 
 @section('content')
-@section('title')
-    ÖSTENİTİK Paslanmaz ÇELİK | Huzey Metal
-@endsection
+
 
 <div id="search-popup" class="search-popup">
     <div class="close-search theme-btn"><span class="flaticon-remove"></span></div>

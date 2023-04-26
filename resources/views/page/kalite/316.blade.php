@@ -1,10 +1,16 @@
 @extends('page.kalite.layouts')
 
 
-@section('content')
 @section('title')
-    310S PASLANMAZ ÇELİK | Huzey Metal
+    316(1.4401)  Paslanmaz Çelik | Huzey Metal
 @endsection
+
+@section('desc')
+    ÖSTENİTİK Paslanmaz ÇELİK
+@endsection
+
+@section('content')
+
     <!--Search Popup-->
 <!--Search Popup-->
 <div id="search-popup" class="search-popup">

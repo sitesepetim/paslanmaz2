@@ -60,7 +60,7 @@
                                             <li  class="dropdown {{request()->is('desenler') ? "current":""}}"><a href="{{route('desenler')}}">Desenlerimiz</a>
                                                 <ul>
                                                     <li><a href="{{route('dekor_desenler')}}">Dekoratif Desenler</a></li>
-                                                    <li><a href="{{route('endus_desenler')}}">Endüstriyel Desenler Desenler</a></li>
+                                                    <li><a href="{{route('endus_desenler')}}">Endüstriyel  Desenler</a></li>
 
 
                                                 </ul>

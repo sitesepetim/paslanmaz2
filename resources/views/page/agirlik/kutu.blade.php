@@ -8,6 +8,10 @@
     Paslanmaz Kutu Profil Ağırlık Hesaplama | Huzey Metal
 @endsection
 
+@section('desc')
+    ÖSTENİTİK Paslanmaz ÇELİK
+@endsection
+
 @section('content')
 
     <section class="page-title" style="background-image: url({{asset('assets/images/background/bg-9.jpg')}});">

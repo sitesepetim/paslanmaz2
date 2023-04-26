@@ -4,7 +4,7 @@
 <!-- Mirrored from html.tonatheme.com/2022/welbim/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 05 Jan 2023 08:21:34 GMT -->
 <head>
     <meta charset="utf-8">
-    <title>Hakkımızda || HUZEY METAL</title>
+    <title>Hakkımızda || Huzey Metal</title>
     <!-- Stylesheets -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
     <link href="assets/css/style.css" rel="stylesheet">
@@ -355,7 +355,7 @@
             <div class="wrapper-box">
                 <h3>Detaylı BİLGİ İÇİN <br>Bİze UlaşabİLİRSİNİZ</h3>
                 <div class="link">
-                    <a href="#" class="theme-btn btn-style-one"><span>Hemen Ara</span></a>
+                    <a href="tel:+905445073848" class="theme-btn btn-style-one"><span>Hemen Ara</span></a>
                 </div>
             </div>
         </div>

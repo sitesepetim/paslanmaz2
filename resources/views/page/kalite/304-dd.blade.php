@@ -1,8 +1,13 @@
 @extends('page.kalite.layouts')
 
 @section('title')
-    304 DDQ PASLANMAZ ÇELİK | Nikomet Paslanmaz
+    304 DDQ Paslanmaz Çelik | Huzey Metal
 @endsection
+
+@section('desc')
+    ÖSTENİTİK Paslanmaz ÇELİK
+@endsection
+
 @section('content')
 
     <!--Search Popup-->

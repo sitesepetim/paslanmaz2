@@ -1,5 +1,13 @@
 @extends('page.desenler.layouts')
 
+@section('title')
+    Gözyaşı Desen | Huzey Metal
+@endsection
+
+@section('desc')
+    ÖSTENİTİK Paslanmaz ÇELİK
+@endsection
+
 @section('content')
 
 
@@ -35,7 +43,7 @@
                         Zeminde, fabrikalarda, gemilerde ve benzer alanlarda paslanmaz çelik gözyaşı deseni, zemin kaplama
                         veya döşeme olarak kullanılabilir. </div>
                     <h3>GÖZYAŞI DESEN KULLANIM ALANLARI</h3>
-                    <div class="text">bu desen, metal yüzeylerde korozyonun önlenmesine ve dayanıklılığın arttırılmasına
+                    <div class="text">Gözyaşı desen, metal yüzeylerde korozyonun önlenmesine ve dayanıklılığın arttırılmasına
                         da yardımcı olabilir. </div>
                     <ul class="list">
                         <li>Fabrikalarda</li>

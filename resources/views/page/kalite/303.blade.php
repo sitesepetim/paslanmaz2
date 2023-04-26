@@ -2,8 +2,13 @@
 
 
 @section('title')
-    303 (1.4305) PASLANMAZ ÇELİK | Nikomet Paslanmaz
+    303 (1.4305) Paslanmaz Çelik | Huzey Metal
 @endsection
+
+@section('desc')
+    ÖSTENİTİK Paslanmaz ÇELİK
+@endsection
+
 @section('content')
 
 

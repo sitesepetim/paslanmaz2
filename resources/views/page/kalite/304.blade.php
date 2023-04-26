@@ -1,7 +1,11 @@
 @extends('page.kalite.layouts')
 
 @section('title')
-    304 (1.4301) PASLANMAZ ÇELİK | Nikomet Paslanmaz
+    304 (1.4301) Paslanmaz Çelik | Huzey Metal
+@endsection
+
+@section('desc')
+    ÖSTENİTİK Paslanmaz ÇELİK
 @endsection
 
 @section('content')

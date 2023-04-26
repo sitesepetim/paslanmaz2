@@ -1,5 +1,13 @@
 @extends('page.urunler.layouts')
 
+@section('title')
+   Paslanmaz Sac | Huzey Metal
+@endsection
+
+@section('desc')
+    ÖSTENİTİK Paslanmaz ÇELİK
+@endsection
+
 @section('content')
 
     <!-- Page Title -->
@@ -8,12 +16,12 @@
             <div class="content-box">
                 <div class="content-wrapper">
                     <div class="title">
-                        <h1>PASLANMAZ SAÇ</h1>
+                        <h1>PASLANMAZ SAC</h1>
                     </div>
                     <ul class="bread-crumb">
                         <li><a href="{{route('index')}}">ANA SAYFA</a></li>
                         <li><a href="{{route('urunler')}}">ÜRÜNLER</a></li>
-                        <li>PASLANMAZ SAÇ</li>
+                        <li>PASLANMAZ SAC</li>
                     </ul>
                 </div>
             </div>
@@ -29,7 +37,7 @@
                     <h2>PASLANMAZ SAC</h2>
                     <div class="image mb-40"><img src="{{asset('assets/images/resource/PASLANMAZ SAC.jpeg')}}" alt="PASLANMAZ SAC"></div>
 
-                    <div class="text">Parlak görüntüye sahip olmasıyla bilinen, uzun ömürlü bir kullanım imkânı sunan, paslanmaz saç, birçok farklı
+                    <div class="text">Parlak görüntüye sahip olmasıyla bilinen, uzun ömürlü bir kullanım imkânı sunan, paslanmaz sac, birçok farklı
                         sektörde yoğun olarak kullanılan  dekoratif olarak da tercih edilen ürünler arasındadır. İlk üretim aşamasında mat bir yüzey
                         görüşünü verir. Çeşitli müdahaleler ile parlak   bir görünüm elde edilebilir. Bu aşamadan sonra,  kullanım alanları her
                         geçen gün genişliyor. Parlak ve paslanmaz özelliğe sahip olması nedeniyle mutfak alanlarında, gıda ve tıp endüstri alanlarında,

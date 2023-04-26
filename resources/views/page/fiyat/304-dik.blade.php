@@ -1,7 +1,11 @@
 @extends('page.fiyat.layouts')
 
 @section('title')
-    304 PASLANMAZ DİKDÖRTGEN FİYATLARI Huzey Metal
+    304 Paslanmaz Dikdörtgen Fiyatları | Huzey Metal
+@endsection
+
+@section('desc')
+    ÖSTENİTİK Paslanmaz ÇELİK
 @endsection
 
 @section('content')

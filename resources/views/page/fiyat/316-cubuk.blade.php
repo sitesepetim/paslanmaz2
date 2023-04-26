@@ -1,7 +1,11 @@
 @extends('page.fiyat.layouts')
 
 @section('title')
-    316 PASLANMAZ ÇUBUK FİYATLARI |  Huzey Metal
+    316 Paslanmaz Çubuk Fiyatları |  Huzey Metal
+@endsection
+
+@section('desc')
+    ÖSTENİTİK Paslanmaz ÇELİK
 @endsection
 
 @section('content')

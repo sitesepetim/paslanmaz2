@@ -222,7 +222,7 @@ Route::get('/kaliteler/630-paslanmaz-celik', function () {
 
 
 
-Route::get('/kaliteler/oztentitik-paslanmaz-celik', function () {
+Route::get('/kaliteler/ostenitik-paslanmaz-celik', function () {
     return view('page.kalite.oztentitik');
 })->name('oztentitik');
 

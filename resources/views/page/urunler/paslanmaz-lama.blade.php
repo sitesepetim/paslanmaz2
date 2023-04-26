@@ -1,5 +1,13 @@
 @extends('page.urunler.layouts')
 
+@section('title')
+    Paslanmaz Lama | Huzey Metal
+@endsection
+
+@section('desc')
+    ÖSTENİTİK Paslanmaz ÇELİK
+@endsection
+
 @section('content')
 
     <!-- Page Title -->

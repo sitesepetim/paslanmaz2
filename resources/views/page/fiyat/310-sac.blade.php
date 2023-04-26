@@ -1,6 +1,11 @@
 @extends('page.fiyat.layouts')
+
 @section('title')
-    310 PASLANMAZ SAC FİYATLARI |  Huzey Metal
+    310 Paslanmaz Sac Fiyatları |  Huzey Metal
+@endsection
+
+@section('desc')
+    ÖSTENİTİK Paslanmaz ÇELİK
 @endsection
 
 @section('content')

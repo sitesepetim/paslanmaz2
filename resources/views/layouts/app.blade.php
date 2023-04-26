@@ -5,7 +5,10 @@
 <!-- Mirrored from layerdrops.com/insur/main-html/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 24 Oct 2022 08:02:31 GMT -->
 <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="@yield('desc')">
+    <meta name="author" content="Ma Yazılım">
+
     @yield('title')
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="{{asset('assets/images/favicon.png')}}" />
@@ -19,7 +22,7 @@
     <meta property="og:url" content="http://sitesepetim.com/" />
     <meta property="og:site_name" content="Site Sepetim" />
 
-    @yield('desc')
+
 
     <!-- fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com/">

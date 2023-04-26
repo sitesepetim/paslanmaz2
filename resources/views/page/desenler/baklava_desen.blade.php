@@ -1,5 +1,13 @@
 @extends('page.desenler.layouts')
 
+@section('title')
+    Baklava Desen | Huzey Metal
+@endsection
+
+@section('desc')
+    ÖSTENİTİK Paslanmaz ÇELİK
+@endsection
+
 @section('content')
 
 

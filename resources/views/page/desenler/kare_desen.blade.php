@@ -1,5 +1,13 @@
 @extends('page.desenler.layouts')
 
+@section('title')
+    Kare Desen | Huzey Metal
+@endsection
+
+@section('desc')
+    ÖSTENİTİK Paslanmaz ÇELİK
+@endsection
+
 @section('content')
 
 
@@ -38,13 +46,13 @@
                         Kare desenli paslanmaz çelik, modern ve şık bir görünüme sahip olabilir. Desen, ev ve işletmelerin iç
                         tasarımına uygun olarak çeşitli renklerde boyanabilir. Ayrıca, kare deseni, paslanmaz çelik yüzeyinde
                         yapışkan bir film kullanılarak da uygulanabilir.
+                        <br>
+                        <br>
+                        Paslanmaz çelik kare deseni, fiyatını etkileyen faktörler arasında üretim maliyetleri, kalitesi,
+                        boyutları ve miktarı bulunur. Bu faktörlere bağlı olarak, paslanmaz çelik kare desenin fiyatı değişebilir.
                     </div>
                     <h3>KARE DESEN KULLANIM ALANALRI</h3>
-                    <div class="text">Paslanmaz çelik kare deseni, fiyatını etkileyen faktörler arasında üretim maliyetleri, kalitesi,
-                        boyutları ve miktarı bulunur. Bu faktörlere bağlı olarak, paslanmaz çelik kare desenin fiyatı değişebilir.
-                        <br>
-                        <br>
-                        Sonuç olarak, paslanmaz çelik kare desenli tasarım, ev ve işletmelerin dekorasyonunda şık, dayanıklı ve hijyenik bir seçimdir.
+                    <div class="text">Paslanmaz çelik kare desenli tasarım, ev ve işletmelerin dekorasyonunda şık, dayanıklı ve hijyenik bir seçimdir.
                     </div>
                     <ul class="list">
                         <li>Asansör kabinleri</li>

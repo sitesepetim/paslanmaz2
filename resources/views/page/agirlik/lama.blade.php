@@ -1,7 +1,12 @@
 
 @extends('page.hizmetler.layouts')
 
-@section('title') Paslanmaz Lama Ağırlık Hesaplama | Huzey Metal @endsection
+@section('title') Paslanmaz Lama Ağırlık Hesaplama | Huzey Metal
+@endsection
+
+@section('desc')
+    ÖSTENİTİK Paslanmaz ÇELİK
+@endsection
 
 @section('content')
 

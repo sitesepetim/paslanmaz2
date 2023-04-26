@@ -1,12 +1,17 @@
-@extends('page.kalite.layouts')
+    @extends('page.kalite.layouts')
 
 
-@section('content')
 @section('title')
-    MARTENSİTİK  Paslanmaz ÇELİK | Huzey Metal
+    Martensitik  Paslanmaz Çelik | Huzey Metal
 @endsection
 
-<div id="search-popup" class="search-popup">
+    @section('desc')
+        ÖSTENİTİK Paslanmaz ÇELİK
+    @endsection
+
+    @section('content')
+
+        <div id="search-popup" class="search-popup">
     <div class="close-search theme-btn"><span class="flaticon-remove"></span></div>
     <div class="popup-inner">
         <div class="overlay-layer"></div>
@@ -69,7 +74,7 @@
                     <div class="service-benifit">
 
                         <div class="row align-items-center">
-                            <div class="col-lg-8">
+                            <div class="col-lg-12">
                                 <h3>MARTENSİTİK  PASLANMAZ ÇELİK ÖZELLİKLERİ</h3>
                                 <div class="text">Çeliğe paslanmazlık özelliğini kazandıran en önemli element kromdur. Doğada bulunuş şekli
                                     saf halde olmayan anca bir dizi işlemden geçirildikten sonra elde edilen krom, çeliğin dış yüzeyinde

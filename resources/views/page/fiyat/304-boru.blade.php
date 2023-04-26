@@ -2,7 +2,11 @@
 
 
 @section('title')
-    304 PASLANMAZ BORU FİYATLARI | Huzey Metal
+    304 Paslanmaz Boru Fiyatları | Huzey Metal
+@endsection
+
+@section('desc')
+    ÖSTENİTİK Paslanmaz ÇELİK
 @endsection
 
 @section('content')

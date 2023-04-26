@@ -1,10 +1,15 @@
 
 @extends('page.hizmetler.layouts')
 
-@section('title')Paslanmaz Boru Ağırlık Hesaplama | Huzey Metal @endsection
+@section('title')Paslanmaz Boru Ağırlık Hesaplama | Huzey Metal
+@endsection
+
+@section('desc')
+    ÖSTENİTİK Paslanmaz ÇELİK
+@endsection
 
 
-@section('content')
+    @section('content')
 
     <section class="page-title" style="background-image: url({{asset('assets/images/background/bg-9.jpg')}});">
         <div class="auto-container">

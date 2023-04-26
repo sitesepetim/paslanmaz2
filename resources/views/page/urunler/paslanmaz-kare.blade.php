@@ -1,7 +1,11 @@
 @extends('page.urunler.layouts')
 
 @section('title')
-    PASLANMAZ Kare Profil | Huzey Metal
+    Paslanmaz Kare Profil | Huzey Metal
+@endsection
+
+@section('desc')
+    ÖSTENİTİK Paslanmaz ÇELİK
 @endsection
 
 
