@@ -1,5 +1,9 @@
 @extends('page.fiyat.layouts')
 
+@section('title')
+    304 PASLANMAZ ÇUBUK FİYATLARI| Huzey Metal
+@endsection
+
 @section('content')
 
 

@@ -1,4 +1,7 @@
 @extends('page.fiyat.layouts')
+@section('title')
+    310 PASLANMAZ SAC FİYATLARI |  Huzey Metal
+@endsection
 
 @section('content')
 

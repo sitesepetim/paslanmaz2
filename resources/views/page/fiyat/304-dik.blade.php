@@ -1,5 +1,9 @@
 @extends('page.fiyat.layouts')
 
+@section('title')
+    304 PASLANMAZ DİKDÖRTGEN FİYATLARI Huzey Metal
+@endsection
+
 @section('content')
 
 

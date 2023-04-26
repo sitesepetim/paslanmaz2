@@ -1,5 +1,9 @@
 @extends('page.fiyat.layouts')
 
+@section('title')
+    304 PASLANMAZ SAÇ FİYATLARI |  Huzey Metal
+@endsection
+
 @section('content')
 
 
@@ -9,12 +13,12 @@
             <div class="content-box">
                 <div class="content-wrapper">
                     <div class="title">
-                        <h1>304 PASLANMAZ SAC FİYATLARI</h1>
+                        <h1>304 PASLANMAZ SAÇ FİYATLARI</h1>
                     </div>
                     <ul class="bread-crumb">
                         <li><a href="{{route('index')}}">ANA SAYFA</a></li>
                         <li><a href="{{route('fiyat_listesi')}}">FİYAT LİSTESİ</a></li>
-                        <li>304 PASLANMAZ SAC FİYATLARI</li>
+                        <li>304 PASLANMAZ SAÇ FİYATLARI</li>
                     </ul>
                 </div>
             </div>
@@ -28,7 +32,7 @@
             <div class="row">
                 @include('page.fiyat.sidebar')
                 <div class="col-lg-9">
-                    <h2>304 Paslanmaz Sac Fİyatları</h2>
+                    <h2>304 Paslanmaz Saç Fİyatları</h2>
                     Paslanmaz çelik, korozyona dayanıklı ve estetik görünümü ile yüksek talep gören bir malzemedir.
                     Bu malzeme, gıda sanayi, inşaat, havacılık ve otomotiv gibi birçok sektörde kullanılır. Paslanmaz
                     çelik malzemelerin kalitesi, ölçüsü ve miktarı fiyatın belirlenmesinde etkilidir.
