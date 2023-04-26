@@ -1,7 +1,7 @@
 @extends('page.hizmetler.layouts')
 
 @section('title')
-     Paslanmaz çelik Dilme |  Huzey Metal
+     Paslanmaz Çelik Dilme |  Huzey Metal
 @endsection
 
 @section('desc')

@@ -90,13 +90,13 @@
                 <div class="col-lg-6 col-md-6 project-block">
                     <div class="inner-box">
                         <div class="image"><img src="assets/images/resource/PASLANMAZ ÇELİK DİLME.jpeg" alt="PASLANMAZ ÇELİK DİLME"></div>
-                        <h4><a href="{{route('paslanmaz-kare')}}">Paslanmaz ÇELİK Dilme </a></h4>
+                        <h4><a  href="{{route('dilme')}}">Paslanmaz Çelik Dilme </a></h4>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6 project-block">
                     <div class="inner-box">
                         <div class="image"><img src="assets/images/resource/PASLANMAZ ÇELİK LAZER KESİM.jpeg" alt="PASLANMAZ ÇELİK LAZER KESİM"></div>
-                        <h4><a href="{{route('paslanmaz-tel')}}">Paslanmaz Çelİk Lazer Kesim</a></h4>
+                        <h4><a href="{{route('lazer')}}">Paslanmaz Çelİk Lazer Kesim</a></h4>
                     </div>
                 </div>
 
