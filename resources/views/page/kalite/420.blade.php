@@ -6,8 +6,8 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    420 Paslanmaz Çelik: Yüksek sertliği ve korozyona karşı direnci
+    sayesinde tercih edilen 420 paslanmaz çelik Huzey Metal'de! Özel boyutlarda imalat yapılabilmektedir.@endsection
 
 @section('content')
 

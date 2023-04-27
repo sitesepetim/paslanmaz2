@@ -6,8 +6,8 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    4418 (1.4418) Paslanmaz Çelik: Yüksek mukavemeti ve korozyon
+    direnci sayesinde tercih edilen 4418 paslanmaz çelik Huzey Metal'de! Uygun fiyatlarla özel boyutlarda satışı yapılır.@endsection
 
 @section('content')
 

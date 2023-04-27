@@ -6,8 +6,7 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    202 paslanmaz çelik, düşük nikel içeriği ve yüksek mukavemeti sayesinde dayanıklı bir seçenek olarak Huzey Metal'de mevcuttur.@endsection
 
 @section('content')
 

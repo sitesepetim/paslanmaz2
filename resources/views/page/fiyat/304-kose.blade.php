@@ -5,8 +5,8 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    Huzey Metal, 304 paslanmaz köşebent fiyatları ile
+    kaliteyi uygun fiyatlarla sizlere sunar. Dayanıklı ve güvenilir köşebentlerimizi keşfedin ve ihtiyaçlarınızı karşılayın.@endsection
 
 @section('content')
 

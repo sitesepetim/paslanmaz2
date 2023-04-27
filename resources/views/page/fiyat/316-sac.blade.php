@@ -5,8 +5,8 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    316 Paslanmaz Sac Fiyatları - Dayanıklı ve uzun ömürlü 316 kalite paslanmaz sac
+    çeşitlerimizi Huzey Metal'den uygun fiyatlarla satın alabilirsiniz. Detaylı bilgi için hemen tıklayın!@endsection
 
 @section('content')
 

@@ -5,8 +5,8 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    316 paslanmaz çubuk fiyatları için Huzey Metal'den kaliteli ve uygun fiyatlı
+    seçenekleri inceleyin. Geniş ürün yelpazesi ile müşteri memnuniyetini ön planda tutuyoruz.@endsection
 
 @section('content')
 

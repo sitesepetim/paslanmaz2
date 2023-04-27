@@ -6,8 +6,8 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    409 Paslanmaz Çelik: Mükemmel kaynaklanabilirliği ile ön plana çıkan
+    409 paslanmaz çelik Huzey Metal'de! Uygun fiyatlarla özel boyutlarda satışı yapılır.@endsection
 
 @section('content')
 

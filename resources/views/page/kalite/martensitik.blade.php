@@ -6,8 +6,7 @@
 @endsection
 
     @section('desc')
-        ÖSTENİTİK Paslanmaz ÇELİK
-    @endsection
+        Martensitik Paslanmaz Çelik, mukavemeti ve sertliği yüksek bir çelik türüdür. Huzey Metal'de özel boyutlarda imalat yapılır.    @endsection
 
     @section('content')
 

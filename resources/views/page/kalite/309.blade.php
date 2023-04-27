@@ -7,8 +7,7 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    309 paslanmaz çelik, yüksek sıcaklık dayanımı ve korozyon direnci sayesinde yüksek sıcaklık uygulamaları için ideal bir seçenektir. Huzey Metal'de mevcuttur.@endsection
 
 @section('content')
 

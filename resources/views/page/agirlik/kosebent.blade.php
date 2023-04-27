@@ -6,8 +6,7 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    Paslanmaz köşebent ağırlık hesaplama aracımızla köşebentlerin ağırlığını hesaplayın. Huzey Metal kalitesi ve uygun fiyatları kaçırmayın.@endsection
 
 @section('content')
 

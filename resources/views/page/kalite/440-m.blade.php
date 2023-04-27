@@ -6,8 +6,8 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    440M (1.4116N) Paslanmaz Çelik: Yüksek sertliği ve dayanıklılığı sayesinde tercih edilen
+    440M paslanmaz çelik Huzey Metal'de! Özel boyutlarda imalat yapılabilmektedir.@endsection
 
 @section('content')
 

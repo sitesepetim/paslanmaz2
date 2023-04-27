@@ -5,8 +5,8 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    Paslanmaz mili, dayanıklılığı ve uzun ömrü ile tanınan Huzey Metal'den temin edebilirsiniz.
+    Farklı boyutlarda ve özelliklerde paslanmaz çubuklar için hemen tıklayın.@endsection
 
 @section('content')
 

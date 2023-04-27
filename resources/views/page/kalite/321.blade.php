@@ -6,8 +6,8 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    321 (1.4541) Paslanmaz Çelik: Korozyona karşı yüksek direnci
+    sayesinde tercih edilen 321 paslanmaz çelik Huzey Metal'de! Özel boyutlarda imalat yapılabilmektedir.@endsection
 
 @section('content')
 

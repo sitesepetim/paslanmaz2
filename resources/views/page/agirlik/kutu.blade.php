@@ -9,8 +9,7 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    Paslanmaz kutu profil ağırlık hesaplama aracımızla kutu profil ağırlığını hesaplayın. Huzey Metal farkı ve uygun fiyatlarla hizmetinizdeyiz.@endsection
 
 @section('content')
 

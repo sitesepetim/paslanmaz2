@@ -5,8 +5,8 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    304 paslanmaz lama fiyatları konusunda Huzey Metal sizlere en iyi
+    hizmeti sunmak için burada. Çeşitli boyut ve kalınlıklarda lama seçeneklerimizi inceleyin.@endsection
 
 @section('content')
 

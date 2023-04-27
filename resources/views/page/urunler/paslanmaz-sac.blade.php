@@ -5,8 +5,8 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    Endüstriyel kullanım için dayanıklı paslanmaz sac
+    malzemeleri Huzey Metal'de. Özel ölçü ve kalınlıklarda paslanmaz sac seçenekleri ile size özel çözümler sunuyoruz.@endsection
 
 @section('content')
 

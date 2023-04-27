@@ -5,8 +5,7 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    Paslanmaz çelik ürünlerimiz, yüksek kaliteli ve uzun ömürlü çözümler sunar. Huzey Metal'in özgün paslanmaz çelik seçeneklerine göz atın.@endsection
 
 @section('content')
 

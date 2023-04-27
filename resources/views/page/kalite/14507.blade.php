@@ -6,8 +6,7 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    1.4507 Süper Dubleks Paslanmaz Çelik, yüksek mukavemeti ve korozyon direnci ile öne çıkar. Huzey Metal'de özel boyutlarda imalat yapılır.@endsection
 
 @section('content')
 

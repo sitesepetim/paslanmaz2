@@ -5,8 +5,7 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    Paslanmaz lama ağırlık hesaplama aracımızla lama ağırlığını hemen hesaplayın. Huzey Metal farkı ve uygun fiyatlarla hizmetinizdeyiz.@endsection
 
 @section('content')
 

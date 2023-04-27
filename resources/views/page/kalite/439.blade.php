@@ -6,8 +6,7 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    439 / 439Ti Paslanmaz Çelik, pas ve korozyona karşı yüksek dayanımıyla bilinir. Huzey Metal'de stoklu ve özel boyutlarda üretim yapılır.@endsection
 
 @section('content')
 

@@ -5,8 +5,7 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    Paslanmaz küpeşte çözümlerimiz, uzun ömürlü ve dayanıklıdır. Huzey Metal'den en uygun fiyatlarla paslanmaz küpeşte seçeneklerine göz atın.@endsection
 
 @section('content')
 

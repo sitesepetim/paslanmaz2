@@ -5,8 +5,7 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    Paslanmaz sac ağırlık hesaplama aracımızla sac ağırlığını hemen hesaplayın. Huzey Metal kalitesi ve uygun fiyatları kaçırmayın.@endsection
 
 @section('content')
 

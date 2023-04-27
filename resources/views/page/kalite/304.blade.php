@@ -5,8 +5,7 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    304 (1.4301) paslanmaz çelik, yüksek korozyon direnci, mükemmel şekillendirme özellikleri ve geniş kullanım alanı ile Huzey Metal'de bulunur.@endsection
 
 @section('content')
 

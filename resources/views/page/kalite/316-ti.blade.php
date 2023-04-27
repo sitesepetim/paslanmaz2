@@ -6,8 +6,8 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    316Ti (1.4571) Paslanmaz Çelik: Yüksek sıcaklık ve korozyona karşı
+    dayanıklı 316Ti paslanmaz çelik Huzey Metal'de! İhtiyacınız olan ölçü ve kalitede imalat yapılır.@endsection
 
 @section('content')
 

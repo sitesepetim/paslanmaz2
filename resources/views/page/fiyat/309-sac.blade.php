@@ -5,8 +5,8 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    309 Paslanmaz Sac Fiyatları - Yüksek sıcaklıklara dayanıklı 309 kalite paslanmaz sac
+        çeşitlerimizi Huzey Metal'den en uygun fiyatlarla temin edebilirsiniz. Sipariş verin, avantajlı fiyatlarımızdan yararlanın!@endsection
 
 @section('content')
 

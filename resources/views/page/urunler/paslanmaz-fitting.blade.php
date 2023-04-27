@@ -5,8 +5,8 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    Paslanmaz fittings seçeneklerimiz, çeşitli uygulamalar için ideal
+    çözümler sunar. Huzey Metal'in özgün ve yüksek kaliteli paslanmaz fittings ürünleri için hemen inceleyin.@endsection
 
 @section('content')
 

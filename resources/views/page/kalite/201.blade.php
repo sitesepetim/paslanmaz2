@@ -5,8 +5,7 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    Huzey Metal'de bulabileceğiniz 201 paslanmaz çelik, yüksek korozyon direnci ve mükemmel şekillendirme özellikleri ile öne çıkıyor.@endsection
 
 @section('content')
 

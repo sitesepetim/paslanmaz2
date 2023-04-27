@@ -5,8 +5,8 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    Baklava desenli paslanmaz çelikler, endüstriyel tarza şık bir dokunuş katar.
+    Huzey Metal'in baklava desenli paslanmaz çelikleri uygun fiyatları ve kalitesiyle öne çıkıyor.@endsection
 
 @section('content')
 

@@ -5,8 +5,7 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    Kare desenli paslanmaz çeliklerimiz, sade ve modern tasarımların yanı sıra geleneksel tasarımlarda da estetik bir dokunuş sunuyor.@endsection
 
 @section('content')
 

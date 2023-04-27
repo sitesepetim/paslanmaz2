@@ -6,8 +6,7 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    310 (1.4845) paslanmaz çelik, yüksek sıcaklık dayanımı ve korozyon direnci ile özellikle fırın ve ısıtma sistemlerinde tercih edilir. Huzey Metal'de mevcuttur.@endsection
 
 @section('content')
 

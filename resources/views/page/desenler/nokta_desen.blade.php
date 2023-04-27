@@ -5,8 +5,7 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    Nokta desenli paslanmaz çeliklerimiz, çarpıcı görünümleriyle dikkat çekiyor ve mimari ve dekoratif tasarımlarda fark yaratıyor.@endsection
 
 @section('content')
 

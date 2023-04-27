@@ -5,8 +5,7 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    Paslanmaz boru ağırlık hesaplama aracımız ile kolayca boru ağırlığını hesaplayın. Huzey Metal kalitesiyle uygun fiyatlarla hizmetinizdeyiz.@endsection
 
 
     @section('content')

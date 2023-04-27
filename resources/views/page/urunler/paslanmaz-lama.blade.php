@@ -5,8 +5,7 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    Paslanmaz lama seçeneklerimiz, yüksek kalite standartlarında üretilmiştir. Huzey Metal'den en uygun fiyatlarla paslanmaz lama temin etmek için hemen tıklayın.@endsection
 
 @section('content')
 

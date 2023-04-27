@@ -5,8 +5,7 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    Huzey Metal'de bulabileceğiniz satine desenli paslanmaz çelikler, modern ve şık görünümleriyle tasarımlarınıza değer katıyor.@endsection
 
 @section('content')
 

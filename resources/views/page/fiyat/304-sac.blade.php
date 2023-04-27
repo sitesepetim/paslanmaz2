@@ -5,8 +5,8 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    304 Paslanmaz Sac Fiyatları - Huzey Metal'de en uygun fiyatlarla 304 kalite paslanmaz
+    sac satın alabilirsiniz. Hemen sipariş verin, kaliteli ürünlerimizi keşfedin!@endsection
 
 @section('content')
 

@@ -6,8 +6,8 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    316 (1.4401) Paslanmaz Çelik: Korozyon direnci ve yüksek sıcaklık dayanımı sayesinde birçok endüstride kullanılan
+    316 paslanmaz çelik özel boyutlarda Huzey Metal'de!@endsection
 
 @section('content')
 

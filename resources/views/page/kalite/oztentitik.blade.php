@@ -5,8 +5,7 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    Östenitik Paslanmaz Çelik, korozyon direnci ve mukavemeti yüksek bir malzemedir. Huzey Metal'de farklı kalitelerde bulunur.@endsection
 
 @section('content')
 

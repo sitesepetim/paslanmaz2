@@ -1,12 +1,12 @@
 @extends('page.fiyat.layouts')
 
 @section('title')
-    304 Paslanmaz Dikdörtgen Fiyatları | Huzey Metal
+    304 Paslanmaz Dikdörtgen Profil Fiyatları | Huzey Metal
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    304 Paslanmaz Dikdörtgen Profil Fiyatları - Huzey Metal'de 304 kalite paslanmaz dikdörtgen
+    profil çeşitlerimizi en uygun fiyatlarla satın alabilirsiniz. Sipariş verin, kaliteli ürünlerimizden yararlanın!@endsection
 
 @section('content')
 
@@ -17,12 +17,12 @@
             <div class="content-box">
                 <div class="content-wrapper">
                     <div class="title">
-                        <h1>304 PASLANMAZ DİKDÖRTGEN FİYATLARI</h1>
+                        <h1>304 PASLANMAZ DİKDÖRTGEN PROFİL FİYATLARI</h1>
                     </div>
                     <ul class="bread-crumb">
                         <li><a href="{{route('index')}}">ANA SAYFA</a></li>
                         <li><a href="{{route('fiyat_listesi')}}">FİYAT LİSTESİ</a></li>
-                        <li>304 PASLANMAZ DİKDÖRTGEN FİYATLARI</li>
+                        <li>304 PASLANMAZ DİKDÖRTGEN PROFİL FİYATLARI</li>
                     </ul>
                 </div>
             </div>
@@ -36,7 +36,7 @@
             <div class="row">
                 @include('page.fiyat.sidebar')
                 <div class="col-lg-9">
-                    <h2>304 PASLANMAZ DİKDÖRTGEN FİYATLARI</h2>
+                    <h2>304 PASLANMAZ DİKDÖRTGEN PROFİL FİYATLARI</h2>
                     Paslanmaz çelik, korozyona dayanıklı ve estetik görünümü ile yüksek talep gören bir malzemedir.
                     Bu malzeme, gıda sanayi, inşaat, havacılık ve otomotiv gibi birçok sektörde kullanılır. Paslanmaz
                     çelik malzemelerin kalitesi, ölçüsü ve miktarı fiyatın belirlenmesinde etkilidir.
@@ -54,7 +54,7 @@
                     <br>
                     <br>
                     <br>
-                    <h3>304 PASLANMAZ DİKDÖRTGEN FİYAT LİSTESİ</h3>
+                    <h3>304 PASLANMAZ DİKDÖRTGEN PROFİL FİYAT LİSTESİ</h3>
 
                     <table class="table table-striped">
                         <thead>

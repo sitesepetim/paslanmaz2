@@ -5,8 +5,7 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    304 DDQ paslanmaz çelik, yüksek düzeyde derin çekme kabiliyeti ile mükemmel şekillendirme özelliklerine sahip bir çelik türüdür. Huzey Metal'de mevcuttur.@endsection
 
 @section('content')
 

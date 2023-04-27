@@ -6,8 +6,7 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    Ferritik Paslanmaz Çelik, pas ve korozyona karşı yüksek direnci sayesinde tercih edilir. Huzey Metal'de farklı kalitelerde stoklu bulunur.@endsection
 
 @section('content')
 

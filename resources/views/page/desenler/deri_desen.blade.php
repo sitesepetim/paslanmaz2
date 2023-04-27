@@ -5,8 +5,7 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    Deri desenli paslanmaz çeliklerimiz, dokulu yüzeyleri ve benzersiz görünümleriyle özel tasarımlarda öne çıkıyor ve fark yaratıyor.@endsection
 
 @section('content')
 

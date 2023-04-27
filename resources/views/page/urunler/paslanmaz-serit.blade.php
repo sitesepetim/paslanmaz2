@@ -5,8 +5,8 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    Paslanmaz şerit ihtiyaçlarınızda Huzey Metal güvencesiyle en kaliteli malzemeleri bulabilirsiniz.
+    Özel ölçü ve kalınlıklarda paslanmaz şerit seçenekleriyle size özel çözümler sunuyoruz.@endsection
 
 @section('content')
 

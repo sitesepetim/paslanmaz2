@@ -5,8 +5,8 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    Gözyaşı desenli paslanmaz çeliklerle modern ve şık bir görünüm elde edin.
+    Huzey Metal'in geniş ürün yelpazesindeki gözyaşı desenli paslanmaz çeliklerle tasarımınızı tamamlayın.@endsection
 
 @section('content')
 

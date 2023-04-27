@@ -6,8 +6,7 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    430 (1.4016) Paslanmaz Çelik: Yüksek mukavemeti ve dayanıklılığı ile tercih edilen 430 paslanmaz çelik Huzey Metal'de! Özel boyutlarda imalat yapılır.@endsection
 
 @section('content')
 

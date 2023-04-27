@@ -6,8 +6,7 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    630 (1.4542) PH 17-4 Paslanmaz Çelik, mukavemeti yüksek bir çelik türüdür. Huzey Metal'de özel boyutlarda imalat yapılır.@endsection
 
 @section('content')
 

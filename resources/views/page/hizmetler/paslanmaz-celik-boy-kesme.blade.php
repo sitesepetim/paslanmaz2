@@ -5,8 +5,8 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    Huzey Metal, istenilen boyutlarda kaliteli paslanmaz çelik boy kesme hizmeti sunmaktadır.
+    Boy kesme işlemlerinde uzmanlaşmış ekibimizle sizlere en iyi hizmeti sağlıyoruz.@endsection
 
 @section('content')
 

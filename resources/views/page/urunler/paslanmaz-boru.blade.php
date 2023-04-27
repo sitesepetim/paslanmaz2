@@ -5,8 +5,8 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    Huzey Metal, kaliteli ve uzun ömürlü paslanmaz boruları
+    en uygun fiyatlarla sunar. İhtiyacınıza özel boyutlandırma seçenekleriyle paslanmaz boru çözümleri için bizi tercih edin.@endsection
 
 @section('content')
 

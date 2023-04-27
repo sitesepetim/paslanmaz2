@@ -5,8 +5,8 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    304 Paslanmaz Çubuk Fiyatları - Huzey Metal'de en uygun fiyatlarla
+    304 kalite paslanmaz çubuk satın alabilirsiniz. Detaylı bilgi için hemen tıklayın!@endsection
 
 @section('content')
 

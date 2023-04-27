@@ -6,8 +6,7 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    303 (1.4305) paslanmaz çelik, mükemmel işlenebilirlik ve korozyon direnci ile özellikle makinelerde kullanım için idealdir. Huzey Metal'de mevcuttur.@endsection
 
 @section('content')
 

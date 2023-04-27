@@ -8,8 +8,7 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    Paslanmaz kare profil ağırlık hesaplama aracımızla kare profil ağırlığını hemen hesaplayın. Huzey Metal kalitesi ve uygun fiyatları kaçırmayın.@endsection
 
 @section('content')
 

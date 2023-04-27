@@ -5,8 +5,7 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    Paslanmaz Çelik Taşlama: Huzey Metal'de paslanmaz çeliklerinizi hassas ve kaliteli taşlama işlemleriyle işleyebilirsiniz.@endsection
 
 @section('content')
 

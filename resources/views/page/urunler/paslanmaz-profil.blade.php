@@ -5,8 +5,7 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    Paslanmaz profil çözümlerimiz, farklı boyut ve kalitelerde sunulur. Huzey Metal'in geniş paslanmaz profil ürün yelpazesine göz atın.@endsection
 
 @section('content')
 

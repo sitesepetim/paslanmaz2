@@ -6,8 +6,7 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    309S paslanmaz çelik, yüksek korozyon direnci ve oksidasyon direnci sayesinde yüksek sıcaklık uygulamaları için ideal bir çelik türüdür. Huzey Metal'de bulunur.@endsection
 
 @section('content')
 

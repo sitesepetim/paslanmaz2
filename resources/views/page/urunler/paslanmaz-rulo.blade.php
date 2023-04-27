@@ -5,8 +5,7 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    Paslanmaz rulo ihtiyaçlarınız için Huzey Metal kalitesiyle tanışın. Geniş seçeneklerimizle size özel paslanmaz rulo çözümleri sunuyoruz.@endsection
 
 @section('content')
 

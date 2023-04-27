@@ -5,8 +5,8 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    Huzey Metal, paslanmaz çelik çekme boru ihtiyaçlarınıza uygun çözümler sunar.
+    Yüksek kaliteli malzemelerimizle endüstriyel kullanım için ideal çekme borulara sahip olabilirsiniz.@endsection
 
 @section('content')
 

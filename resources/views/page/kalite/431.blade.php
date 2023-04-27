@@ -6,8 +6,7 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    431 (1.4057) Paslanmaz Çelik: Mükemmel kesme özellikleri ve yüksek sertliği sayesinde tercih edilen 431 paslanmaz çelik Huzey Metal'de! @endsection
 
 @section('content')
 

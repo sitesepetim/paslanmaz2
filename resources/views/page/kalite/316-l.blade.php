@@ -6,8 +6,8 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    316L (1.4404) Paslanmaz Çelik: Korozyona karşı yüksek dayanıklılığı
+    ile öne çıkan 316L paslanmaz çelik Huzey Metal'de! Uygun fiyatlarla özel boyutlarda imalat yapılır.@endsection
 
 @section('content')
 

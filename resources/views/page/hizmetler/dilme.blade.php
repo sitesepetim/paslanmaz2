@@ -5,8 +5,7 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    Paslanmaz Çelik Dilme: Paslanmaz çeliklerinizi Huzey Metal'de dilimleyerek, ihtiyacınız olan boyutlarda temin edebilirsiniz.@endsection
 
 @section('content')
 

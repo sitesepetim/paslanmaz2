@@ -6,8 +6,8 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    310S paslanmaz çelik, yüksek korozyon direnci, oksidasyon direnci ve
+    yüksek sıcaklık dayanımı sayesinde fırın ve ısıtma sistemlerinde ideal bir seçenektir.@endsection
 
 @section('content')
 

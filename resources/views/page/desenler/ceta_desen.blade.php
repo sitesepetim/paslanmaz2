@@ -6,8 +6,8 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    Çeta desenli paslanmaz çelikler, sağlamlığı ve estetiği bir arada sunar.
+    Huzey Metal'in çeta desenli paslanmaz çelikleri ile modern tasarımlarınızda fark yaratın.@endsection
 
 @section('content')
 

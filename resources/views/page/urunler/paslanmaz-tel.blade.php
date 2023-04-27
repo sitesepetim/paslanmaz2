@@ -5,8 +5,7 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    Paslanmaz teli, Huzey Metal'den en uygun fiyatlarla temin edebilirsiniz. Kanga tel ve diğer ihtiyaçlarınız için geniş ürün yelpazesine göz atın.@endsection
 
 @section('content')
 

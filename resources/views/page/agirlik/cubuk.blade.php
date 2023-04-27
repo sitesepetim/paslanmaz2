@@ -4,8 +4,7 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    Paslanmaz çubuk ağırlık hesaplama aracımız ile çubuk ağırlığını hızlıca öğrenin. Huzey Metal kalitesi ve uygun fiyatlarla sizlerle.@endsection
 
 @section('content')
 

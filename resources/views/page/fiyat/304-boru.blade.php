@@ -6,8 +6,8 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    304 Paslanmaz Boru Fiyatları - Huzey Metal'de 304 kalite paslanmaz boru
+    çeşitlerimizi en uygun fiyatlarla satın alabilirsiniz. Sipariş verin, kaliteli ürünlerimizden yararlanın!@endsection
 
 @section('content')
 

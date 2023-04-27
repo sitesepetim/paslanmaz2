@@ -5,8 +5,8 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    310 Paslanmaz Sac Fiyatları - Yüksek sıcaklıklara ve aşınmaya dayanıklı 310 kalite paslanmaz sac
+    çeşitlerimizi Huzey Metal'den uygun fiyatlarla temin edebilirsiniz. Detaylı bilgi için hemen tıklayın!@endsection
 
 @section('content')
 

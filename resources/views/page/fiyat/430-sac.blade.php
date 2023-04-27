@@ -5,8 +5,8 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    430 Paslanmaz Sac Fiyatları - Endüstriyel kullanım için ideal olan 430 kalite paslanmaz
+    sac çeşitlerimizi Huzey Metal'den en uygun fiyatlarla satın alabilirsiniz. Hemen sipariş verin!@endsection
 
 @section('content')
 

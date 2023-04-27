@@ -5,8 +5,7 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    Huzey Metal, farklı ebatlarda ve kalitelerde paslanmaz kare profil çözümleri sunar. Uygun fiyatlarla kaliteli ürünler için hemen inceleyin.@endsection
 
 
 @section('content')

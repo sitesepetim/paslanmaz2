@@ -5,8 +5,8 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    Paslanmaz Çelik Lazer Kesim: Huzey Metal'de paslanmaz çeliklerinizi hassas lazer kesim teknolojisi ile
+    kesim işlemlerinde kullanılmak üzere hazırlatabilirsiniz.@endsection
 
 @section('content')
 

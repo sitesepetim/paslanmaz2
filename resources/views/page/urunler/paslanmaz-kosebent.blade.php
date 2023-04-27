@@ -5,8 +5,7 @@
 @endsection
 
 @section('desc')
-    ÖSTENİTİK Paslanmaz ÇELİK
-@endsection
+    Paslanmaz köşebent seçeneklerimiz, yüksek kaliteli ve dayanıklıdır. Huzey Metal'in uygun fiyatlı paslanmaz köşebent ürünleri için hemen tıklayın.@endsection
 
 @section('content')
 
