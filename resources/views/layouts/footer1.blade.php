@@ -17,39 +17,36 @@
                         <h4 class="widget_title">KALİTELER</h4>
                         <div class="widget-content">
                             <ul class="list">
-                                <li><a href="http://localhost:63342/201-paslanmaz-celik.html/services.html"> 201 Paslanmaz Çelik </a></li>
-                                <li><a href="http://localhost:63342/201-paslanmaz-celik.html/services.html">202 Paslanmaz Çelik</a></li>
-                                <li><a href="http://localhost:63342/201-paslanmaz-celik.html/services.html">310s Paslanmaz Çelik</a></li>
-                                <li><a href="http://localhost:63342/201-paslanmaz-celik.html/services.html">409 Paslanmaz Çelik</a></li>
-                                <li><a href="http://localhost:63342/201-paslanmaz-celik.html/services.html">420 Paslanmaz Çelik</a></li>
-                                <li><a href="http://localhost:63342/201-paslanmaz-celik.html/services.html">309 Paslanmaz Çelik</a></li>
-                                <li><a href="http://localhost:63342/201-paslanmaz-celik.html/services.html">Martensitik  Paslanmaz Çelik</a></li>
-                                <li><a href="http://localhost:63342/201-paslanmaz-celik.html/services.html">Ferritik  Paslanmaz Çelik</a></li>
+                                <li><a href="{{route('201')}}">201 Paslanmaz Çelik </a></li>
+                                <li><a href="{{route('202')}}">202 Paslanmaz Çelik</a></li>
+                                <li><a href="{{route('310-s')}}">310s Paslanmaz Çelik</a></li>
+                                <li><a href="{{route('409')}}">409 Paslanmaz Çelik</a></li>
+                                <li><a href="{{route('420')}}">420 Paslanmaz Çelik</a></li>
+                                <li><a href="{{route('309')}}">309 Paslanmaz Çelik</a></li>
+                                <li><a href="{{route('martensitik')}}">Martensitik  Paslanmaz Çelik</a></li>
+                                <li><a href="{{route('kaliteler')}}">Tüm Kaliteler</a></li>
                             </ul>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
-                    <div class="widget news-widget">
-                        <h4 class="widget_title">BLOG</h4>
-                        <div class="news-widget-wrapper">
-                            <div class="post">
-                                <div class="image"><a href="blog-details.html"><img src="{{asset('assets/images/resource/news-4.jpg')}}" alt=""></a></div>
-                                <div class="content">
-                                    <div class="date">15 ocak, 2023</div>
-                                    <h4><a href="blog-details.html"> PASLANMAZ ÇELİK  <br>ÖZELLİKLERİ</a></h4>
-                                </div>
-                            </div>
-                            <div class="post">
-                                <div class="image"><a href="blog-details.html"><img src="{{asset('assets/images/resource/news-5.jpg')}}" alt=""></a></div>
-                                <div class="content">
-                                    <div class="date">15 ocak, 2023</div>
-                                    <h4><a href="blog-details.html"> PASLANMAZ ÇELİK <br>KULLANIM ALANLARI</a></h4>
-                                </div>
-                            </div>
+                    <div class="widget links-widget">
+                        <h4 class="widget_title">Ürünler</h4>
+                        <div class="widget-content">
+                            <ul class="list">
+                                <li><a href="{{route('paslanmaz_celik')}}">Paslanmaz Çelik </a></li>
+                                <li><a href="{{route('paslanmaz-mil-cubuk')}}">Paslanmaz Mil (Çubuk)</a></li>
+                                <li><a href="{{route('paslanmaz-kare')}}">Paslanmaz Kare Profil</a></li>
+                                <li><a href="{{route('paslanmaz-kosebent')}}">Paslanmaz Köşebent</a></li>
+                                <li><a href="{{route('paslanmaz-kupeste')}}">Paslanmaz Küpeşte</a></li>
+                                <li><a href="{{route('paslanmaz-lama')}}">Paslanmaz Lama</a></li>
+                                <li><a href="{{route('paslanmaz-profil')}}">PASLANMAZ PROFİL </a></li>
+                                <li><a href="{{route('urunler')}}">Tüm Ürünler</a></li>
+                            </ul>
                         </div>
                     </div>
                 </div>
+
                 <div class="col-lg-3 col-md-6">
                     <div class="widget contact-widget">
                         <h4 class="widget_title">İLETİŞİM</h4>

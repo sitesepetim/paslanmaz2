@@ -356,9 +356,7 @@ Route::get('/paslanmaz-kare-profil-agirlik-hesaplama', function () {
 })->name('kare_agirlik');
 
 
-////fiyat listesi
-///
-///
+Route::get('/sitemap.xml', [\App\Http\Controllers\SiteMapXmlController::class, 'index']);
 
 Route::get('/fiyat-listesi', function () {
     return view('page.fiyat.index');
@@ -547,7 +545,6 @@ Route::get('/admin/blog/ai/ekle', function () {
  Route::post('admin/blog/ai/view/atama/onay',[\App\Http\Controllers\Blogcontroller::class,'blog_view_atama_onay'])->name('blog_view_atama_onay');
 
 
- Route::get('/sitemap.xml', [\App\Http\Controllers\SiteMapXmlController::class, 'index']);
 
 
 

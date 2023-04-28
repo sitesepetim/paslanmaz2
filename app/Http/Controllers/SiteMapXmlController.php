@@ -13,5 +13,9 @@ class SiteMapXmlController extends Controller
         return response()->view('sitemap', [
             'posts' => $posts
         ])->header('Content-Type', 'text/xml');
+
+
+
+
     }
 }

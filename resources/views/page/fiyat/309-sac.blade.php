@@ -76,8 +76,8 @@
                             <td>{{\App\Models\fiyatListesi::where('type','=',"309_sac")->get()[$i]['kalinlik']}}</td>
                             <td>{{\App\Models\fiyatListesi::where('type','=',"309_sac")->get()[$i]['ebat']}}</td>
                             <td>{{\App\Models\fiyatListesi::where('type','=',"309_sac")->get()[$i]['kg']}}</td>
-                            <td>${{\App\Models\fiyatListesi::where('type','=',"309_sac")->get()[$i]['birim']}}</td>
-                            <td>${{\App\Models\fiyatListesi::where('type','=',"309_sac")->get()[$i]['plaka']}}</td>
+                            <td>{{\App\Models\fiyatListesi::where('type','=',"309_sac")->get()[$i]['birim']}}</td>
+                            <td>{{\App\Models\fiyatListesi::where('type','=',"309_sac")->get()[$i]['plaka']}}</td>
                         </tr>
                         @endfor
                         </tbody>

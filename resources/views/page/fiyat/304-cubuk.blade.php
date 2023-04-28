@@ -76,8 +76,8 @@
                             <td>{{\App\Models\fiyatListesi::where('type','=',"304_cubuk")->get()[$i]['kalinlik']}}</td>
                             <td>{{\App\Models\fiyatListesi::where('type','=',"304_cubuk")->get()[$i]['ebat']}}</td>
                             <td>{{\App\Models\fiyatListesi::where('type','=',"304_cubuk")->get()[$i]['kg']}}</td>
-                            <td>${{\App\Models\fiyatListesi::where('type','=',"304_cubuk")->get()[$i]['birim']}}</td>
-                            <td>${{\App\Models\fiyatListesi::where('type','=',"304_cubuk")->get()[$i]['plaka']}}</td>
+                            <td>{{\App\Models\fiyatListesi::where('type','=',"304_cubuk")->get()[$i]['birim']}}</td>
+                            <td>{{\App\Models\fiyatListesi::where('type','=',"304_cubuk")->get()[$i]['plaka']}}</td>
                         </tr>
                         @endfor
                         </tbody>
