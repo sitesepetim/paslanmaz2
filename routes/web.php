@@ -26,7 +26,7 @@ Route::get('/', function () {
     return view('page.index');
 })->name('index');
 
-Route::get('/hakkimizda', function () {
+Route::get('/hakkimizda2', function () {
     return view('page.hakkimizda');
 })->name('hakkimizda');
 
