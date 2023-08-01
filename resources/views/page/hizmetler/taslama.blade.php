@@ -59,10 +59,20 @@
                         hizmet üretmektir. Huzey Metal size en yüksek performans ve kalitedeki parçaları hatasız şekilde sunarak kaliteyi ölçmektedir.
                         Odak noktamız, yüksek kaliteli gereksemelerinizi karşılayabilecek daha kesif toleranslı hassas parçalar sunmaktır. </div>
                     <h3>GENİŞ MALZEME YELPAZESİ</h3>
+
                     <div class="text">Teknolojik ekipmanlarımız ve geniş bir malzeme yelpazesindeki yüzey taşlama deneyimimiz, her
                         türlü malzemeyi öğütmemizi sağlar. Üretkenliğinizi, performansınızı ve parça kalitenizi artırmak için her zaman
                         en kaliteli malzemeyi tercih ediyor ve seçiyoruz. Karaca, paslanmaz Çelik müşterilerine ile ilgili uluslararası
                         standartlarda paslanmaz çelik taşlama hizmeti sunmaktadır. </div>
+
+                    <div class="text">Huzey Metal’de 0,50mm ile 4,00m kalınlıklar arasındaki paslanmaz çelik levhalar Modern ve tam otomatik Taşlama (2 Kafa) ve Fırçalama( 3 Kafa) Hatlarında yüzey işlemine tabi tutulmaktadır.
+
+                        Taşlama işleme uluslararası standartlara uygun grit kodlarıyla( N series) ve bilgisayar kontrollü olarak yapılmaktadır. Fırçalama (Scotch Brite) işleme uluslararası standartlara uygun grit kodlu 3 kafa ( Medium, Fine, Very fine) fırçalarla ve bilgisayar kontrollü olarak yapılmaktadır.
+
+                        Taşlama ve Fırçalama işlemleri her müşteri ayrı bir üretim parametresi olarak sisteme kayıt edilerek takip edilmekte, müteakip siparişlerde aynı parametreler kullanılarak ürün kalitesinde süreklilik sağlanmaktadır.
+
+                        Taşlama ve Fırçalama işlemi sırasında levhalar müşteri talebine uygun olarak Koruyucu PE veya kağıt ile kaplanmaktadır. Oluşturacağınız siparişler için hemen bizimle iletişime geçebilirsiniz.
+                    </div>
                 </div>
 
                 </div>

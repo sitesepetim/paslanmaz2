@@ -42,7 +42,7 @@
                         içeren tıbbi cihazlar paslanmaz çubuk malzemeden üretilmektedir.
                         <br>
                         <br>
-                        Paslanmaz çubuk ürünleri Karaca paslanmaz çelik firmamız bünyesinde sattığımız ürünlerin başında gelmektedir. Firmamız
+                        Paslanmaz çubuk ürünleri Huzey Metal paslanmaz çelik firmamız bünyesinde sattığımız ürünlerin başında gelmektedir. Firmamız
                         bu anlamda en geniş Avrupa menşeli paslanmaz çubuk stokuna sahiptir. Stoklarımız ve geniş ürün yelpazemizle ihtiyaçlarınız
                         dâhilinde aynı gün stoklarımızdan sevk edilmektedir. Birçok kalitede ve ebatlarda stoklarımızda sürekli bulundurduğumuz ürünler
                         Paslanmaz mil paslanmaz çubuk ürünlerimiz uluslararası standartlara uygunluk sertifikalara sahip kaliteli malzemelerdir. Hızlı

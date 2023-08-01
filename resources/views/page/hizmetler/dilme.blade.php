@@ -59,6 +59,14 @@
                         amacına göre dilimlenerek farklı sektörlerde kullanılmaktadır. Paslanmaz dilme rulo da en çok ulaştırma sektörü, savunma, inşaat
                         sanayi, silah ve savunma sanayi gibi daha birçok alanda tercih edilmektedir. Paslanmaz ürünlerin temizlenmesi, parlaklaştırma ya
                         da matlaştırma aşamalarında da polisaj malzemeleri kullanılmaktadır.</div>
+                    <div class="text">Huzey Metal 0,20mm ile 6,00m kalınlıklar arasındaki paslanmaz çelik rulolar müşterilerin talep ettiği ölçüye göre dilinebilmektedir.
+
+                        Dilme işlemi, uluslararası standartlara uygun en düşük toleranslarda ve yüksek dilme kalitesinde gerçekleştirilmektedir.
+
+                        Rulo ve Şerit çapları ve ağırlıkları müşteri isteğine göre ayarlanmakta ve her zaman olduğu gibi müşteri talebine uygun olarak paketlenip ambalajlanmaktadır.
+
+                        Dilme işlemi sırasında Şerit ve Rulolar müşteri talebine uygun olarak Koruyucu PE veya kağıt ile kaplanmaktadır. Oluşturacağınız siparişler için hemen bizimle iletişime geçebilirsiniz.
+                    </div>
 
                 </div>
             </div>

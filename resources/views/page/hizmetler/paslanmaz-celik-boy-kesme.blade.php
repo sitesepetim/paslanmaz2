@@ -66,6 +66,18 @@
                         Sonuç olarak, paslanmaz çelik boy kesme işlemi, doğru teknik ve ekipmanların seçimi, kaliteli sonuçlar elde etmek için gerekli olan hassasiyet ve güvenli bir şekilde yapılması gereken bir işlemdir.
                     </div>
 
+                       <div class="text">Huzey Metal 0,20mm ile 12,00m kalınlıklar arasındaki paslanmaz çelik rulolar standart ölçülere ve müşterinin talep ettiği ölçülere modern Boy Kesme hatlarında kesilmektedir.
+
+                           Boy Kesme işlemi uluslararası standartlara uygun toleranslarda ve yüksek kesme kalitesinde gerçekleştirilmektedir.
+
+                           Paslanmaz levha paket ağırlığı müşteri isteğine göre ayarlanmakta ve paletler dış etkilerden korunacak şekilde standartlara uygun olarak paketlenip ambalajlanmaktadır.
+
+                           Boykesme işlemi sırasında levhalar müşteri talebine uygun olarak Koruyucu PE veya kağıt ile kaplanmaktadır
+                       </div>
+
+
+
+
                 </div>
             </div>
         </div>
