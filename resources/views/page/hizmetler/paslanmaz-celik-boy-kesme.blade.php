@@ -15,7 +15,7 @@
             <div class="content-box">
                 <div class="content-wrapper">
                     <div class="title">
-                        <h1>PASLANMAZ ÇELİK BOY KESME</h1>
+                        <h1>PASLANMAZ ÇELİK <br> BOY KESME</h1>
                     </div>
                     <ul class="bread-crumb">
                         <li><a href="{{route('index')}}">ANA SAYFA</a></li>
@@ -33,7 +33,7 @@
             <div class="row">
               @include('page.hizmetler.sidebar')
                 <div class="col-lg-8">
-                    <h2>PASLANMAZ ÇELİK BOY KESME</h2>
+                    <h2>PASLANMAZ ÇELİK <br> BOY KESME</h2>
                     <div class="image mb-40"><img src="{{asset('assets/images/resource/PASLANMAZ ÇELİK BOY KESME.jpeg')}}" alt="PASLANMAZ ÇELİK BOY KESME"></div>
 
                     <div class="text">Paslanmaz çelik boy kesme, paslanmaz çelik malzemelerin belirli boyutlarda kesilmesi

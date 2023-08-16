@@ -2,10 +2,11 @@
     <aside class="col-lg-12 sidebar service-sidebar">
         <div class="widget category-widget-two">
             <ul class="widget cat-list">
-                <li class="{{request()->is("hizmet/paslanmaz-celik-boy-kesme") ? "active":""}}" ><a href="{{route('kesme')}}">Paslanmaz Çelİk Boy Kesme</a></li>
+                <li class="{{request()->is("hizmet/paslanmaz-celik-imalati") ? "active":""}}" ><a href="{{route('imalat')}}">Paslanmaz Çelİk İmalatı</a></li>
+                <li class="{{request()->is("hizmet/paslanmaz-celik-boy-kesme") ? "active":""}}" ><a href="{{route('kesme')}}">Paslanmaz Çelİk<br>Boy Kesme</a></li>
                 <li class="{{request()->is("hizmet/paslanmaz-celik-taslama") ? "active":""}}"><a href="{{route('taslama')}}">Paslanmaz Çelİk Taşlama</a></li>
                 <li class="{{request()->is("hizmet/paslanmaz-celik-dilme") ? "active":""}}"><a href="{{route('dilme')}}">Paslanmaz Çelİk Dİlme </a></li>
-                <li  class="{{request()->is("hizmet/paslanmaz-celik-lazer-kesim") ? "active":""}}" ><a href="{{route('lazer')}}">Paslanmaz Çelİk Lazer Kesİm</a></li>
+                <li  class="{{request()->is("hizmet/paslanmaz-celik-lazer-kesim") ? "active":""}}" ><a href="{{route('lazer')}}">Paslanmaz Çelİk<br>Lazer Kesİm</a></li>
 
             </ul>
         </div>
