@@ -96,9 +96,9 @@
 
 
                     <ul class="styled-pagination">
-                        <li class="next"><a href="#"><span class="fa fa-angle-left"></span></a></li>
+                        <li class="next"><a href="{{route('blog',['say'=>$say-1])}}"><span class="fa fa-angle-left"></span></a></li>
                         <li><a href="#" class="active">{{$say}}</a></li>
-                        <li class="prev"><a href="#"><span class="fa fa-angle-right"></span></a></li>
+                        <li class="prev"><a href="{{route('blog',['say'=>$say+1])}}"><span class="fa fa-angle-right"></span></a></li>
                     </ul>
                 </div>
                 <div class="col-lg-4">
