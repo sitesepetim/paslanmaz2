@@ -53,7 +53,7 @@
                                     <li  class="dropdown {{request()->is('kaliteler') || request()->is('kalite*')  ? "current":""}}"><a href="{{route('kaliteler')}}">Kaliteler</a>
 
                                     </li>
-                                    
+
                                     <li  class="dropdown {{request()->is('urunler') ? "current":""}}"><a href="{{route('urunler')}}">Ürünler</a>
                                         <ul>
                                             <li><a href="{{route('urunler')}}">Ürünlerimiz</a></li>
@@ -149,3 +149,4 @@
         <div class="cursor-follower"></div>
     </div>
 </header>
+

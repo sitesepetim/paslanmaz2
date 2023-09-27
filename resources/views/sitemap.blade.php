@@ -11,307 +11,301 @@
     @endforeach
 
         <url>
-            <loc>{{ url() }}</loc>
+            <loc>{{ route('index') }}</loc>
             <lastmod>2023-03-03T12:27:12+00:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
         <url>
-            <loc>{{ url().'/hakkimizda' }}</loc>
+            <loc>{{ route('hakkimizda') }}</loc>
             <lastmod>2023-03-03T12:27:12+00:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
         <url>
-            <loc>{{ url().'/kaliteler' }}</loc>
+            <loc>{{ route('kaliteler') }}</loc>
             <lastmod>2023-03-03T12:27:12+00:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
         <url>
-            <loc>{{ url().'/kaliteler/201-paslanmaz-celik' }}</loc>
+            <loc>{{ route('201')  }}</loc>
             <lastmod>2023-03-03T12:27:12+00:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
         <url>
-            <loc>{{ url().'/kaliteler/202-paslanmaz-celik' }}</loc>
+            <loc>{{ route('202')  }}</loc>
             <lastmod>2023-03-03T12:27:12+00:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
         <url>
-            <loc>{{ url().'/kaliteler/303-paslanmaz-celik' }}</loc>
+            <loc>{{ route('303')  }}</loc>
             <lastmod>2023-03-03T12:27:12+00:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
         <url>
-            <loc>{{ url().'/kaliteler/304-paslanmaz-celik' }}</loc>
+            <loc>{{ route('304')  }}</loc>
             <lastmod>2023-03-03T12:27:12+00:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
         <url>
-            <loc>{{ url().'/kaliteler/304-ddq-paslanmaz-celik' }}</loc>
+            <loc>{{ route('304-dd') }}</loc>
             <lastmod>2023-03-03T12:27:12+00:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
         <url>
-            <loc>{{ url().'/kaliteler/304-l-paslanmaz-celik' }}</loc>
+            <loc>{{ route('304-l') }}</loc>
             <lastmod>2023-03-03T12:27:12+00:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
         <url>
-            <loc>{{ url().'309-paslanmaz-celik' }}</loc>
+            <loc>{{ route('309') }}</loc>
             <lastmod>2023-03-03T12:27:12+00:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
         <url>
-            <loc>{{ url().'309-s-paslanmaz-celik' }}</loc>
+            <loc>{{  route('309-s') }}</loc>
             <lastmod>2023-03-03T12:27:12+00:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
         <url>
-            <loc>{{ url().'310-s-paslanmaz-celik' }}</loc>
+            <loc>{{  route('310-s') }}</loc>
             <lastmod>2023-03-03T12:27:12+00:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
         <url>
-            <loc>{{ url().'316-paslanmaz-celik' }}</loc>
+            <loc>{{  route('316') }}</loc>
             <lastmod>2023-03-03T12:27:12+00:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
         <url>
-            <loc>{{ url().'316-l-paslanmaz-celik' }}</loc>
+            <loc>{{  route('316-l') }}</loc>
             <lastmod>2023-03-03T12:27:12+00:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
         <url>
-            <loc>{{ url().'/kaliteler/316-ti-paslanmaz-celik' }}</loc>
+            <loc>{{  route('316-ti') }}</loc>
             <lastmod>2023-03-03T12:27:12+00:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
         <url>
-            <loc>{{ url().'/kaliteler/321-paslanmaz-celik' }}</loc>
+            <loc>{{  route('321') }}</loc>
             <lastmod>2023-03-03T12:27:12+00:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
         <url>
-            <loc>{{ url().'/kaliteler/409-paslanmaz-celik' }}</loc>
+            <loc>{{  route('409') }}</loc>
             <lastmod>2023-03-03T12:27:12+00:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
         <url>
-            <loc>{{ url().'/kaliteler/420-paslanmaz-celik' }}</loc>
+            <loc>{{  route('420') }}</loc>
             <lastmod>2023-03-03T12:27:12+00:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
         <url>
-            <loc>{{ url().'/kaliteler/430-paslanmaz-celik' }}</loc>
+            <loc>{{  route('430') }}</loc>
             <lastmod>2023-03-03T12:27:12+00:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
         <url>
-            <loc>{{ url().'/kaliteler/431-paslanmaz-celik' }}</loc>
+            <loc>{{  route('431') }}</loc>
             <lastmod>2023-03-03T12:27:12+00:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
         <url>
-            <loc>{{ url().'/kaliteler/439-paslanmaz-celik' }}</loc>
+            <loc>{{  route('439') }}</loc>
             <lastmod>2023-03-03T12:27:12+00:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
         <url>
-            <loc>{{ url().'/kaliteler/440-m-paslanmaz-celik' }}</loc>
+            <loc>{{route('440-m') }}</loc>
             <lastmod>2023-03-03T12:27:12+00:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
         <url>
-            <loc>{{ url().'/kaliteler/4418-paslanmaz-celik' }}</loc>
+            <loc>{{ route('4418') }}</loc>
             <lastmod>2023-03-03T12:27:12+00:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
         <url>
-            <loc>{{ url().'/kaliteler/630-paslanmaz-celik' }}</loc>
+            <loc>{{ route('630') }}</loc>
             <lastmod>2023-03-03T12:27:12+00:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
         <url>
-            <loc>{{ url().'/kaliteler/ostenitik-paslanmaz-celik' }}</loc>
+            <loc>{{ route('oztentitik') }}</loc>
             <lastmod>2023-03-03T12:27:12+00:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
          <url>
-            <loc>{{ url().'/kaliteler/martensitik-paslanmaz-celik' }}</loc>
+            <loc>{{ route('martensitik')  }}</loc>
             <lastmod>2023-03-03T12:27:12+00:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
          <url>
-            <loc>{{ url().'/kaliteler/ferritik-paslanmaz-celik' }}</loc>
+            <loc>{{ route('ferritik') }}</loc>
             <lastmod>2023-03-03T12:27:12+00:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
          <url>
-            <loc>{{ url().'/kaliteler/14507-paslanmaz-celik' }}</loc>
+            <loc>{{ route('14507')}}</loc>
             <lastmod>2023-03-03T12:27:12+00:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
          <url>
-            <loc>{{ url().'/urunler }}</loc>
+            <loc>{{ route('urunler')  }}</loc>
             <lastmod>2023-03-03T12:27:12+00:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
          <url>
-            <loc>{{ url().'/urunler }}</loc>
-            <lastmod>2023-03-03T12:27:12+00:00</lastmod>
-            <changefreq>weekly</changefreq>
-            <priority>0.8</priority>
-        </url>
-         <url>
-            <loc>{{ url().'/urunler/paslanmaz-celik }}</loc>
+            <loc>{{ route('paslanmaz_celik')}}</loc>
             <lastmod>2023-03-03T12:27:12+00:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
           <url>
-            <loc>{{ url().'/urunler/paslanmaz-mil-cubuk }}</loc>
+            <loc>{{ route('paslanmaz-mil-cubuk') }}</loc>
             <lastmod>2023-03-03T12:27:12+00:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
           <url>
-            <loc>{{ url().'/urunler/paslanmaz-kare-profil }}</loc>
+            <loc>{{ route('paslanmaz-kare') }}</loc>
             <lastmod>2023-03-03T12:27:12+00:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
           <url>
-            <loc>{{ url().'/urunler/paslanmaz-tel }}</loc>
+            <loc>{{ route('paslanmaz-kosebent') }}</loc>
             <lastmod>2023-03-03T12:27:12+00:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
           <url>
-            <loc>{{ url().'/urunler/paslanmaz-lama }}</loc>
+            <loc>{{ route('paslanmaz-kupeste') }}</loc>
             <lastmod>2023-03-03T12:27:12+00:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
           <url>
-            <loc>{{ url().'/urunler/paslanmaz-fitting }}</loc>
+            <loc>{{ route('paslanmaz-lama') }}</loc>
             <lastmod>2023-03-03T12:27:12+00:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
           <url>
-            <loc>{{ url().'/urunler/paslanmaz-kupeste }}</loc>
+            <loc>{{ route('paslanmaz-profil') }}</loc>
             <lastmod>2023-03-03T12:27:12+00:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
           <url>
-            <loc>{{ url().'/urunler/paslanmaz-kosebent }}</loc>
+            <loc>{{ route('paslanmaz-rulo') }}</loc>
             <lastmod>2023-03-03T12:27:12+00:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
           <url>
-            <loc>{{ url().'/urunler/paslanmaz-profil }}</loc>
+            <loc>{{ route('paslanmaz-sac') }}</loc>
             <lastmod>2023-03-03T12:27:12+00:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
           <url>
-            <loc>{{ url().'/urunler/paslanmaz-boru }}</loc>
+            <loc>{{ route('paslanmaz-serit') }}</loc>
             <lastmod>2023-03-03T12:27:12+00:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
           <url>
-            <loc>{{ url().'/urunler/paslanmaz-sac }}</loc>
+            <loc>{{ route('paslanmaz-tel') }}</loc>
             <lastmod>2023-03-03T12:27:12+00:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
           <url>
-            <loc>{{ url().'/urunler/paslanmaz-rulo }}</loc>
+            <loc>{{ route('paslanmaz-boru') }}</loc>
             <lastmod>2023-03-03T12:27:12+00:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
           <url>
-            <loc>{{ url().'/urunler/paslanmaz-serit }}</loc>
+            <loc>{{ route('paslanmaz-fitting') }}</loc>
             <lastmod>2023-03-03T12:27:12+00:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
           <url>
-            <loc>{{ url().'/urunler/paslanmaz-cekme-boru }}</loc>
+            <loc>{{ route('paslanmaz-cekme') }}</loc>
             <lastmod>2023-03-03T12:27:12+00:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
           <url>
-            <loc>{{ url().'/desenler }}</loc>
+            <loc>{{ url().'/desenler' }}</loc>
             <lastmod>2023-03-03T12:27:12+00:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
           <url>
-            <loc>{{ url().'/endustriyel-desenler }}</loc>
+            <loc>{{ url().'/endustriyel-desenler' }}</loc>
             <lastmod>2023-03-03T12:27:12+00:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
           <url>
-            <loc>{{ url().'/baklava-desen }}</loc>
+            <loc>{{ url().'/baklava-desen' }}</loc>
             <lastmod>2023-03-03T12:27:12+00:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
           <url>
-            <loc>{{ url().'/gozyasi-desen }}</loc>
+            <loc>{{ url().'/gozyasi-desen' }}</loc>
             <lastmod>2023-03-03T12:27:12+00:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
           <url>
-            <loc>{{ url().'/ceta-desen }}</loc>
+            <loc>{{ url().'/ceta-desen' }}</loc>
             <lastmod>2023-03-03T12:27:12+00:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
           <url>
-            <loc>{{ url().'/satine-desen }}</loc>
+            <loc>{{ url().'/satine-desen' }}</loc>
             <lastmod>2023-03-03T12:27:12+00:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
           <url>
-            <loc>{{ url().'/nokta-desen }}</loc>
+            <loc>{{ url().'/nokta-desen' }}</loc>
             <lastmod>2023-03-03T12:27:12+00:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
@@ -323,7 +317,7 @@
             <priority>0.8</priority>
         </url>
           <url>
-            <loc>{{ url() }}hizmetlerimiz</loc>
+            <loc>{{ url().'/hizmetlerimiz' }}</loc>
             <lastmod>2023-03-03T12:27:12+00:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
