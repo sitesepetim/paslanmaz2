@@ -126,17 +126,7 @@
                                 <div class="text"><a href="blog-detail.html">Örnek Metin </a></div>
                             </article>
 
-                            <article class="post">
-                                <figure class="post-thumb"><a href="blog-detail.html"><img src="assets/images/resource/news-14.jpg" alt=""></a></figure>
-                                <div class="comment">02 Yorum</div>
-                                <div class="text"><a href="blog-detail.html">Örnek Metin</a></div>
-                            </article>
 
-                            <article class="post">
-                                <figure class="post-thumb"><a href="blog-detail.html"><img src="assets/images/resource/news-15.jpg" alt=""></a></figure>
-                                <div class="comment">02 Yorum</div>
-                                <div class="text"><a href="blog-detail.html">Örnek Metin</a></div>
-                            </article>
 
                         </div>
 
@@ -144,12 +134,9 @@
                         <div class="widget category-widget">
                             <h4 class="widget_title">Kategoriler</h4>
                             <ul class="cat-list">
-                                <li><a href="#">Paslanmaz Çelik</a></li>
-                                <li><a href="#">Paslanmaz Profil</a></li>
-                                <li><a href="#">Paslanmaz Boru</a></li>
-                                <li><a href="#">Paslanmaz Sac</a></li>
-                                <li><a href="#">Paslanmaz Rulo</a></li>
-                                <li><a href="#">Paslanmaz Şerit</a></li>
+                                @foreach(\App\Models\categories::all() as$key=> $value)
+                                    <li><a href="#">{{$value['name']}}</a></li>
+                                @endforeach
                             </ul>
                         </div>
 
@@ -157,11 +144,9 @@
                         <div class="widget tag-widget">
                             <h4 class="widget_title">Etiketler</h4>
                             <div class="tag-outer">
-                                <a href="#">Çelik</a>
-                                <a href="#">Profil</a>
-                                <a href="#">Boru</a>
-                                <a href="#">Sac</a>
-                                <a href="#">Rulo</a>
+                                @foreach(\App\Models\tags::all() as$key=> $value)
+                                    <li><a href="#">{{$value['name']}}</a></li>
+                                @endforeach
                             </div>
                         </div>
                     </aside>
