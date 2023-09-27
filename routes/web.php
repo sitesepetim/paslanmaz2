@@ -71,6 +71,13 @@ Route::get('/blog', function () {
     return view('page.blog');
 })->name('blog');
 
+Route::get('/blog/{slug}', function ($slug) {
+
+    $data = \App\Models\blogs::where('slug',$slug)->first();
+
+    return view('page.blog_detail',['data'=>$data]);
+})->name('blog_detail');
+
 Route::get('/urunler', function () {
     return view('page.urunler');
 })->name('urunler');

@@ -82,12 +82,12 @@
                     <div class="news-block-three">
                         <div class="inner-box">
                             <div class="image">
-                                <a href="{{route('blog',$value['slug'])}}"><img src="{{asset('public/'.$value['image_path'])}}" alt=""></a>
+                                <a href="{{route('blog_detail',$value['slug'])}}"><img src="{{asset('public/'.$value['image_path'])}}" alt=""></a>
                                 <div class="date">{{$value['created_at']}}</div>
                             </div>
                             <div class="content">
                                 <div class="post-meta"> <a href="#"><i class="far fa-user-circle"></i> Huzey Metal</a></div>
-                                <h4><a href="{{route('blog',$value['slug'])}}">{{$value['title']}}</a></h4>
+                                <h4><a href="{{route('blog_detail',$value['slug'])}}">{{$value['title']}}</a></h4>
                                 <div class="text">{{$value['meta_desc']}}</div>
                             </div>
                         </div>
