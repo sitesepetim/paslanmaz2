@@ -96,9 +96,13 @@
 
 
                     <ul class="styled-pagination">
-                        <li class="next"><a href="{{route('blog',['say'=>$say-1])}}"><span class="fa fa-angle-left"></span></a></li>
+                        @if ($say * 10 < count(\App\Models\blogs::all())) <!-- $toplam_blog_sayisi, toplam blog sayısıdır -->
+                        <li class="next"><a href="{{ route('blog', ['say' => $say - 1]) }}"><span class="fa fa-angle-left"></span></a></li>
+                        @endif
                         <li><a href="#" class="active">{{$say}}</a></li>
-                        <li class="prev"><a href="{{route('blog',['say'=>$say+1])}}"><span class="fa fa-angle-right"></span></a></li>
+                            @if (($say + 1) * 10 <=  count(\App\Models\blogs::all()))
+                                <li class="prev"><a href="{{ route('blog', ['say' => $say + 1]) }}"><span class="fa fa-angle-right"></span></a></li>
+                            @endif
                     </ul>
                 </div>
                 <div class="col-lg-4">
