@@ -53,6 +53,7 @@
                                     <li  class="dropdown {{request()->is('kaliteler') || request()->is('kalite*')  ? "current":""}}"><a href="{{route('kaliteler')}}">Kaliteler</a>
 
                                     </li>
+                                    
                                     <li  class="dropdown {{request()->is('urunler') ? "current":""}}"><a href="{{route('urunler')}}">Ürünler</a>
                                         <ul>
                                             <li><a href="{{route('urunler')}}">Ürünlerimiz</a></li>
@@ -80,7 +81,7 @@
                                     </li>
                                     <li class="dropdown {{request()->is('agirlik-hesaplama') ? "current":""}}"><a href="{{route('fiyat_hesaplamaa')}}">Ağırlık Hesaplama</a></li>
                                     <li class="dropdown {{request()->is('fiyat-listesi') ? "current":""}}"><a href="{{route('fiyat_listesi')}}">Fiyat Listesi</a></li>
-                                    <li hidden class="dropdown {{request()->is('blog') ? "current":""}}"><a href="{{route('blog')}}">Blog</a>
+                                    <li  class="dropdown {{request()->is('blog') ? "current":""}}"><a href="{{route('blog')}}">Blog</a>
 
                                     </li>
                                     <li  class="{{request()->is('iletisim') ? "current":""}}"><a href="{{route('iletisim')}}">İLETİŞİM</a></li>
