@@ -157,6 +157,7 @@ class Blogcontroller extends Controller
 
         $all = $request->except('_token');
 
+        dd($all);
       unset(  $all['avatar_remove']);
         $bytes = random_bytes(25);
         $byt=bin2hex($bytes);
