@@ -97,9 +97,7 @@
 
                     <ul class="styled-pagination">
                         <li class="next"><a href="#"><span class="fa fa-angle-left"></span></a></li>
-                        <li><a href="#" class="active">01</a></li>
-                        <li><a href="#">02</a></li>
-                        <li><a href="#">03</a></li>
+                        <li><a href="#" class="active">{{$say}}</a></li>
                         <li class="prev"><a href="#"><span class="fa fa-angle-right"></span></a></li>
                     </ul>
                 </div>

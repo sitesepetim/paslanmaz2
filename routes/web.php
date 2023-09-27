@@ -67,10 +67,6 @@ Route::get('/kaliteler', function () {
     return view('page.kalite');
 })->name('kaliteler');
 
-Route::get('/blog', function () {
-    return view('page.blog');
-})->name('blog');
-
 Route::get('/blogs/{slug}', function ($slug) {
 
     $data = \App\Models\blogs::where('slug',$slug)->first();
@@ -453,7 +449,7 @@ Route::get('/blog/{say?}', function ($say=1) {
         return view('page.blog',['data'=>$data]);
     }else{
         $data = \App\Models\blogs::take(10)->offset(($say - 1) * 10)->get();
-        return view('page.blog',['data'=>$data]);
+        return view('page.blog',['data'=>$data,'say'=>$say]);
     }
 
 })->name('blog');
