@@ -77,7 +77,7 @@
         <div class="auto-container">
             <div class="row">
                 <div class="col-lg-8">
-                    @foreach(\App\Models\blogs::all() as $key=> $value)
+                    @foreach($data as $key=> $value)
 
                     <div class="news-block-three">
                         <div class="inner-box">
