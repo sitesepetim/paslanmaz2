@@ -82,7 +82,7 @@
                     <div class="news-block-three">
                         <div class="inner-box">
                             <div class="image">
-                                <a href="{{route('blog',$value['slug'])}}"><img src="{{asset($value['image_path'])}}" alt=""></a>
+                                <a href="{{route('blog',$value['slug'])}}"><img src="{{asset('public/'.$value['image_path'])}}" alt=""></a>
                                 <div class="date">{{$value['created_at']}}</div>
                             </div>
                             <div class="content">
