@@ -202,31 +202,7 @@
                                             </ul>
                                             -->
                                         </li>
-                                        <li class="dropdown {{request()->is('hizmetlerimiz') ? "current":""}} {{request()->is('kasko*') ? "current":""}} {{request()->is('trafik*') ? "current":""}} {{request()->is('yatim*') ? "current":""}}
-                                        {{request()->is('konut*') ? "current":""}}   {{request()->is('zorunlu*') ? "current":""}}  {{request()->is('ailem*') ? "current":""}} {{request()->is('saglik*') ? "current":""}} {{request()->is('yurt-disi*') ? "current":""}}
-                                        {{request()->is('isyerim*') ? "current":""}}  {{request()->is('otel*') ? "current":""}}  {{request()->is('akaryakit*') ? "current":""}}  {{request()->is('eczanen*') ? "current":""}}  {{request()->is('muhendislik*') ? "current":""}}
-                                        {{request()->is('sorumluluk*') ? "current":""}}   {{request()->is('tarim*') ? "current":""}} ">
-                                            <a href="{{route('hizmetlerimiz')}}">Hizmetlerimiz </a>
-                                            <ul>
-                                                <li ><a href="{{route('kasko')}}">Kasko Sigortaları</a></li>
-                                                <li><a href="{{route('trafik')}}">Trafik Sigortaları</a></li>
-                                                <li><a href="{{route('yatim')}}">Yatım Paket Sigortası</a></li>
-                                                <li><a href="{{route('konut')}}">Konut Sigortaları</a></li>
-                                                <li><a href="{{route('deprem')}}">Zorunlu Deprem Sigortası</a>
-                                                </li>
-                                                <li><a href="{{route('ailem')}}">Ailem Sigortası</a></li>
-                                                <li><a href="{{route('saglik')}}">Sağlık Sigortaları</a></li>
-                                                <li><a href="{{route('yurt.disi')}}">Yurt Dışı Seyahat Sağlık Sigortası</a></li>
-                                                <li><a href="{{route('isyerim')}}">İşyerim Paket Sigortası</a></li>
-                                                <li><a href="{{route('tatil')}}">Otel ve Tatil Köyü Paket Sigortası</a></li>
-                                                <li><a href="{{route('akaryakit')}}">Akaryakıt İstasyonu Paket Sigortası</a></li>
-                                                <li><a href="{{route('eczane')}}">Eczanem Paket Sigortası</a></li>
-                                                <li><a href="{{route('muhendis')}}">Mühendislik Sigortaları</a></li>
-                                                <li><a href="{{route('sorumluluk')}}">Sorumluluk Sigortaları</a></li>
-                                                <li><a href="{{route('nakliyat')}}">Nakliyat Sigortası</a></li>
-                                                <li><a href="{{route('tarim')}}">Tarım Sigortaları</a></li>
-                                            </ul>
-                                        </li>
+
                                         <li class="dropdown {{request()->is('blog*') ? "current":""}}">
                                             <a href="{{route('blog')}}">Blog</a>
 
