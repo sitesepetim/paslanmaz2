@@ -33,7 +33,7 @@
 
                 <div class="col-lg-12">
                     <h2>{{$data['title']}}</h2>
-{{--                    <div class="image mb-40"><img src="{{asset('assets/images/resource/PASLANMAZ ÇELİK DİLME.jpeg')}}" alt="PASLANMAZ ÇELİK DİLME"></div>--}}
+                    <div class="image mb-40"><img src="{{asset('public/'.$data['image_path'])}}" alt="PASLANMAZ ÇELİK DİLME"></div>
 
                     <div class="text"> {!! html_entity_decode($data['content']) !!}
                     </div>
