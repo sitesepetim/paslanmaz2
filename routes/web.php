@@ -436,6 +436,7 @@ Route::get('/fiyat-listesi/304-kose-fiyat-listesi', function () {
 
 
 
+
 Route::get('/blog/{say?}', function ($say=1) {
     if (str_contains($say,"search")){
         $key= str_replace("search=",'',$say);
@@ -493,7 +494,6 @@ Route::get('etiket/{slug}', function ($slug) {
 
 
 Route::get('/test', function () {
- \App\HelperSystem\genelfnc::api(\App\Models\indexapi::all()[0]['json'],'https://guldentaltourism.com/');
 })->name('muhendis');
 
 

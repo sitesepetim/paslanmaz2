@@ -63,7 +63,7 @@
                         <h1>Blog </h1>
                     </div>
                     <ul class="bread-crumb">
-                        <li><a href="index.html">Ana Sayfa</a></li>
+                        <li><a href="{{route('index')}}">Ana Sayfa</a></li>
                         <li>Blog</li>
                     </ul>
                 </div>
@@ -77,58 +77,24 @@
         <div class="auto-container">
             <div class="row">
                 <div class="col-lg-8">
+                    @foreach(\App\Models\blogs::all() as $key=> $value)
+
                     <div class="news-block-three">
                         <div class="inner-box">
                             <div class="image">
-                                <a href="blog-details.html"><img src="assets/images/resource/news-9.jpg" alt=""></a>
-                                <div class="date">06  Ocak, 2023</div>
+                                <a href="{{route('blog',$value['slug'])}}"><img src="{{asset($value['image_path'])}}" alt=""></a>
+                                <div class="date">{{$value['created_at']}}</div>
                             </div>
                             <div class="content">
-                                <div class="post-meta"> <a href="#"><i class="far fa-user-circle"></i> Huzey Metal</a> <a href="#"><i class="far fa-comments"></i> 2 Yorum </a></div>
-                                <h4><a href="blog-details.html">Paslanmaz ÇELİK NEDİR?</a></h4>
-                                <div class="text">Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin </div>
+                                <div class="post-meta"> <a href="#"><i class="far fa-user-circle"></i> Huzey Metal</a></div>
+                                <h4><a href="{{route('blog',$value['slug'])}}">{{$value['title']}}</a></h4>
+                                <div class="text">{{$value['meta_desc']}}</div>
                             </div>
                         </div>
                     </div>
-                    <div class="news-block-three">
-                        <div class="inner-box">
-                            <div class="image">
-                                <a href="blog-details.html"><img src="assets/images/resource/news-10.jpg" alt=""></a>
-                                <div class="date">06  Ocak, 2023</div>
-                            </div>
-                            <div class="content">
-                                <div class="post-meta"> <a href="#"><i class="far fa-user-circle"></i> Huzey Metal</a> <a href="#"><i class="far fa-comments"></i> 2 Yorum </a></div>
-                                <h4><a href="blog-details.html">When the welding output is on</a></h4>
-                                <div class="text">Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin</div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="news-block-three">
-                        <div class="inner-box">
-                            <div class="image">
-                                <a href="blog-details.html"><img src="assets/images/resource/news-11.jpg" alt=""></a>
-                                <div class="date">06  Ocak, 2023</div>
-                            </div>
-                            <div class="content">
-                                <div class="post-meta"> <a href="#"><i class="far fa-user-circle"></i> Huzey Metal</a> <a href="#"><i class="far fa-comments"></i> 2 Yorum </a></div>
-                                <h4><a href="blog-details.html">Paslanmaz ÇELİK NEDİR?</a></h4>
-                                <div class="text">Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin</div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="news-block-three">
-                        <div class="inner-box">
-                            <div class="image">
-                                <a href="blog-details.html"><img src="assets/images/resource/news-12.jpg" alt=""></a>
-                                <div class="date">06  Ocak, 2023</div>
-                            </div>
-                            <div class="content">
-                                <div class="post-meta"> <a href="#"><i class="far fa-user-circle"></i> Admin</a> <a href="#"><i class="far fa-comments"></i> 2 Comments </a></div>
-                                <h4><a href="blog-details.html">Paslanmaz ÇELİK NEDİR?</a></h4>
-                                <div class="text">Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin</div>
-                            </div>
-                        </div>
-                    </div>
+                    @endforeach
+
+
                     <ul class="styled-pagination">
                         <li class="next"><a href="#"><span class="fa fa-angle-left"></span></a></li>
                         <li><a href="#" class="active">01</a></li>
