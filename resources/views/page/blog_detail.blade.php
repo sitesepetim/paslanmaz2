@@ -1,140 +1,76 @@
-<!DOCTYPE html>
-<html lang="tr">
+@extends('page.hizmetler.layouts')
 
-<!-- Mirrored from html.tonatheme.com/2022/welbim/projects.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 05 Jan 2023 08:21:35 GMT -->
-<head>
-    <meta charset="utf-8">
-    <title>Desenlerimiz | Huzey Metal</title>
-    <!-- Stylesheets -->
-    <link href="{{asset('assets/css/bootstrap.css')}}" rel="stylesheet">
-    <link href="{{asset('assets/css/style.css')}}" rel="stylesheet">
-    <!-- Responsive File -->
-    <link href="{{asset('assets/css/responsive.css')}}" rel="stylesheet">
-    <!-- Color File -->
-    <link href="{{asset('assets/css/color.css')}}" rel="stylesheet">
+@section('title')
+    Paslanmaz Çelik Dilme |  Huzey Metal
+@endsection
 
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800;900&amp;display=swap" rel="stylesheet">
+@section('desc')
+    Paslanmaz Çelik Dilme: Paslanmaz çeliklerinizi Huzey Metal'de dilimleyerek, ihtiyacınız olan boyutlarda temin edebilirsiniz.@endsection
 
-    <link rel="shortcut icon" href="{{asset('assets/images/favicon.png')}}" type="image/x-icon">
-    <link rel="icon" href="{{asset('assets/images/favicon.png')}}" type="image/x-icon">
+@section('content')
 
-    <!-- Responsive -->
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-    <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
-    <!--[if lt IE 9]><script src="{{asset('js/respond.js')}}"></script><![endif]-->
-</head>
-
-<body>
-
-<div class="page-wrapper">
-    <!-- Preloader -->
-
-
-    <!-- Main Header -->
-   @include('layouts.header')
-    <!-- End Main Header -->
-
-
-    <!--Search Popup-->
-    <div id="search-popup" class="search-popup">
-        <div class="close-search theme-btn"><span class="flaticon-remove"></span></div>
-        <div class="popup-inner">
-            <div class="overlay-layer"></div>
-            <div class="search-form">
-                <form method="post" action="https://html.tonatheme.com/2022/welbim/index.html">
-                    <div class="form-group">
-                        <fieldset>
-                            <input type="search" class="form-control" name="search-input" value="" placeholder="Search Here" required >
-                            <input type="submit" value="Search Now!" class="theme-btn">
-                        </fieldset>
-                    </div>
-                </form>
-            </div>
-        </div>
-    </div>
-
-    <!-- Page Title -->
-    <section class="page-title" style="background-image: url(assets/images/background/SAYFALAR-SLİDER.jpeg);">
+    <section class="page-title" style="background-image: url({{asset('assets/images/background/bg-9.jpg')}});">
         <div class="auto-container">
             <div class="content-box">
                 <div class="content-wrapper">
                     <div class="title">
-                        <h1>ürünler</h1>
+                        <h1>PASLANMAZ ÇELİK DİLME</h1>
                     </div>
                     <ul class="bread-crumb">
-                        <li><a href="{{route('index')}}">ana sayfa</a></li>
-                        <li>DESENLERİMİZ</li>
+                        <li><a href="{{route('index')}}">ANA SAYFA</a></li>
+                        <li><a href="{{route('hizmetlerimiz')}}">HİZMETLERİMİZ</a></li>
+                        <li>PASLANMAZ ÇELİK DİLME</li>
                     </ul>
                 </div>
             </div>
         </div>
     </section>
 
-    <!-- Projects section -->
-    <section class="projects-section style-two">
+    <!-- Project details -->
+    <section class="project-details">
         <div class="auto-container">
             <div class="row">
-                <div class="col-lg-6 col-md-6 project-block">
-                    <div class="inner-box">
-                        <div class="image"><img src="assets/images/resource/4N%20SAT%C4%B0NE%20TA%C5%9ELI%20Y%C3%9CZEY-min.jpeg" alt=""></div>
-                        <h4><a href="{{route('dekor_desenler')}}">Dekoratif Desenler</a></h4>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-md-6 project-block">
-                    <div class="inner-box">
-                        <div class="image"><img src="assets/images/resource/G%C3%96ZYA%C5%9EI%20DESEN-min.jpeg" alt=""></div>
-                        <h4><a href="{{route('endus_desenler')}}">Endüstriyel Desenler</a></h4>
-                    </div>
-                </div>
+                @include('page.hizmetler.sidebar')
+                <div class="col-lg-8">
+                    <h2>PASLANMAZ ÇELİK DİLME</h2>
+                    <div class="image mb-40"><img src="{{asset('assets/images/resource/PASLANMAZ ÇELİK DİLME.jpeg')}}" alt="PASLANMAZ ÇELİK DİLME"></div>
 
+                    <div class="text">PPaslanmaz çelik dilme hattı, rulo halinde olan sacı açarak belli bir düzende sıralanmış dairesel
+                        hale dönüşen bıçaklar arasından geçirerek normal genişliğinden daha küçük kalıplar haline getirilmesini sağlar.
+                        Dilme hattında kesimi yapılacak saca en yüksek toleransta ısı verilerek istenilen ölçünün sağlanması gereklidir.
+                        Dilme hattı içinde istenilen genişlikte ve kalınlıktaki sac üretimi yapabilmek için ısı toleransının yüksek performansı
+                        yakalayabilmesi gerekmektedir.
+                        <br>
+                        <br>
+                        Bir dilme hattı 0,3–10 mm aralığında rulolar ile saca kısa ve kolayca bir şekil verme özelliği mümkün olabilmektedir.
+                        Sac ısıl işleme alınırken şekli ve boyutları istenilen ölçülerde olmalıdır. Dilme hattında yüksek performans sağlanması
+                        profesyonel bir ekip işidir. Dilme hattının başlıca özellikleri arasında sacı istenen forma sokacak uygun ısıl işlem süreleri
+                        yer almaktadır.
+                        <br>
+                        <br>
+                        Huzey Metal Firması bünyesindeki rulo sac dilme makinelerimiz ile rulo sac dilme işlemi yüksek standartlarda yapılabilmektedir.
+                        İhtiyaca göre değişen genişliklerde uzunlamasına kesim işlemi gerçekleştikten sonra ortaya çıkan hurda çapakları
+                        küçük parçacıklara ayırabilen sistemlerimiz mevcuttur. Rulo sac dilme makinelerimizde oluşabilecek arızalar erken uyarı
+                        sistemleri ile kontrol altına alınmaktadır. Rulo sac dilme makinelerimiz manyetik kayıpları minimuma indirerek verimi arttırmaktadır.
+                        Böylelikle gereksiz enerji tüketimin önüne geçilerek, mümkün olduğu ölçüde tasarruf edilmesi, sağlanmaktadır.
+                    </div>
+                    <h3>KULLANIM ALANLARI</h3>
+                    <div class="text">Paslanmaz ürünler rulo, kare, levha, köşebent olarak farklı ölçülerde, özelliklerde kesildikten sonra kullanım
+                        amacına göre dilimlenerek farklı sektörlerde kullanılmaktadır. Paslanmaz dilme rulo da en çok ulaştırma sektörü, savunma, inşaat
+                        sanayi, silah ve savunma sanayi gibi daha birçok alanda tercih edilmektedir. Paslanmaz ürünlerin temizlenmesi, parlaklaştırma ya
+                        da matlaştırma aşamalarında da polisaj malzemeleri kullanılmaktadır.</div>
+                    <div class="text">Huzey Metal 0,20mm ile 6,00m kalınlıklar arasındaki paslanmaz çelik rulolar müşterilerin talep ettiği ölçüye göre dilinebilmektedir.
+
+                        Dilme işlemi, uluslararası standartlara uygun en düşük toleranslarda ve yüksek dilme kalitesinde gerçekleştirilmektedir.
+
+                        Rulo ve Şerit çapları ve ağırlıkları müşteri isteğine göre ayarlanmakta ve her zaman olduğu gibi müşteri talebine uygun olarak paketlenip ambalajlanmaktadır.
+
+                        Dilme işlemi sırasında Şerit ve Rulolar müşteri talebine uygun olarak Koruyucu PE veya kağıt ile kaplanmaktadır. Oluşturacağınız siparişler için hemen bizimle iletişime geçebilirsiniz.
+                    </div>
+
+                </div>
             </div>
         </div>
     </section>
 
-
-  @include('layouts.footer1')
-  @include('layouts.footer2')
-
-</div>
-<!--End pagewrapper-->
-
-<!--Scroll to top-->
-<div class="scroll-to-top scroll-to-target" data-target="html"><span class="flaticon-right-arrow-4"></span></div>
-
-<script src="{{asset('assets/js/jquery.js')}}"></script>
-<script src="{{asset('assets/js/popper.min.js')}}"></script>
-<script src="{{asset('assets/js/bootstrap.min.js')}}"></script>
-<script src="{{asset('assets/js/bootstrap-select.min.js')}}"></script>
-<script src="{{asset('assets/js/jquery.fancybox.js')}}"></script>
-<script src="{{asset('assets/js/isotope.js')}}"></script>
-<script src="{{asset('assets/js/owl.js')}}"></script>
-<script src="{{asset('assets/js/appear.js')}}"></script>
-<script src="{{asset('assets/js/wow.js')}}"></script>
-<script src="{{asset('assets/js/lazyload.js')}}"></script>
-<script src="{{asset('assets/js/scrollbar.js')}}"></script>
-<script src="{{asset('assets/js/TweenMax.min.js')}}"></script>
-<script src="{{asset('assets/js/swiper.min.js')}}"></script>
-<script src="{{asset('assets/js/jquery.polyglot.language.switcher.js')}}"></script>
-<script src="{{asset('assets/js/jquery.ajaxchimp.min.js')}}"></script>
-<script src="{{asset('assets/js/parallax-scroll.js')}}"></script>
-<script src="{{asset('assets/js/script.js')}}"></script>
-
-
-</body>
-
-<!-- Mirrored from html.tonatheme.com/2022/welbim/projects.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 05 Jan 2023 08:21:36 GMT -->
-</html>
-
-
-
-
-
-
-
-
-
-
-
-
-
+@endsection
