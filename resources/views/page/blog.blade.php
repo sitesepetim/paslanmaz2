@@ -1,11 +1,11 @@
 @extends('page.hizmetler.layouts')
 
 @section('title')
-    {{$data['title']}} |  Huzey Metal
+    BLOG |  Huzey Metal
 @endsection
 
 @section('desc')
-    {{$data['meta_desc']}}@endsection
+    Blog Yazılarımız@endsection
 
 @section('content')
     <!--Search Popup-->
@@ -129,7 +129,7 @@
             </div>
         </div>
     </div>
-    
+
 @endsection
 
 
