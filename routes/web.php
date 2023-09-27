@@ -430,58 +430,59 @@ Route::get('/fiyat-listesi/304-kose-fiyat-listesi', function () {
 
 
 
-//
-//Route::get('/blog/{say?}', function ($say=1) {
-//    if (str_contains($say,"search")){
-//        $key= str_replace("search=",'',$say);
-//
-//
-//        $data = \App\Models\blogs::where('title', 'like', '%' . $key . '%')->take(10)->offset((2 - 1) * 15)->get();
-//        return view('page.blog',['data'=>$data]);
-//    }else{
-//        $data = \App\Models\blogs::take(10)->offset(($say - 1) * 10)->get();
-//        return view('page.blog',['data'=>$data]);
-//    }
-//
-//})->name('blog');
-//
-//
-//Route::get('kategori/{slug}', function ($slug) {
-//
-//
-//    if ( \App\Models\categories::where('slug','=',$slug)->count()>0){
-//
-//    $dat = \App\Models\categories::where('slug','=',$slug)->get()[0]['id'];
-//
-//
-//
-//    $data = \App\Models\blogs::where('categories','=',$dat)->paginate(35);
-//
-//    }else{
-//        $data=[];
-//    }
-//
-//    return view('page.blog',['data'=>$data]);
-//})->name('blog2');
-//Route::get('etiket/{slug}', function ($slug) {
-//
-//
-//    if ( \App\Models\tags::where('slug','=',$slug)->count()>0){
-//
-//    $dat = \App\Models\tags::where('slug','=',$slug)->get()[0]['id'];
-//
-//
-//
-//
-//    $data = \App\Models\blogs::where('tags','like','%'.$dat.'%')->paginate(35);
-//
-//    }else{
-//        $data=[];
-//    }
-//
-//    return view('page.blog',['data'=>$data]);
-//})->name('blog3');
-//
+
+Route::get('/blog/{say?}', function ($say=1) {
+    if (str_contains($say,"search")){
+        $key= str_replace("search=",'',$say);
+
+
+        $data = \App\Models\blogs::where('title', 'like', '%' . $key . '%')->take(10)->offset((2 - 1) * 15)->get();
+        return view('page.blog',['data'=>$data]);
+    }else{
+        $data = \App\Models\blogs::take(10)->offset(($say - 1) * 10)->get();
+        return view('page.blog',['data'=>$data]);
+    }
+
+})->name('blog');
+
+
+
+Route::get('kategori/{slug}', function ($slug) {
+
+
+    if ( \App\Models\categories::where('slug','=',$slug)->count()>0){
+
+    $dat = \App\Models\categories::where('slug','=',$slug)->get()[0]['id'];
+
+
+
+    $data = \App\Models\blogs::where('categories','=',$dat)->paginate(35);
+
+    }else{
+        $data=[];
+    }
+
+    return view('page.blog',['data'=>$data]);
+})->name('blog2');
+Route::get('etiket/{slug}', function ($slug) {
+
+
+    if ( \App\Models\tags::where('slug','=',$slug)->count()>0){
+
+    $dat = \App\Models\tags::where('slug','=',$slug)->get()[0]['id'];
+
+
+
+
+    $data = \App\Models\blogs::where('tags','like','%'.$dat.'%')->paginate(35);
+
+    }else{
+        $data=[];
+    }
+
+    return view('page.blog',['data'=>$data]);
+})->name('blog3');
+
 
 
 

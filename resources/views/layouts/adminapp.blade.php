@@ -13,8 +13,8 @@ License: For each use you must have a valid license purchased only from above li
 <html lang="tr">
 <!--begin::Head-->
 <head><base href="">
-    <title>SİTE SEPETİM OTOMATİK SEO V2</title>
-    <meta name="description" content="SİTE SEPETİM OTOMATİK SEO V2" />
+    <title>Huzey Metal Panel</title>
+    <meta name="description" content="Huzey Metal Panel" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta charset="utf-8" />
     <meta property="og:locale" content="tr_TR" />
@@ -129,7 +129,7 @@ License: For each use you must have a valid license purchased only from above li
 
                             </div>
                         </div>
-                        <div {{\Illuminate\Support\Facades\Auth::user()->role==1 ? "":"hidden"}} data-kt-menu-trigger="click" class="menu-item here show menu-accordion">
+                        <div data-kt-menu-trigger="click" class="menu-item here show menu-accordion">
 									<span class="menu-link  {{request()->is('admin/blog*') ? "active" : "" || request()->is('admin/kategori') ? "active" : "" || request()->is('admin/etiket') ? "active" : "" || request()->is('admin/spin') ? "active" : "" }}">
 										<span class="menu-icon">
 											<i class="bi bi-person fs-2"></i>
@@ -205,27 +205,6 @@ License: For each use you must have a valid license purchased only from above li
 													<span class="bullet bullet-dot"></span>
 												</span>
                                         <span class="menu-title">İndex Linkleri</span>
-                                    </a>
-                                </div>
-
-                            </div>
-                        </div>
-                        <div {{\Illuminate\Support\Facades\Auth::user()->role==1 ? "":"hidden"}} data-kt-menu-trigger="click" class="menu-item here show menu-accordion">
-									<span class="menu-link {{request()->is('admin/teksms') ? "active" : ""}}">
-										<span class="menu-icon">
-											<i class="bi bi-person fs-2"></i>
-										</span>
-										<span class="menu-title">Sms Gönder</span>
-										<span class="menu-arrow"></span>
-									</span>
-                            <div class="menu-sub menu-sub-accordion menu-active-bg">
-
-                                <div class="menu-item">
-                                    <a class="menu-link {{request()->is('admin/teksms') ? "btn-secondary" : ""}}" href="{{route('smstek')}}">
-												<span class="menu-bullet">
-													<span class="bullet bullet-dot"></span>
-												</span>
-                                        <span class="menu-title">Özel Sms Gönder</span>
                                     </a>
                                 </div>
 
