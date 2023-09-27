@@ -147,15 +147,7 @@ License: For each use you must have a valid license purchased only from above li
                                     </a>
                                 </div>
                                 <div class="menu-item">
-                                    <a class="menu-link  {{request()->is('admin/blog/ai/ekle') ? "btn-secondary" : ""}}" href="{{route('admin.blog.ai')}}">
-												<span class="menu-bullet">
-													<span class="bullet bullet-dot"></span>
-												</span>
-                                        <span class="menu-title">Yapay Zeka Blog Ekle</span>
-                                    </a>
-                                </div>
-                                <div class="menu-item">
-                                    <a class="menu-link {{request()->is('admin/blog') ? "btn-secondary" : ""}}" href="{{route('admin.blog.ai')}}">
+                                    <a class="menu-link {{request()->is('admin/blog') ? "btn-secondary" : ""}}" href="{{route('admin.blog')}}">
 												<span class="menu-bullet">
 													<span class="bullet bullet-dot"></span>
 												</span>
