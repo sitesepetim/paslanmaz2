@@ -70,6 +70,7 @@
                                     </li>
                                     <li  class="dropdown {{request()->is('hizmet*') ? "current":""}}"><a href="{{route('hizmetlerimiz')}}">Hizmetlerimiz</a>
                                         <ul>
+                                            <li><a href="{{route('imalat')}}">Paslanmaz Çelik İmalatı</a></li>
                                             <li><a href="{{route('kesme')}}">Paslanmaz Çelik Boy Kesme</a></li>
                                             <li><a href="{{route('taslama')}}">Paslanmaz Çelik Taşlama</a></li>
                                             <li><a href="{{route('dilme')}}">Paslanmaz Çelik Dilme</a></li>

@@ -40,6 +40,11 @@ Route::get('/hizmetlerimiz', function () {
 })->name('hizmetlerimiz');
 
 
+Route::get('/hizmet/paslanmaz-celik-imalati', function () {
+    return view('page.hizmetler.paslanmaz-celik-imalati');
+})->name('imalat');
+
+
 Route::get('/hizmet/paslanmaz-celik-boy-kesme', function () {
     return view('page.hizmetler.paslanmaz-celik-boy-kesme');
 })->name('kesme');

@@ -15,7 +15,7 @@
             <div class="content-box">
                 <div class="content-wrapper">
                     <div class="title">
-                        <h1>PASLANMAZ ÇELİK LAZER KESİM</h1>
+                        <h1>PASLANMAZ ÇELİK <br>LAZER KESİM</h1>
                     </div>
                     <ul class="bread-crumb">
                         <li><a href="{{route('index')}}">ANA SAYFA</a></li>
@@ -33,7 +33,7 @@
             <div class="row">
               @include('page.hizmetler.sidebar')
                 <div class="col-lg-8">
-                    <h2>PASLANMAZ ÇELİK LAZER KESİM</h2>
+                    <h2>PASLANMAZ ÇELİK <br>LAZER KESİM</h2>
                     <div class="image mb-40"><img src="{{asset('assets/images/resource/PASLANMAZ ÇELİK LAZER KESİM.jpeg')}}" alt="PASLANMAZ ÇELİK LAZER KESİM"></div>
 
                     <div class="text">Paslanmaz çeliği diğer maddelerden ayırt edici özelliği yüksek korozyon dayanımıdır. Paslanmaz çelik gibi kesimi
