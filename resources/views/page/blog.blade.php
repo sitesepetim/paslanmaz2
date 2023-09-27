@@ -1,4 +1,4 @@
-@extends('page.hizmetler.layouts')
+@extends('layouts.app')
 
 @section('title')
     BLOG |  Huzey Metal
@@ -9,7 +9,7 @@
 
 @section('content')
     <!--Search Popup-->
-    <div id="search-popup" class="search-popup">
+    <div hidden="" id="search-popup" class="search-popup">
         <div class="close-search theme-btn"><span class="flaticon-remove"></span></div>
         <div class="popup-inner">
             <div class="overlay-layer"></div>
@@ -27,7 +27,7 @@
     </div>
 
     <!-- Page Title -->
-    <section class="page-title" style="background-image: url(assets/images/resource/HUZEY-METAL-BLOG-SLİDER.jpeg);">
+    <section class="page-title" style="background-image: url({{asset('assets/images/resource/HUZEY-METAL-BLOG-SLİDER.jpeg')}});">
         <div class="auto-container">
             <div class="content-box">
                 <div class="content-wrapper">
