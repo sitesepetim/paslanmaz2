@@ -71,7 +71,7 @@ Route::get('/blog', function () {
     return view('page.blog');
 })->name('blog');
 
-Route::get('/blog/{slug}', function ($slug) {
+Route::get('/blogs/{slug}', function ($slug) {
 
     $data = \App\Models\blogs::where('slug',$slug)->first();
 
