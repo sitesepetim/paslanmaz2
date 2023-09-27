@@ -120,7 +120,7 @@
                         <div class="widget news-widget-two">
                             <h4 class="widget_title">Önceki Yazılarımız</h4>
 
-                            @foreach(\App\Models\blogs::all()->limit(3)->orderBy('id','desc')->get() as $key=> $value)
+                            @foreach(\App\Models\blogs::orderBy('id', 'desc')->limit(3)->get() as $key=> $value)
 
                             <article class="post">
                                 <figure class="post-thumb"><a href="{{route('blog_detail',['slug'=>$value['title']])}}"><img src="{{asset('public/'.$value['image_path'])}}" alt=""></a></figure>
