@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from html.tonatheme.com/2022/welbim/project-details.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 05 Jan 2023 08:21:36 GMT -->
 <head>
     <meta charset="utf-8">
     <title>@yield('title')</title>
@@ -21,21 +20,31 @@
     <!-- Responsive -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-    <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
-    <!--[if lt IE 9]><script src="{{asset('js/respond.js')}}"></script><![endif]-->
+    @include('layouts.head')
 </head>
 
 <body>
+@include('layouts.body')
+
 
 <div class="page-wrapper">
-    <div class="loader-wrap">
-        <div class="preloader"><div class="preloader-close">Preloader Close</div></div>
-        <div class="layer layer-one"><span class="overlay"></span></div>
-        <div class="layer layer-two"><span class="overlay"></span></div>
-        <div class="layer layer-three"><span class="overlay"></span></div>
-    </div>
+
+
+    <script>
+
+        $(document).ready(function (){
+
+            var element = document.getElementById('loader-wrap');
+            element.remove();
+
+        });
+
+    </script>
+
+
 
  @include('layouts.header')
+
 
 
     <!--Search Popup-->

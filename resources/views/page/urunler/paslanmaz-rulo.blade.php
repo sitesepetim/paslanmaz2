@@ -34,7 +34,7 @@
             @include('page.urunler.sidebar')
                 <div class="col-lg-8">
                     <h2>PASLANMAZ RULO</h2>
-                    <div class="image mb-40"><img src="{{asset('assets/images/resource/PASLANMAZ RULO.jpeg')}}" alt="PASLANMAZ RULO"></div>
+                    <div class="image mb-40"><img src="{{asset('assets/images/resource/PASLANMAZ RULO.jpg')}}" alt="PASLANMAZ RULO"></div>
 
                     <div class="text">Hızlı ve kolay bir şekilde montajı sağlanan paslanmaz rulo, estetik ve ekonomik çözümler sunmaktadır.
                         Dayanıklı ve kütlesinin hafif olmasından dolayı yüksek oranda dayanım sağlamaktadır.  İnşaat işleri maliyetlerinin önemli

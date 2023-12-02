@@ -35,7 +35,7 @@
             @include('page.urunler.sidebar')
                 <div class="col-lg-8">
                     <h2>PASLANMAZ SAC</h2>
-                    <div class="image mb-40"><img src="{{asset('assets/images/resource/PASLANMAZ SAC.jpeg')}}" alt="PASLANMAZ SAC"></div>
+                    <div class="image mb-40"><img src="{{asset('assets/images/resource/PASLANMAZ-SAC.jpg')}}" alt="PASLANMAZ SAC"></div>
 
                     <div class="text">Parlak görüntüye sahip olmasıyla bilinen, uzun ömürlü bir kullanım imkânı sunan, paslanmaz sac, birçok farklı
                         sektörde yoğun olarak kullanılan  dekoratif olarak da tercih edilen ürünler arasındadır. İlk üretim aşamasında mat bir yüzey

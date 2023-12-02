@@ -23,9 +23,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
     <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
     <!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
+    @include('layouts.head')
+
 </head>
 
 <body>
+@include('layouts.body')
 
 <div class="page-wrapper">
     <!-- Preloader -->
@@ -77,7 +80,7 @@
             <div class="row">
                 <div class="col-lg-8">
                     <div class="contact-map mb-30">
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d55945.16225505631!2d-73.90847969206546!3d40.66490264739892!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew%20York%2C%20NY%2C%20USA!5e0!3m2!1sen!2sbd!4v1601263396347!5m2!1sen!2sbd" width="600" height="750" frameborder="0" style="border:0; max-width: 750px; width: 100%" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3015.8083495533133!2d29.2576052772427!3d40.89801872620493!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cadb6b4ce3f0db%3A0x3c46765278463377!2sVelibaba%2C%20Mimar%20Sinan%20Cd.%20No%3A1%2C%2034896%20Pendik%2F%C4%B0stanbul!5e0!3m2!1str!2str!4v1701256153299!5m2!1str!2str" width="600" height="750" style="border:0; max-width: 750px; width: 100%" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                     </div>
                 </div>
                 <div class="col-lg-4">
@@ -130,7 +133,7 @@
                 <div class="sub-title">Bize Yazabilirsiniz</div>
                 <h2>e posta gönder</h2>
             </div>
-            <!--Contact Form-->
+
             <div class="contact-form">
                 <form method="post" action="https://html.tonatheme.com/2022/welbim/inc/sendemail.php" id="contact-form">
                     <div class="row row-20">
@@ -162,7 +165,7 @@
                     </div>
                 </form>
             </div>
-            <!--End Contact Form-->
+            
         </div>
     </section>
 

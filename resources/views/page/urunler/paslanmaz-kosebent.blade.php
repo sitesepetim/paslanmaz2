@@ -34,7 +34,7 @@
             @include('page.urunler.sidebar')
                 <div class="col-lg-8">
                     <h2>PASLANMAZ KÖŞEBENT</h2>
-                    <div class="image mb-40"><img src="{{asset('assets/images/resource/PASLANMAZ KÖŞEBENT.jpeg')}}" alt="PASLANMAZ KÖŞEBENT"></div>
+                    <div class="image mb-40"><img src="{{asset('assets/images/resource/PASLANMAZ KÖŞEBENT.jpg')}}" alt="PASLANMAZ KÖŞEBENT"></div>
 
                     <div class="text">Farklı sektörlerde kullanım alanına sahip paslanmaz köşebent içi dolu paslanmaz çeliğin 90 derece bükülmesiyle
                         şekillendirilir. Üretim süreci paslanmaz lamalara benzemektedir. Öncelikle hurda çelikler eritilerek lama haline getirilmekte

@@ -34,7 +34,7 @@
             @include('page.urunler.sidebar')
                 <div class="col-lg-8">
                     <h2>PASLANMAZ LAMA</h2>
-                    <div class="image mb-40"><img src="{{asset('assets/images/resource/PASLANMAZ LAMA.jpeg')}}" alt="PASLANMAZ LAMA"></div>
+                    <div class="image mb-40"><img src="{{asset('assets/images/resource/PASLANMAZ LAMA.jpg')}}" alt="PASLANMAZ LAMA"></div>
 
                     <div class="text">Paslanmaz lama piyasa adıyla silme malzeme, olarak bilinen. Paslanmaz çelik ürünlerindendir.
                         Paslanmaz lama/silme, İçi boş metal çabuk çürüyeceği ve paslanacağı için çok farklı alanlarda kullanılabilen

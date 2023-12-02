@@ -36,7 +36,7 @@
              @include('page.urunler.sidebar')
                 <div class="col-lg-8">
                     <h2>PASLANMAZ ÇEKME BORU</h2>
-                    <div class="image mb-40"><img src="{{asset('assets/images/resource/PASLANMAZ-ÇEKME-BORU.jpg')}}" alt="PASLANMAZ-ÇEKME-BORU "></div>
+                    <div class="image mb-40"><img src="{{asset('assets/images/resource/PASLANMAZ-MİL.jpg')}}" alt="PASLANMAZ-ÇEKME-BORU "></div>
 
                     <div class="text">Paslanmaz çekme boru, paslanmaz çelik malzemesinden üretilen bir tür boru türüdür. Bu borular,
                         korozyona dayanıklılık, güçlülük ve hijyenik özellikleri nedeniyle birçok endüstriyel, inşaat ve gıda sektöründe kullanılır.</div>

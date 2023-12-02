@@ -23,9 +23,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
     <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
     <!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
+
+    @include('layouts.head')
+
 </head>
 
 <body>
+@include('layouts.body')
 
 <div class="page-wrapper">
     <!-- Preloader -->
@@ -83,13 +87,13 @@
                 </div>
                 <div class="col-lg-6 col-md-6 project-block">
                     <div class="inner-box">
-                        <div class="image"><img src="assets/images/resource/nokta-desen.jpg" alt=""></div>
+                        <div class="image"><img src="{{asset('public/huzey-metal-nokta-desen.jpg')}}" alt=""></div>
                         <h4><a href="{{route('nokta_desen')}}">Nokta Desen</a></h4>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6 project-block">
                     <div class="inner-box">
-                        <div class="image"><img src="assets/images/resource/KARE-DESEN.jpeg" alt=""></div>
+                        <div class="image"><img src="{{asset('assets/images/resource/nokta-desen.jpg')}}" alt=""></div>
                         <h4><a href="{{route('kare_desen')}}">Kare Desen</a></h4>
                     </div>
                 </div>
@@ -97,6 +101,18 @@
                     <div class="inner-box">
                         <div class="image"><img src="assets/images/resource/deri-desen.png" alt=""></div>
                         <h4><a href="{{route('deri_desen')}}">Deri Desen</a></h4>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6 project-block">
+                    <div class="inner-box">
+                        <div class="image"><img src="{{asset('public/huzey-metal-dekoratif-celik-desenler.jpg')}}" alt=""></div>
+                        <h4><a href="">Dekoratif Desen</a></h4>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6 project-block">
+                    <div class="inner-box">
+                        <div class="image"><img src="{{asset('public/huzey-metal-dekoratif-celik-desenler-1.jpg')}}" alt=""></div>
+                        <h4><a href="">Dekoratif Desen</a></h4>
                     </div>
                 </div>
 

@@ -35,7 +35,7 @@
                 @include('page.desenler.sidebar')
                 <div class="col-lg-8">
                     <h2>KARE DESEN</h2>
-                    <div class="image mb-40"><img src="{{asset('assets/images/resource/KARE-DESEN.jpeg')}}" alt=""KARE-DESEN></div>
+                    <div class="image mb-40"><img src="{{asset('assets/images/resource/nokta-desen.jpg')}}" alt="KARE-DESEN"></div>
 
                     <div class="text">Paslanmaz çelik, kare desenli olarak tasarlandığında, birçok dekoratif alanda kullanılabilir.
                         Bunlar arasında asansör kabinleri, banyo ve mutfak dolapları, kapılar ve mobilyalar bulunur. Paslanmaz çelik,

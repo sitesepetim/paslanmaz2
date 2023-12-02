@@ -36,7 +36,7 @@
             @include('page.urunler.sidebar')
                 <div class="col-lg-8">
                     <h2>PASLANMAZ ŞERİT</h2>
-                    <div class="image mb-40"><img src="{{asset('assets/images/resource/PASLANMAZ-ŞERİT.jpeg')}}" alt="PASLANMAZ-ŞERİT"></div>
+                    <div class="image mb-40"><img src="{{asset('assets/images/resource/PASLANMAZ-ŞERİT.jpg')}}" alt="PASLANMAZ-ŞERİT"></div>
                     <div class="text">Paslanmaz şerit, korozyona dayanıklı ve güçlü bir malzeme olan paslanmaz çelikten üretilir.
                         Bu şeritler genellikle inşaat, endüstriyel ve gıda sektörlerinde kullanılır.</div>
                     <h3>PASLANMAZ ŞERİTLERİN ÖZELLİKLERİ</h3>

@@ -34,7 +34,7 @@
               @include('page.urunler.sidebar')
                 <div class="col-lg-8">
                     <h2>PASLANMAZ KARE PROFİL</h2>
-                    <div class="image mb-40"><img src="{{asset('assets/images/resource/PASLANMAZ KARE PROFİL.jpeg')}}" alt="PASLANMAZ KARE PROFİL"></div>
+                    <div class="image mb-40"><img src="{{asset('assets/images/resource/PASLANMAZ KARE PROFİL.jpg')}}" alt="PASLANMAZ KARE PROFİL"></div>
 
 
                     <h5><strong>Üretimdeki Kare Profiller ve Teorik Birim Ağırlıkları(Kg/Mt)</strong></h5>

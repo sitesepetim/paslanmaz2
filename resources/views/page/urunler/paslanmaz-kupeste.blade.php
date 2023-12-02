@@ -34,7 +34,7 @@
             @include('page.urunler.sidebar')
                 <div class="col-lg-8">
                     <h2>PASLANMAZ KÜPEŞTE</h2>
-                    <div class="image mb-40"><img src="{{asset('assets/images/resource/PASLANMAZ KÜPEŞTE.jpeg')}}" alt="PASLANMAZ KÜPEŞTE"></div>
+                    <div class="image mb-40"><img src="{{asset('assets/images/resource/PASLANMAZ KÜPEŞTE.jpg')}}" alt="PASLANMAZ KÜPEŞTE"></div>
 
                     <div class="text">Paslanmaz küpeşte balkon, teras merdiven, korkuluk teraslarda paslanmaz çelik ve benzeri malzemelerden yapılan elemanlar
                         genellikle  korkuluk  olarak adlandırılmaktadır. Cazip ve avantajlı çözümleri parlak görüntüsü ile küpeşte modelleri yaşam

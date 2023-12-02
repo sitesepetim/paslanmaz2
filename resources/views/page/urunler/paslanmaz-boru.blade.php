@@ -38,7 +38,7 @@
              @include('page.urunler.sidebar')
                 <div class="col-lg-8">
                     <h2>PASLANMAZ BORU</h2>
-                    <div class="image mb-40"><img src="{{asset('assets/images/resource/PASLANMAZ BORU.jpeg')}}" alt="PASLANMAZ BORU"></div>
+                    <div class="image mb-40"><img src="{{asset('assets/images/resource/PASLANMAZ-BORU.jpg)}}" alt="PASLANMAZ BORU"></div>
                     <div class="text">İmalat aşamasında paslanmaz çelik kullanılan paslanmaz borular, tek bir standarda göre üretilmediğinden
                         farklı özellikler taşımaktadır. Dayanıklılığı yüksek olan paslanmaz borular süreklilik ve yüksek korozyon direncine
                         sahiptir ve uzun ömürlüdürler. Yüksek sıcaklığa, tuzlu su ve kuvvetli asitler gibi tahriş edici sıvı etkilere gazlara

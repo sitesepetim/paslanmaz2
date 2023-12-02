@@ -23,9 +23,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
     <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
     <!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
+
+    @include('layouts.head')
+
 </head>
 
 <body>
+
+@include('layouts.body')
+
 
 <div class="page-wrapper">
     <!-- Preloader -->
@@ -386,57 +392,6 @@
     </section>
 
 
-    <!-- News section two -->
-    <section class="news-section-two">
-        <div class="sec-bg" style="background-image: url(assets/images/background/bg-7.jpg);"></div>
-        <div class="auto-container">
-            <div class="sec-title light text-center">
-                <div class="sub-title">HUZEY METAL</div>
-                <h2>BLOG </h2>
-            </div>
-            <div class="row">
-                <div class="col-lg-4 news-block-two">
-                    <div class="inner-box wow fadeInUp" data-wow-duration="1500ms">
-                        <div class="image">
-                            <a href="blog-details.html"><img src="assets/images/resource/news-6.jpg" alt=""></a>
-                            <div class="date">20 OCAK, 2023</div>
-                        </div>
-                        <div class="content">
-                            <div class="post-meta"> <a href="#"><i class="far fa-user-circle"></i> Admin</a> <a href="#"><i class="far fa-comments"></i> 2 Yorum </a></div>
-                            <h4><a href="blog-details.html">201 PASLANMAZ ÇELİK ÖZELLİKLERİ</a></h4>
-                            <div class="text">Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin.</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 news-block-two">
-                    <div class="inner-box wow fadeInDown" data-wow-duration="1500ms">
-                        <div class="image">
-                            <a href="blog-details.html"><img src="assets/images/resource/news-7.jpg" alt=""></a>
-                            <div class="date">20 OCAK, 2023</div>
-                        </div>
-                        <div class="content">
-                            <div class="post-meta"> <a href="#"><i class="far fa-user-circle"></i> Admin</a> <a href="#"><i class="far fa-comments"></i> 2 Yorum </a></div>
-                            <h4><a href="blog-details.html">202 PASLANMAZ ÇELİK ÖZELLİKLERİ</a></h4>
-                            <div class="text">Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metin.</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 news-block-two">
-                    <div class="inner-box wow fadeInUp" data-wow-duration="1500ms">
-                        <div class="image">
-                            <a href="blog-details.html"><img src="assets/images/resource/news-8.jpg" alt=""></a>
-                            <div class="date">20 OCAK, 2023</div>
-                        </div>
-                        <div class="content">
-                            <div class="post-meta"> <a href="#"><i class="far fa-user-circle"></i> Admin</a> <a href="#"><i class="far fa-comments"></i> 2 Yorum </a></div>
-                            <h4><a href="blog-details.html">303 (1.4305) PASLANMAZ ÇELİK ÖZELLİKLERİ</a></h4>
-                            <div class="text">Örnek Metin Örnek Metin Örnek Metin Örnek Metin Örnek Metinn .</div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
 
     <!-- Clients Logo Section -->
     <section class="clients-logo-section">

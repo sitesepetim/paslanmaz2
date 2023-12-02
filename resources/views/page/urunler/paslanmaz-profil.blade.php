@@ -34,7 +34,7 @@
             @include('page.urunler.sidebar')
                 <div class="col-lg-8">
                     <h2>PASLANMAZ PROFİL</h2>
-                    <div class="image mb-40"><img src="{{asset('assets/images/resource/PASLANMAZ PROFİL.png')}}" alt="PASLANMAZ PROFİL"></div>
+                    <div class="image mb-40"><img src="{{asset('assets/images/resource/PASLANMAZ PROFİL.jpg')}}" alt="PASLANMAZ PROFİL"></div>
 
                     <div class="text">Paslanmaz profil paslanmaz özelliğe sahip çelikler için kullanılan bir isimdir. İçerisinde çelik ve krom amalgamları
                         bulunduran bu profiller birçok sektör tarafından kullanılmaktadır. Çeliğin en çok kullanıldığı birinci sektör yapı ve inşaat, sektörüdür.

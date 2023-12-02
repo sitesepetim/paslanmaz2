@@ -34,7 +34,7 @@
              @include('page.urunler.sidebar')
                 <div class="col-lg-8">
                     <h2>PASLANMAZ MİL (ÇUBUK)</h2>
-                    <div class="image mb-40"><img src="{{asset('assets/images/resource/PASLANMAZ MİL.jpeg')}}" alt="PASLANMAZ MİL"></div>
+                    <div class="image mb-40"><img src="{{asset('assets/images/resource/PASLANMAZ MİL.jpg')}}" alt="PASLANMAZ MİL"></div>
 
                     <div class="text">Paslanmaz Mil Çubuk metal sanayi sektörünün en önemli ürünlerinden biridir. Parça üretimi için çok sayıda
                         alanda karşımıza çıkmaktadır. Günlük hayatın pek çok alanında kullanılan paslanmaz çubuklar kolay işlenir. Paslanmaz çubuk

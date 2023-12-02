@@ -35,7 +35,7 @@
                 @include('page.desenler.sidebar')
                 <div class="col-lg-8">
                     <h2>DERİ DESEN</h2>
-                    <div class="image mb-40"><img src="{{asset('assets/images/resource/deri-desen.png')}}" alt="deri-desen"></div>
+                    <div class="image mb-40"><img src="{{asset('assets/images/resource/deri-desen.jpg')}}" alt="deri-desen"></div>
 
                     <div class="text">Paslanmaz çelik deri deseni, asansör kabinleri ve diğer dekoratif alanlar gibi birçok farklı alanda kullanılır.
                         Bu desen, yüksek kaliteli paslanmaz çelik malzemelerin kullanılmasıyla üretilir ve çok dayanıklıdır.

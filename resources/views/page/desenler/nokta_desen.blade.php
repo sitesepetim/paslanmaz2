@@ -35,7 +35,7 @@
                 @include('page.desenler.sidebar')
                 <div class="col-lg-8">
                     <h2>NOKTA DESEN</h2>
-                    <div class="image mb-40"><img src="{{asset('assets/images/resource/nokta-desen.jpg')}}" alt="nokta-desen"></div>
+                    <div class="image mb-40"><img src="{{asset('public/huzey-metal-nokta-desen.jpg')}}" alt="nokta-desen"></div>
 
                     <div class="text">Paslanmaz çelik, dayanıklılık, uzun ömürlülük ve estetik görünüm sunan bir malzeme olarak,
                         asansör kabinleri ve diğer dekoratif alanlar için sıklıkla tercih edilmektedir. Bu malzemenin en popüler

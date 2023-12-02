@@ -33,7 +33,7 @@
               @include('page.urunler.sidebar')
                 <div class="col-lg-8">
                     <h2>PASLANMAZ ÇELİK</h2>
-                    <div class="image mb-40"><img src="{{asset('assets/images/resource/PASLANMAZ ÇELİK.jpg')}}" alt="PASLANMAZ ÇELİK"></div>
+                    <div class="image mb-40"><img src="{{asset('assets/images/resource/PASLANMAZ-ÇELİK.jpg')}}" alt="PASLANMAZ ÇELİK"></div>
 
                     <div class="text">Paslanmaz çelik; demir ve karbon alaşımı olmasına karsın, bileşiminde karbondan başka minimal
                         %10,5 krom elementi içermektedir.  Krom elementi  çeliği paslanmaya karşı koruyan temel bileşendir. Paslanmaz

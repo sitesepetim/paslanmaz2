@@ -34,7 +34,7 @@
             @include('page.urunler.sidebar')
                 <div class="col-lg-8">
                     <h2>PASLANMAZ TEL</h2>
-                    <div class="image mb-40"><img src="{{asset('assets/images/resource/PASLANMAZ TEL.jpeg')}}" alt="PASLANMAZ TEL"></div>
+                    <div class="image mb-40"><img src="{{asset('assets/images/resource/PASLANMAZ-TEL.jpg')}}" alt="PASLANMAZ TEL"></div>
 
                     <div class="text">Krom nikel paslanmaz teller genelde kangal halinde sarılmış şekilde imal edilerek satışa sunulmaktadır.
                         Endüstriyel fırınlarda yüksek ısı gerektiren koşullarda konveyör sistemlerinde  yüksek ısı olsun veya olmasın fark etmez.

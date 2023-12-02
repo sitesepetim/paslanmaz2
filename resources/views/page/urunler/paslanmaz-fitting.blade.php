@@ -35,7 +35,7 @@
       @include('page.urunler.sidebar')
                 <div class="col-lg-8">
                     <h2>PASLANMAZ FİTTİNGS</h2>
-                    <div class="image mb-40"><img src="{{asset('assets/images/resource/PASLANMAZ FİTTİNGS.jpeg')}}" alt="PASLANMAZ FİTTİNGS"></div>
+                    <div class="image mb-40"><img src="{{asset('assets/images/resource/PASLANMAZ FİTTİNGS.jpg')}}" alt="PASLANMAZ FİTTİNGS"></div>
 
                     <div class="text">Paslanmaz fittings bir başka anlatımla paslanmaz boru bağlantı elamanı olarak adlandırılan fittingsler
                         kullanıldıkları boru hatlarının en önemli bileşenleri arasında yer almaktadır. Boruları birbirine bağlamak, dönüş yapmak
